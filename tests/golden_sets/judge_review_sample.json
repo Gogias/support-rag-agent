@@ -1,0 +1,605 @@
+[
+  {
+    "id": "gs-043",
+    "query": "Как переоформить номер на другого человека?",
+    "chunk_id": "mts_mobilnaya_svyaz/oformlenie-novoi-sim-karti__skolko-sim-kart-mozhet-bit-oformleno-na-odnogo-cheloveka::0003",
+    "judge_grade": 3,
+    "human_grade": 3
+  },
+  {
+    "id": "gs-053",
+    "query": "поменял телефон и симка не видит сеть, в старом всё работало",
+    "chunk_id": "mts_marketolog/rassilki-po-svoei-baze-pro-i-api-k-nim__dokumentatsiya-rest-api::0081",
+    "judge_grade": 0,
+    "human_grade": 0
+  },
+  {
+    "id": "gs-014",
+    "query": "Боюсь больших счетов в поездке — как ограничить расходы на связь?",
+    "chunk_id": "mts_rouming_i_mezhgorod/poezdki-po-miru__internet-v-rouminge::0004",
+    "judge_grade": 2,
+    "human_grade": 3
+  },
+  {
+    "id": "gs-012",
+    "query": "За границей не ловит сеть — какие настройки включить заранее?",
+    "chunk_id": "mts_rouming_i_mezhgorod/poezdki-po-miru__chto-delat-esli-za-granitsei-ne-rabotaet-svyaz-ili-internet::0003",
+    "judge_grade": 3
+  },
+  {
+    "id": "gs-005",
+    "query": "Почему за интернет списали отдельно, если он вроде входит в тариф?",
+    "chunk_id": "lk_mts_business/upravlenie-rashodami-limitami-i-korporativnim-byudzhetom__kak-upravlyat-korporativnim-byudzhetom::0004",
+    "judge_grade": 0
+  },
+  {
+    "id": "gs-014",
+    "query": "Боюсь больших счетов в поездке — как ограничить расходы на связь?",
+    "chunk_id": "mts_rouming_i_mezhgorod/poezdki-po-miru__zvonki-v-rouminge::0003",
+    "judge_grade": 1
+  },
+  {
+    "id": "gs-008",
+    "query": "Не могу найти, где отключить автопродление интернета — подскажите путь",
+    "chunk_id": "mobilnaya-svyaz-b2b/prodlenie-interneta-dlya-korporativnih-klientov__avtoprodlenie-interneta-na-korporativnih-tarifah::0002",
+    "judge_grade": 3
+  },
+  {
+    "id": "gs-039",
+    "query": "Хочу пожаловаться на качество связи в моём районе — как это правильно сделать?",
+    "chunk_id": "zaschita_ot_spama_i_moshennikov/zaschita-ot-spama-i-moshennichestva__kak-pozhalovatsya-na-spam-i-nomera-moshennikov::0000",
+    "judge_grade": 0
+  },
+  {
+    "id": "gs-024",
+    "query": "Что входит в подписку помимо связи и стоит ли она своих денег?",
+    "chunk_id": "kion/podpiski-v-kion__skolko-stoit-podpiska-kion-top-i-chto-v-neye-vkhodit::0000",
+    "judge_grade": 2
+  },
+  {
+    "id": "gs-040",
+    "query": "Потерял телефон с симкой — как быстро заблокировать номер и восстановить?",
+    "chunk_id": "mts_mobilnaya_svyaz/blokirovka-nomera-problemi-so-svyazyu__pochemu-nomer-zablokirovan::0005",
+    "judge_grade": 1
+  },
+  {
+    "id": "gs-040",
+    "query": "Потерял телефон с симкой — как быстро заблокировать номер и восстановить?",
+    "chunk_id": "mts_mobilnaya_svyaz/esim__chto-delat-esli-poteryalsya-qr-kod-ot-esim-ili-telefon-s-esim::0000",
+    "judge_grade": 3
+  },
+  {
+    "id": "gs-016",
+    "query": "Пропала связь, но перезагрузка телефона не помогает — что ещё можно сделать?",
+    "chunk_id": "mts_mobilnaya_svyaz/blokirovka-nomera-problemi-so-svyazyu__chto-delat-pri-problemah-so-svyazyu::0007",
+    "judge_grade": 2
+  },
+  {
+    "id": "gs-042",
+    "query": "Как подключить eSIM и можно ли перевести на неё обычную симку?",
+    "chunk_id": "mts_mobilnaya_svyaz/esim__kak-aktivirovat-esim::0000",
+    "judge_grade": 2
+  },
+  {
+    "id": "gs-003",
+    "query": "С баланса каждый день уходит по паре рублей, хотя я в минусе — это нормально?",
+    "chunk_id": "karti/balans-karti__pochemu-balans-karti-mts-banka-v-minuse-::0005",
+    "judge_grade": 0
+  },
+  {
+    "id": "gs-048",
+    "query": "Какой USSD-командой проверить баланс?",
+    "chunk_id": "mts_mobilnaya_svyaz/balans-i-spisaniya__chto-delat-esli-balans-ne-pokazivaetsya-v-prilozhenii-moi-mts::0000",
+    "judge_grade": 3
+  },
+  {
+    "id": "gs-037",
+    "query": "Сколько ждать ответа, если я отправил заявку через приложение?",
+    "chunk_id": "karti/oformlenie-perevipusk-i-zakritie-karti__kak-oformit-debetovuyu-kartu_::0001",
+    "judge_grade": 0
+  },
+  {
+    "id": "gs-038",
+    "query": "Заказал симку с доставкой, а курьер не пришёл — куда обращаться?",
+    "chunk_id": "mts_mts_internet_magazin/oformlenie-status-i-poluchenie-zakaza__resheniye-problem-s-zakazom::0001",
+    "judge_grade": 3
+  },
+  {
+    "id": "gs-046",
+    "query": "Как оформить номер для ребёнка и запретить на нём платные подписки?",
+    "chunk_id": "mts_mobilnaya_svyaz/oformlenie-novoi-sim-karti__kak-aktivirovatsim-kartu-samoregistratsii::0003",
+    "judge_grade": 3
+  },
+  {
+    "id": "gs-051",
+    "query": "скока стоит пеедать гиги другу с мтс на мтс",
+    "chunk_id": "mts_goodok/ob-usluge-goodok__skolko-stoit-usluga-goodok::0000",
+    "judge_grade": 0
+  },
+  {
+    "id": "gs-036",
+    "query": "Не дозвониться до поддержки — какие ещё есть способы связаться?",
+    "chunk_id": "mts_domashniy_telefon/kak-ustranit-nepoladki__ne-rabotaet-domashnii-telefon-rf::0000",
+    "judge_grade": 2
+  },
+  {
+    "id": "gs-049",
+    "query": "что за услуга Вам звонили",
+    "chunk_id": "bezopasnost_mts_bank/bezopasnost__zachem-mne-zvonili-iz-mts-banka::0004",
+    "judge_grade": 0
+  },
+  {
+    "id": "gs-009",
+    "query": "Подключал услугу через сайт, а теперь хочу убрать — через приложение можно?",
+    "chunk_id": "kion/o-servise-kion__kak-udalit-svoi-akkaunt-v-prilozhenii-kion::0000",
+    "judge_grade": 1
+  },
+  {
+    "id": "gs-012",
+    "query": "За границей не ловит сеть — какие настройки включить заранее?",
+    "chunk_id": "mts_rouming_i_mezhgorod/svyaz-i-internet-v-populyarnih-stranah__kak-podgotovitsya-k-poezdke-v-belarus::0005",
+    "judge_grade": 3
+  },
+  {
+    "id": "gs-019",
+    "query": "Не могу зайти в приложение — пишет, что номер не привязан",
+    "chunk_id": "mts_marketolog/rassilki-po-svoei-baze-pro-i-api-k-nim__dokumentatsiya-rest-api::0081",
+    "judge_grade": 0
+  },
+  {
+    "id": "gs-020",
+    "query": "Как в приложении скачать детализацию звонков и списаний за прошлый месяц?",
+    "chunk_id": "mts_domashniy_telefon/upravlenie-uslugami__kak-zakazat-detalizatsiyu-ishodyaschih-zvonkov-s-domashnego-telefona::0000",
+    "judge_grade": 3
+  },
+  {
+    "id": "gs-020",
+    "query": "Как в приложении скачать детализацию звонков и списаний за прошлый месяц?",
+    "chunk_id": "mts_mobilnaya_svyaz/balans-i-spisaniya__kak-sdelat-detalizatsiyu-zvonkov::0002",
+    "judge_grade": 3
+  },
+  {
+    "id": "gs-014",
+    "query": "Боюсь больших счетов в поездке — как ограничить расходы на связь?",
+    "chunk_id": "mts_rouming_i_mezhgorod/poezdki-po-miru__zvonki-v-rouminge::0002",
+    "judge_grade": 2
+  },
+  {
+    "id": "gs-045",
+    "query": "Ошибся цифрой и пополнил чужой номер — можно вернуть деньги?",
+    "chunk_id": "mts_fiksirovannaya_svyaz/scheta-i-oplata__chto-delat-esli-oshiblis-pri-oplate-interneta-ili-telefonii-dlya-biznesa::0000",
+    "judge_grade": 0
+  },
+  {
+    "id": "gs-050",
+    "query": "Чем отличается аренда роутера от покупки в рассрочку, если я через полгода переезжаю?",
+    "chunk_id": "domashnii_internet_i_tv/oborudovanie__rassrochka-oborudovaniya-chat::0007",
+    "judge_grade": 1
+  },
+  {
+    "id": "gs-005",
+    "query": "Почему за интернет списали отдельно, если он вроде входит в тариф?",
+    "chunk_id": "mts_mobilnyy_internet/prodlenie-interneta__kak-podklyuchit-internet::0001",
+    "judge_grade": 1
+  },
+  {
+    "id": "gs-010",
+    "query": "Как поменять тариф, чтобы платить меньше, но не потерять нужные опции?",
+    "chunk_id": "mts_mobilnaya_svyaz/tarifi-podpiski-i-uslugi__kak-smenit-tarif::0002",
+    "judge_grade": 2
+  },
+  {
+    "id": "gs-004",
+    "query": "Что будет с номером, если долго сидеть в минусе и не пополнять баланс?",
+    "chunk_id": "karti/balans-karti__pochemu-balans-karti-mts-banka-v-minuse-::0002",
+    "judge_grade": 0
+  },
+  {
+    "id": "gs-052",
+    "query": "премиум отключить как блин уже третий месяц снимают",
+    "chunk_id": "mobilnaya-svyaz-b2b/oplata-korporativnogo-nomera__chto-delat-esli-net-vozmozhnosti-popolnit-balans::0004",
+    "judge_grade": 0
+  },
+  {
+    "id": "gs-050",
+    "query": "Чем отличается аренда роутера от покупки в рассрочку, если я через полгода переезжаю?",
+    "chunk_id": "domashnii_internet_i_tv/balans-scheta-i-oplata__kogda-spisivayutsya-dengi-za-domashnii-internet-i-tv::0000",
+    "judge_grade": 1
+  },
+  {
+    "id": "gs-034",
+    "query": "После переезда пропал интернет, потому что остался старый роутер — что делать?",
+    "chunk_id": "domashnii_internet_i_tv/ne-rabotaet-domashnii-internet__chto-delat-esli-ne-rabotaet-router-chat::0000",
+    "judge_grade": 2
+  },
+  {
+    "id": "gs-045",
+    "query": "Ошибся цифрой и пополнил чужой номер — можно вернуть деньги?",
+    "chunk_id": "mts_mobilnaya_svyaz/popolnenie-schyota__kak-vernut-oshibochnii-platyozh::0000",
+    "judge_grade": 3
+  },
+  {
+    "id": "gs-047",
+    "query": "Замучили спам-звонки, у МТС есть что-то, чтобы их блокировать?",
+    "chunk_id": "zaschita_ot_spama_i_moshennikov/zaschita-ot-spama-i-moshennichestva__kak-zablokirovat-spam-i-nomera-moshennikov::0002",
+    "judge_grade": 3
+  },
+  {
+    "id": "gs-030",
+    "query": "Скорость интернета ниже заявленной — как это проверить и куда жаловаться?",
+    "chunk_id": "mts_mobilnyy_internet/rashod-interneta__kak-proverit-ostatok-internet-trafika::0000",
+    "judge_grade": 1
+  },
+  {
+    "id": "gs-053",
+    "query": "поменял телефон и симка не видит сеть, в старом всё работало",
+    "chunk_id": "mts_mobilnaya_svyaz/esim__kak-perenesti-esim-v-novii-telefon::0004",
+    "judge_grade": 1
+  },
+  {
+    "id": "gs-029",
+    "query": "Телевизор тормозит, каналы не переключаются — это проблема приставки или сети?",
+    "chunk_id": "kion/ispravlenie-sboev-v-rabote-kion__chto-delat-yesli-pristavka-zavisla-ili-postoyanno-perezagruzhayetsya::0000",
+    "judge_grade": 2
+  },
+  {
+    "id": "gs-029",
+    "query": "Телевизор тормозит, каналы не переключаются — это проблема приставки или сети?",
+    "chunk_id": "kion/ispravlenie-sboev-v-rabote-kion__chto-delat-yesli-tv-ili-pristavka-kion-ne-podklyuchayetsya-k-wi-fi::0000",
+    "judge_grade": 1
+  },
+  {
+    "id": "gs-038",
+    "query": "Заказал симку с доставкой, а курьер не пришёл — куда обращаться?",
+    "chunk_id": "karti/oformlenie-perevipusk-i-zakritie-karti__kak-otsledit-dostavku-karti-mts-banka::0005",
+    "judge_grade": 0
+  },
+  {
+    "id": "gs-021",
+    "query": "У меня списывают 399 рублей за какую-то подписку — как её убрать?",
+    "chunk_id": "kion/upravlenie-podpiskoi-i-aktivatsiya-promokoda__kak-otklyuchit-podpisku-kion::0002",
+    "judge_grade": 3
+  },
+  {
+    "id": "gs-024",
+    "query": "Что входит в подписку помимо связи и стоит ли она своих денег?",
+    "chunk_id": "umnii_dom/umnaya-domashnyaya-kamera__oblachnoe-hranenie-7-dnei::0000",
+    "judge_grade": 1
+  },
+  {
+    "id": "gs-017",
+    "query": "Интернет работает, а звонки не проходят — как проверить, в чём дело?",
+    "chunk_id": "mts_mobilnyy_internet/reshenie-problem-s-internetom__chto-delat-yesli-ne-rabotayet-odno-prilozheniye-ili-sayt::0000",
+    "judge_grade": 0
+  },
+  {
+    "id": "gs-001",
+    "query": "У меня каждый месяц списывают деньги, хотя я почти не звоню — почему так?",
+    "chunk_id": "zadolzhennost/zadolzhennost__pochemu-u-menya-obrazovalas-zadolzhennost::0001",
+    "judge_grade": 3
+  },
+  {
+    "id": "gs-016",
+    "query": "Пропала связь, но перезагрузка телефона не помогает — что ещё можно сделать?",
+    "chunk_id": "mts_mobilnyy_internet/razdacha-interneta__chto-delat-yesli-ne-rabotayet-razdacha-interneta-s-telefona::0000",
+    "judge_grade": 1
+  },
+  {
+    "id": "gs-004",
+    "query": "Что будет с номером, если долго сидеть в минусе и не пополнять баланс?",
+    "chunk_id": "lk_mts_business/nomera-i-litsevie-scheta-organizatsii__chto-dostupno-v-kartochke-nomera::0003",
+    "judge_grade": 2
+  },
+  {
+    "id": "gs-048",
+    "query": "Какой USSD-командой проверить баланс?",
+    "chunk_id": "mts_mobilnaya_svyaz/balans-i-spisaniya__kak-proverit-balans::0000",
+    "judge_grade": 3
+  },
+  {
+    "id": "gs-052",
+    "query": "премиум отключить как блин уже третий месяц снимают",
+    "chunk_id": "mts-premium/upravlenie-podpiskoi__kak-otklyuchit-mts-premium::0000",
+    "judge_grade": 3
+  },
+  {
+    "id": "gs-052",
+    "query": "премиум отключить как блин уже третий месяц снимают",
+    "chunk_id": "mts-premium/upravlenie-podpiskoi__kak-otklyuchit-mts-premium::0004",
+    "judge_grade": 2
+  },
+  {
+    "id": "gs-013",
+    "query": "Есть ли бесплатный роуминг и как его активировать?",
+    "chunk_id": "mts_rouming_i_mezhgorod/svyaz-i-internet-v-populyarnih-stranah__kak-podgotovitsya-k-poezdke-v-gruziyu::0001",
+    "judge_grade": 3
+  },
+  {
+    "id": "gs-021",
+    "query": "У меня списывают 399 рублей за какую-то подписку — как её убрать?",
+    "chunk_id": "mts-tenders/podpiska__upravlenie-podpiskami-po-zakupochnim-protseduram::0003",
+    "judge_grade": 0
+  },
+  {
+    "id": "gs-048",
+    "query": "Какой USSD-командой проверить баланс?",
+    "chunk_id": "mts_cashback/obschaya-informatsiya-o-keshbeke__kak-uznat-skolko-u-menya-keshbeka::0001",
+    "judge_grade": 1
+  },
+  {
+    "id": "gs-053",
+    "query": "поменял телефон и симка не видит сеть, в старом всё работало",
+    "chunk_id": "mts_rouming_i_mezhgorod/poezdki-po-miru__chto-delat-esli-za-granitsei-ne-rabotaet-svyaz-ili-internet::0003",
+    "judge_grade": 1
+  },
+  {
+    "id": "gs-014",
+    "query": "Боюсь больших счетов в поездке — как ограничить расходы на связь?",
+    "chunk_id": "mobilnaya-svyaz-b2b/rouming-dlya-korporativnih-klientov__kak-podgotovitsya-k-poezdkam-po-rossii-i-miru::0000",
+    "judge_grade": 0
+  },
+  {
+    "id": "gs-050",
+    "query": "Чем отличается аренда роутера от покупки в рассрочку, если я через полгода переезжаю?",
+    "chunk_id": "mobilnaya-svyaz-b2b/rouming-dlya-korporativnih-klientov__kak-rabotaet-usluga-internet-dlya-poezdki::0013",
+    "judge_grade": 0
+  },
+  {
+    "id": "gs-006",
+    "query": "Хочу убрать лишнюю подписку, но не понимаю, где её отключить в приложении",
+    "chunk_id": "kion_stroki/vidi-i-opisanie-podpisok__kak-otklyuchit-podpisku-stroki::0001",
+    "judge_grade": 2
+  },
+  {
+    "id": "gs-020",
+    "query": "Как в приложении скачать детализацию звонков и списаний за прошлый месяц?",
+    "chunk_id": "mts_mobilnaya_svyaz/balans-i-spisaniya__kak-sdelat-detalizatsiyu-zvonkov::0000",
+    "judge_grade": 2
+  },
+  {
+    "id": "gs-052",
+    "query": "премиум отключить как блин уже третий месяц снимают",
+    "chunk_id": "kion_muzika/promokodi-na-kion-muziku__oshibki-pri-aktivatsii-promokodov-na-podpisku-kion-muzika::0000",
+    "judge_grade": 3
+  },
+  {
+    "id": "gs-028",
+    "query": "Можно ли объединить домашний интернет и мобильную связь в один счёт?",
+    "chunk_id": "mts_domashniy_telefon/schyot-i-oplata__edinii-schyot::0000",
+    "judge_grade": 1
+  },
+  {
+    "id": "gs-040",
+    "query": "Потерял телефон с симкой — как быстро заблокировать номер и восстановить?",
+    "chunk_id": "mobilnaya-svyaz-b2b/esim__chto-delat-korporativnomu-klientu-esli-poteryalsya-qr-kod-ot-esim-ili-telefon-s-esim::0001",
+    "judge_grade": 1
+  },
+  {
+    "id": "gs-026",
+    "query": "Хочу подключить интернет и телевидение в новую квартиру — с чего начать?",
+    "chunk_id": "domashnii_internet_i_tv/balans-scheta-i-oplata__kak-podklyuchit-obeschannii-platyozh-dlya-oplati-domashnego-interneta-i-tv-msk::0001",
+    "judge_grade": 0
+  },
+  {
+    "id": "gs-022",
+    "query": "В тарифе написано, что входит кинотеатр, но я не могу смотреть фильмы — почему?",
+    "chunk_id": "kion/o-servise-kion__kak-ne-raskhodovat-internet-na-prosmotr-kion::0000",
+    "judge_grade": 1
+  },
+  {
+    "id": "gs-010",
+    "query": "Как поменять тариф, чтобы платить меньше, но не потерять нужные опции?",
+    "chunk_id": "mts_mobilnaya_svyaz/upravlenie-svoim-tarifom__kak-nastroit-svoi-tarif::0001",
+    "judge_grade": 3
+  },
+  {
+    "id": "gs-026",
+    "query": "Хочу подключить интернет и телевидение в новую квартиру — с чего начать?",
+    "chunk_id": "domashnii_internet_i_tv/oborudovanie__pokupka-oborudovaniya-chat::0000",
+    "judge_grade": 1
+  },
+  {
+    "id": "gs-008",
+    "query": "Не могу найти, где отключить автопродление интернета — подскажите путь",
+    "chunk_id": "mts_mobilnyy_internet/prodlenie-interneta__avtoprodlenie-interneta::0006",
+    "judge_grade": 1
+  },
+  {
+    "id": "gs-032",
+    "query": "Сломался роутер, который я арендую у вас — кто чинит и за чей счёт?",
+    "chunk_id": "urent/kak-nachat-i-zavershit-poezdku__chto-delat-yesli-samokat-povrezhden::0000",
+    "judge_grade": 0
+  },
+  {
+    "id": "gs-024",
+    "query": "Что входит в подписку помимо связи и стоит ли она своих денег?",
+    "chunk_id": "mts-premium/o-podpiske-mts-premium__chto-takoe-mts-premium::0001",
+    "judge_grade": 2
+  },
+  {
+    "id": "gs-030",
+    "query": "Скорость интернета ниже заявленной — как это проверить и куда жаловаться?",
+    "chunk_id": "kion/ispravlenie-sboev-v-rabote-kion__chto-delat-esli-poyavilis-problemi-so-zvukom-ili-izobrazheniem-na-kion::0002",
+    "judge_grade": 2
+  },
+  {
+    "id": "gs-041",
+    "query": "Как перенести свой номер от другого оператора в МТС?",
+    "chunk_id": "mts-premium/internet-v-podpiske__internet-po-podpiske-dlya-abonentov-mgts-i-drugih-operatorov::0000",
+    "judge_grade": 2
+  },
+  {
+    "id": "gs-027",
+    "query": "Сколько каналов входит в базовый тариф и можно ли добавить свои?",
+    "chunk_id": "domashnii_internet_i_tv/tarif-i-uslugi__kakiye-tarify-na-domashniy-internet-i-tv-yest-v-mts::0000",
+    "judge_grade": 1
+  },
+  {
+    "id": "gs-007",
+    "query": "Как посмотреть, какие платные услуги у меня вообще подключены?",
+    "chunk_id": "mts_mobilnaya_svyaz/balans-i-spisaniya__chto-takoe-limit-na-svyaz-i-kak-im-upravlyat::0003",
+    "judge_grade": 2
+  },
+  {
+    "id": "gs-052",
+    "query": "премиум отключить как блин уже третий месяц снимают",
+    "chunk_id": "mts_mobilnaya_svyaz/upravlenie-uslugami__kak-upravlyat-uslugami::0013",
+    "judge_grade": 3
+  },
+  {
+    "id": "gs-047",
+    "query": "Замучили спам-звонки, у МТС есть что-то, чтобы их блокировать?",
+    "chunk_id": "zaschitnik/obschaya-informatsiya-o-zaschitnike__pochemu-prokhodyat-spam-zvonki-yesli-usluga-zashchitnik-podklyuchena::0000",
+    "judge_grade": 1
+  },
+  {
+    "id": "gs-054",
+    "query": "Хочу расторгнуть договор на домашний интернет и сдать оборудование — как это сделать?",
+    "chunk_id": "domashnii_internet_i_tv/tarif-i-uslugi__kak-otklyuchit-domashnii-internet-i-tv-na-vremya-msk::0010",
+    "judge_grade": 2
+  },
+  {
+    "id": "gs-034",
+    "query": "После переезда пропал интернет, потому что остался старый роутер — что делать?",
+    "chunk_id": "domashnii_internet_i_tv/ne-rabotaet-domashnii-internet__chto-delat-esli-ne-rabotaet-domashnii-internet-chat::0003",
+    "judge_grade": 1
+  },
+  {
+    "id": "gs-010",
+    "query": "Как поменять тариф, чтобы платить меньше, но не потерять нужные опции?",
+    "chunk_id": "mts_mobilnaya_svyaz/tarifi-podpiski-i-uslugi__kak-smenit-tarif::0000",
+    "judge_grade": 2
+  },
+  {
+    "id": "gs-011",
+    "query": "Лечу в Турцию, что нужно сделать, чтобы там работал интернет?",
+    "chunk_id": "mts_rouming_i_mezhgorod/poezdki-po-miru__chto-delat-esli-za-granitsei-ne-rabotaet-svyaz-ili-internet::0000",
+    "judge_grade": 3
+  },
+  {
+    "id": "gs-002",
+    "query": "Почему после пополнения баланса сразу снова появляется долг?",
+    "chunk_id": "domashnii_internet_i_tv/balans-scheta-i-oplata__kogda-spisivayutsya-dengi-za-domashnii-internet-i-tv::0002",
+    "judge_grade": 2
+  },
+  {
+    "id": "gs-039",
+    "query": "Хочу пожаловаться на качество связи в моём районе — как это правильно сделать?",
+    "chunk_id": "mts_rouming_i_mezhgorod/poezdki-po-rossii__skolko-stoyat-uslugi-svyazi-v-poezdkah-po-rossii::0006",
+    "judge_grade": 1
+  },
+  {
+    "id": "gs-043",
+    "query": "Как переоформить номер на другого человека?",
+    "chunk_id": "mobilnaya-svyaz-b2b/smena-vladeltsa__kak-pereoformit-na-fizicheskoe-litso-1::0001",
+    "judge_grade": 0
+  },
+  {
+    "id": "gs-030",
+    "query": "Скорость интернета ниже заявленной — как это проверить и куда жаловаться?",
+    "chunk_id": "mts_fiksirovannaya_svyaz/nastroika-i-diagnostika-provodnogo-interneta-ili-telefonii-dlya-biznesa__chto-delat-esli-ne-rabotaet-provodnoi-internet-dlya-biznesa::0003",
+    "judge_grade": 2
+  },
+  {
+    "id": "gs-020",
+    "query": "Как в приложении скачать детализацию звонков и списаний за прошлый месяц?",
+    "chunk_id": "zadolzhennost/zadolzhennost__kak-proverit-zadolzhennost::0001",
+    "judge_grade": 2
+  },
+  {
+    "id": "gs-022",
+    "query": "В тарифе написано, что входит кинотеатр, но я не могу смотреть фильмы — почему?",
+    "chunk_id": "kion/ispravlenie-sboev-v-rabote-kion__pochemu-stali-nedostupny-filmy-serialy-i-drugoy-kontent-na-kion::0000",
+    "judge_grade": 3
+  },
+  {
+    "id": "gs-036",
+    "query": "Не дозвониться до поддержки — какие ещё есть способы связаться?",
+    "chunk_id": "mts_mobilnaya_svyaz/blokirovka-nomera-problemi-so-svyazyu__chto-delat-pri-problemah-so-svyazyu::0007",
+    "judge_grade": 0
+  },
+  {
+    "id": "gs-052",
+    "query": "премиум отключить как блин уже третий месяц снимают",
+    "chunk_id": "mts-premium/aktsii-s-mts-premium__mts-premium-pri-oformlenii-debetovoi-karti-mts-dengi::0000",
+    "judge_grade": 2
+  },
+  {
+    "id": "gs-031",
+    "query": "Брал роутер в рассрочку, теперь хочу вернуть — что для этого нужно?",
+    "chunk_id": "mts_fiksirovannaya_svyaz/pereoformlenie-perenos-ili-otklyuchenie-interneta-i-telefonii-dlya-biznesa__kak-otklyuchit-internet-ili-telefoniyu-dlya-biznesa::0003",
+    "judge_grade": 0
+  },
+  {
+    "id": "gs-011",
+    "query": "Лечу в Турцию, что нужно сделать, чтобы там работал интернет?",
+    "chunk_id": "mts_rouming_i_mezhgorod/uslugi-dlya-ekonomii-v-poezdkah-po-miru__kak-rabotaet-usluga-za-granitsei::0000",
+    "judge_grade": 3
+  },
+  {
+    "id": "gs-006",
+    "query": "Хочу убрать лишнюю подписку, но не понимаю, где её отключить в приложении",
+    "chunk_id": "servisi_voicetech/ai-pomoschnik-mts__kak-otklyuchit-podpisku-ai-pomoschnik-mts::0001",
+    "judge_grade": 3
+  },
+  {
+    "id": "gs-025",
+    "query": "Можно ли пользоваться подпиской с другого номера, не с того, к которому она привязана?",
+    "chunk_id": "mts_mobilnaya_svyaz/smena-i-pereoformlenie-nomera__kak-posmotret-vse-nomera-oformlennie-na-menya::0004",
+    "judge_grade": 0
+  },
+  {
+    "id": "gs-037",
+    "query": "Сколько ждать ответа, если я отправил заявку через приложение?",
+    "chunk_id": "krediti_i_ipoteka/upravlenie-kreditom__mozhno-li-obedinit-neskolko-kreditov-v-odin::0005",
+    "judge_grade": 2
+  },
+  {
+    "id": "gs-046",
+    "query": "Как оформить номер для ребёнка и запретить на нём платные подписки?",
+    "chunk_id": "mts_mobilnaya_svyaz/esim__kak-oformit-novuyu-esim::0000",
+    "judge_grade": 3
+  },
+  {
+    "id": "gs-054",
+    "query": "Хочу расторгнуть договор на домашний интернет и сдать оборудование — как это сделать?",
+    "chunk_id": "mts_fiksirovannaya_svyaz/pereoformlenie-perenos-ili-otklyuchenie-interneta-i-telefonii-dlya-biznesa__kak-otklyuchit-internet-ili-telefoniyu-dlya-biznesa::0002",
+    "judge_grade": 0
+  },
+  {
+    "id": "gs-017",
+    "query": "Интернет работает, а звонки не проходят — как проверить, в чём дело?",
+    "chunk_id": "mts_rouming_i_mezhgorod/poezdki-po-miru__chto-delat-esli-za-granitsei-ne-rabotaet-svyaz-ili-internet::0002",
+    "judge_grade": 1
+  },
+  {
+    "id": "gs-025",
+    "query": "Можно ли пользоваться подпиской с другого номера, не с того, к которому она привязана?",
+    "chunk_id": "vozmozhnosti_moi_mts/vozmozhnosti-moi-mts__kak-upravlyat-raznimi-akkauntami-v-prilozhenii-moi-mts::0000",
+    "judge_grade": 1
+  },
+  {
+    "id": "gs-027",
+    "query": "Сколько каналов входит в базовый тариф и можно ли добавить свои?",
+    "chunk_id": "mts_stv/ustanovka-i-nastroika-oborudovaniya__ruchnaya-nastroika-kanalov-i-vozvrat-k-zavodskim-nastroikam::0003",
+    "judge_grade": 1
+  },
+  {
+    "id": "gs-034",
+    "query": "После переезда пропал интернет, потому что остался старый роутер — что делать?",
+    "chunk_id": "domashnii_internet_i_tv/pereezd-pereoformlenie-i-rastorzhenie__chto-delat-esli-vladelets-domashnego-interneta-i-tv-umer-msk::0004",
+    "judge_grade": 0
+  },
+  {
+    "id": "gs-023",
+    "query": "Хочу отказаться от подписки на фильмы, но боюсь, что отключится и что-то нужное",
+    "chunk_id": "mts_vtoraya_pamyat/upravlenie-podpiskoi-mts-vtoraya-pamyat__chto-budet-yesli-ya-otklyuchu-podpisku-v-mts-vtoraya-pamyat-ili-pereydu-na-druguyu::0000",
+    "judge_grade": 0
+  },
+  {
+    "id": "gs-047",
+    "query": "Замучили спам-звонки, у МТС есть что-то, чтобы их блокировать?",
+    "chunk_id": "zaschita_ot_spama_i_moshennikov/zaschita-ot-spama-i-moshennichestva__kak-zablokirovat-spam-i-nomera-moshennikov::0004",
+    "judge_grade": 2
+  }
+]

@@ -1,0 +1,754 @@
+[
+  {
+    "id": "gs-001",
+    "query": "У меня каждый месяц списывают деньги, хотя я почти не звоню — почему так?",
+    "product": "Мобильная связь",
+    "section": "Задолженность и списания",
+    "relevant_ids": [
+      "zadolzhennost/zadolzhennost__pochemu-u-menya-obrazovalas-zadolzhennost",
+      "mts_mobilnaya_svyaz/balans-i-spisaniya__kak-uznat-za-chto-spisalis-dengi",
+      "domashnii_internet_i_tv/balans-scheta-i-oplata__kogda-spisivayutsya-dengi-za-domashnii-internet-i-tv",
+      "mts_mobilnaya_svyaz/balans-i-spisaniya__pochemu-plata-po-tarifu-stala-spisivatsya-kazhdii-den"
+    ],
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-002",
+    "query": "Почему после пополнения баланса сразу снова появляется долг?",
+    "product": "Мобильная связь",
+    "section": "Задолженность и списания",
+    "relevant_ids": [
+      "zadolzhennost/zadolzhennost__kak-uznat-o-zadolzhennosti",
+      "zadolzhennost/zadolzhennost__pochemu-u-menya-obrazovalas-zadolzhennost"
+    ],
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-003",
+    "query": "С баланса каждый день уходит по паре рублей, хотя я в минусе — это нормально?",
+    "product": "Мобильная связь",
+    "section": "Задолженность и списания",
+    "relevant_ids": [
+      "mts_mobilnaya_svyaz/upravlenie-uslugami__kak-upravlyat-uslugami",
+      "domashnii_internet_i_tv/balans-scheta-i-oplata__kogda-spisivayutsya-dengi-za-domashnii-internet-i-tv",
+      "mts_mobilnaya_svyaz/balans-i-spisaniya__kak-uznat-za-chto-spisalis-dengi",
+      "zadolzhennost/zadolzhennost__pochemu-u-menya-obrazovalas-zadolzhennost",
+      "kion_muzika/podpiska-na-kion-muziku__kak-ya-mogu-pereiti-s-posutochnoi-podpiski-na-ezhemesyachnuyu",
+      "mts_mobilnaya_svyaz/balans-i-spisaniya__pochemu-izmenilas-data-spisaniya-ezhemesyachnoi-plati-po-tarifu",
+      "mts_mobilnaya_svyaz/balans-i-spisaniya__pochemu-plata-po-tarifu-stala-spisivatsya-kazhdii-den"
+    ],
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-004",
+    "query": "Что будет с номером, если долго сидеть в минусе и не пополнять баланс?",
+    "product": "Мобильная связь",
+    "section": "Задолженность и списания",
+    "relevant_ids": [
+      "mts_mobilnaya_svyaz/smena-i-pereoformlenie-nomera__chto-delat-yesli-vladelets-sim-karty-umer",
+      "mts_mobilnaya_svyaz/blokirovka-nomera-problemi-so-svyazyu__blokirovka-iz-za-dolgogo-neispolzovaniya-nomera",
+      "mobilnaya-svyaz-b2b/zamena-i-blokirovka-sim-karti-__blokirovka-korporativnogo-nomera-iz-za-dolgogo-neispolzovaniya"
+    ],
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-005",
+    "query": "Почему за интернет списали отдельно, если он вроде входит в тариф?",
+    "product": "Мобильная связь",
+    "section": "Задолженность и списания",
+    "relevant_ids": [
+      "domashnii_internet_i_tv/balans-scheta-i-oplata__kogda-spisivayutsya-dengi-za-domashnii-internet-i-tv",
+      "mts_mobilnaya_svyaz/balans-i-spisaniya__kak-uznat-za-chto-spisalis-dengi",
+      "zadolzhennost/zadolzhennost__pochemu-u-menya-obrazovalas-zadolzhennost",
+      "mts-premium/internet-v-podpiske__paket-interneta-po-podpiske",
+      "mts_mobilnyy_internet/prodlenie-interneta__chto-delat-yesli-zakonchilsya-paket-interneta",
+      "mts_rouming_i_mezhgorod/poezdki-po-rossii__skolko-stoyat-uslugi-svyazi-pri-poezdkah-v-krim-i-sevastopol",
+      "mts_mobilnyy_internet/prodlenie-interneta__avtoprodlenie-interneta"
+    ],
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-006",
+    "query": "Хочу убрать лишнюю подписку, но не понимаю, где её отключить в приложении",
+    "product": "Мобильная связь",
+    "section": "Управление услугами",
+    "relevant_ids": [
+      "mts_mobilnaya_svyaz/upravlenie-uslugami__kak-otklyuchit-dopolnitelnie-uslugi",
+      "servisi_voicetech/sekretar-plyus__kak-otklyuchit-podpisku-sekretar-plyus",
+      "kion_stroki/vidi-i-opisanie-podpisok__kak-otklyuchit-podpisku-stroki",
+      "kion_muzika/podpiska-na-kion-muziku__kak-otklyuchit-podpisku-na-kion-muziku",
+      "servisi_voicetech/ai-pomoschnik-mts__kak-otklyuchit-podpisku-ai-pomoschnik-mts",
+      "mts_mobilnaya_svyaz/upravlenie-svoim-tarifom__kak-podklyuchit-i-otklyuchit-dopolnitelnii-paket-minut",
+      "umnii_dom/umnaya-domashnyaya-kamera__oblachnoe-hranenie-7-dnei",
+      "servisi_voicetech/ai-pomoschnik-mts__kak-otklyuchit-uslugi-vkhodyashchiye-v-podpisku-ai-pomoshchnik-mts",
+      "mts-premium/upravlenie-podpiskoi__kak-otklyuchit-mts-premium"
+    ],
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-007",
+    "query": "Как посмотреть, какие платные услуги у меня вообще подключены?",
+    "product": "Мобильная связь",
+    "section": "Управление услугами",
+    "relevant_ids": [
+      "zadolzhennost/zadolzhennost__kak-uznat-o-zadolzhennosti",
+      "lk_mts_business/upravlenie-uslugami-blokirovkoi-i-pereadresatsiei__kak-uznat-kakie-uslugi-podklyucheni-na-korporativnom-nomere",
+      "zadolzhennost/zadolzhennost__pochemu-u-menya-obrazovalas-zadolzhennost",
+      "mts_mobilnaya_svyaz/upravlenie-uslugami__kak-proverit-podklyuchennyye-uslugi",
+      "zadolzhennost/zadolzhennost__kak-proverit-zadolzhennost",
+      "lk_mts_business/nomera-i-litsevie-scheta-organizatsii__chto-dostupno-v-kartochke-nomera",
+      "mts_mobilnaya_svyaz/upravlenie-uslugami__kak-otklyuchit-dopolnitelnie-uslugi",
+      "mts_mobilnaya_svyaz/balans-i-spisaniya__kak-uznat-skolko-i-kogda-platit-za-tarif"
+    ],
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-008",
+    "query": "Не могу найти, где отключить автопродление интернета — подскажите путь",
+    "product": "Мобильная связь",
+    "section": "Управление услугами",
+    "relevant_ids": [
+      "mobilnaya-svyaz-b2b/prodlenie-interneta-dlya-korporativnih-klientov__avtoprodlenie-interneta-na-korporativnih-tarifah",
+      "mts_mobilnaya_svyaz/upravlenie-uslugami__kak-upravlyat-uslugami",
+      "mts_mobilnyy_internet/prodlenie-interneta__avtoprodlenie-interneta",
+      "mobilnaya-svyaz-b2b/rouming-dlya-korporativnih-klientov__kak-rabotaet-usluga-internet-dlya-poezdki"
+    ],
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-009",
+    "query": "Подключал услугу через сайт, а теперь хочу убрать — через приложение можно?",
+    "product": "Мобильная связь",
+    "section": "Управление услугами",
+    "relevant_ids": [
+      "mobilnaya-svyaz-b2b/kak-upravlyat-korporativnimi-nomerami__kak-upravlyat-uslugami-na-korporativnom-nomere",
+      "mts_mobilnaya_svyaz/upravlenie-uslugami__kak-otklyuchit-dopolnitelnie-uslugi",
+      "mts_mts_poisk/nablyudenie-za-uchastnikami-gruppi-moi-poisk__kak-zapretit-nablyudeniye-cherez-moy-poisk",
+      "mobilnaya-svyaz-b2b/rouming-dlya-korporativnih-klientov__kak-podgotovitsya-k-poezdkam-po-rossii-i-miru"
+    ],
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-010",
+    "query": "Как поменять тариф, чтобы платить меньше, но не потерять нужные опции?",
+    "product": "Мобильная связь",
+    "section": "Смена тарифа",
+    "relevant_ids": [
+      "mts_mobilnaya_svyaz/upravlenie-svoim-tarifom__kak-nastroit-svoi-tarif",
+      "mobilnaya-svyaz-b2b/biznes-abonement__chto-takoe-biznes-abonement-i-kak-ego-podklyuchit"
+    ],
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-011",
+    "query": "Лечу в Турцию, что нужно сделать, чтобы там работал интернет?",
+    "product": "Роуминг",
+    "section": "Подключение в поездке",
+    "relevant_ids": [
+      "mts_mobilnyy_internet/reshenie-problem-s-internetom__chto-delat-esli-ne-rabotaet-mobilnii-internet",
+      "mobilnaya-svyaz-b2b/rouming-dlya-korporativnih-klientov__kak-rabotaet-usluga-internet-dlya-poezdki",
+      "mts_rouming_i_mezhgorod/uslugi-dlya-ekonomii-v-poezdkah-po-miru__kak-rabotaet-usluga-za-granitsei",
+      "mts_rouming_i_mezhgorod/uslugi-dlya-ekonomii-v-poezdkah-po-miru__kak-rabotaet-usluga-zabugorische",
+      "mts_rouming_i_mezhgorod/poezdki-po-miru__internet-v-rouminge",
+      "mts_rouming_i_mezhgorod/poezdki-po-miru__chto-delat-esli-za-granitsei-ne-rabotaet-svyaz-ili-internet"
+    ],
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-012",
+    "query": "За границей не ловит сеть — какие настройки включить заранее?",
+    "product": "Роуминг",
+    "section": "Настройки роуминга",
+    "relevant_ids": [
+      "mts_rouming_i_mezhgorod/poezdki-po-miru__chto-delat-esli-za-granitsei-ne-rabotaet-svyaz-ili-internet",
+      "mobilnaya-svyaz-b2b/reshenie-problem-so-svyazyu-i-internetom__chto-delat-pri-nizkoi-skorosti-mobilnogo-interneta-na-korporativnom-nomere",
+      "mts_rouming_i_mezhgorod/poezdki-po-miru__internet-v-rouminge",
+      "mts_rouming_i_mezhgorod/svyaz-i-internet-v-populyarnih-stranah__kak-podgotovitsya-k-poezdke-v-belarus",
+      "mts_rouming_i_mezhgorod/svyaz-i-internet-v-populyarnih-stranah__kak-podgotovitsya-k-poezdke-v-gruziyu",
+      "mts_rouming_i_mezhgorod/svyaz-i-internet-v-populyarnih-stranah__kak-podgotovitsya-k-poezdke-v-kazahstan",
+      "mts_rouming_i_mezhgorod/svyaz-i-internet-v-populyarnih-stranah__kak-podgotovitsya-k-poezdke-v-kitai",
+      "mts_rouming_i_mezhgorod/svyaz-i-internet-v-populyarnih-stranah__kak-podgotovitsya-k-poyezdke-v-abkhaziyu",
+      "mts_rouming_i_mezhgorod/svyaz-i-internet-v-populyarnih-stranah__kak-podgotovitsya-k-poyezdke-v-turtsiyu",
+      "mts_rouming_i_mezhgorod/poezdki-po-miru__kak-podgotovitsya-k-poezdke-v-druguyu-stranu"
+    ],
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-013",
+    "query": "Есть ли бесплатный роуминг и как его активировать?",
+    "product": "Роуминг",
+    "section": "Бесплатный роуминг",
+    "relevant_ids": [
+      "mts_rouming_i_mezhgorod/uslugi-dlya-ekonomii-v-poezdkah-po-miru__kak-podklyuchit-rouming-rezhimy-komfort-maksimum",
+      "mts_rouming_i_mezhgorod/svyaz-i-internet-v-populyarnih-stranah__kak-podgotovitsya-k-poezdke-v-belarus",
+      "mts_rouming_i_mezhgorod/uslugi-dlya-ekonomii-v-poezdkah-po-miru__kakie-podklyuchit-uslugi-dlya-ekonomii-v-rouminge",
+      "mts_rouming_i_mezhgorod/uslugi-dlya-ekonomii-v-poezdkah-po-miru__rouming-rezhim-layt-kak-poluchit-bezlimitnyye-zvonki-i-besplatnyy-internet-v-rouminge",
+      "mts_rouming_i_mezhgorod/svyaz-i-internet-v-populyarnih-stranah__kak-podgotovitsya-k-poezdke-v-gruziyu",
+      "mts_rouming_i_mezhgorod/svyaz-i-internet-v-populyarnih-stranah__kak-podgotovitsya-k-poezdke-v-kazahstan",
+      "mts_rouming_i_mezhgorod/svyaz-i-internet-v-populyarnih-stranah__kak-podgotovitsya-k-poezdke-v-kitai",
+      "mts_rouming_i_mezhgorod/svyaz-i-internet-v-populyarnih-stranah__kak-podgotovitsya-k-poyezdke-v-abkhaziyu",
+      "mts_rouming_i_mezhgorod/svyaz-i-internet-v-populyarnih-stranah__kak-podgotovitsya-k-poyezdke-v-turtsiyu",
+      "mts_rouming_i_mezhgorod/poezdki-po-miru__kak-podklyuchit-uslugi-dlya-dostupa-k-svyazi-i-internetu-v-rouminge"
+    ],
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-014",
+    "query": "Боюсь больших счетов в поездке — как ограничить расходы на связь?",
+    "product": "Роуминг",
+    "section": "Контроль расходов",
+    "relevant_ids": [
+      "mobilnaya-svyaz-b2b/rouming-dlya-korporativnih-klientov__kak-snizit-rahodi-na-svyaz-i-internet-v-rouminge-korporativnim-klientam",
+      "mobilnaya-svyaz-b2b/rouming-dlya-korporativnih-klientov__kak-podgotovitsya-k-poezdkam-po-rossii-i-miru",
+      "mts_rouming_i_mezhgorod/poezdki-po-miru__kak-podgotovitsya-k-poezdke-v-druguyu-stranu",
+      "mts_rouming_i_mezhgorod/poezdki-po-miru__internet-v-rouminge",
+      "mts_rouming_i_mezhgorod/poezdki-po-miru__zvonki-v-rouminge",
+      "mobilnaya-svyaz-b2b/rouming-dlya-korporativnih-klientov__skolko-stoit-svyaz-i-internet-v-rouminge-dlya-korporativnih-klientov",
+      "mts_rouming_i_mezhgorod/poezdki-po-miru__skolko-stoit-svyaz-i-internet-v-rouminge"
+    ],
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-015",
+    "query": "Надо звонить в Россию из-за границы — какие условия и как подключить?",
+    "product": "Роуминг",
+    "section": "Звонки из-за границы",
+    "relevant_ids": [
+      "mts_rouming_i_mezhgorod/poezdki-po-miru__kak-podgotovitsya-k-poezdke-v-druguyu-stranu",
+      "mobilnaya-svyaz-b2b/rouming-dlya-korporativnih-klientov__kak-podgotovitsya-k-poezdkam-po-rossii-i-miru",
+      "mts_rouming_i_mezhgorod/uslugi-dlya-ekonomii-v-poezdkah-po-miru__kakie-podklyuchit-uslugi-dlya-ekonomii-v-rouminge",
+      "mts_rouming_i_mezhgorod/uslugi-dlya-ekonomii-v-poezdkah-po-miru__kak-rabotayet-usluga-nol-bez-granits",
+      "mts_rouming_i_mezhgorod/poezdki-po-miru__kak-podklyuchit-uslugi-dlya-dostupa-k-svyazi-i-internetu-v-rouminge",
+      "mts_rouming_i_mezhgorod/svyaz-i-internet-v-populyarnih-stranah__kak-podgotovitsya-k-poezdke-v-kitai",
+      "mts_rouming_i_mezhgorod/svyaz-i-internet-v-populyarnih-stranah__kak-podgotovitsya-k-poyezdke-v-turtsiyu"
+    ],
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-016",
+    "query": "Пропала связь, но перезагрузка телефона не помогает — что ещё можно сделать?",
+    "product": "Мобильная связь",
+    "section": "Проблемы со связью",
+    "relevant_ids": [
+      "mts_mobilnaya_svyaz/blokirovka-nomera-problemi-so-svyazyu__chto-delat-pri-problemah-so-svyazyu",
+      "mts_rouming_i_mezhgorod/poezdki-po-miru__chto-delat-esli-za-granitsei-ne-rabotaet-svyaz-ili-internet"
+    ],
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-017",
+    "query": "Интернет работает, а звонки не проходят — как проверить, в чём дело?",
+    "product": "Мобильная связь",
+    "section": "Проблемы со связью",
+    "relevant_ids": [
+      "mts_mobilnaya_svyaz/blokirovka-nomera-problemi-so-svyazyu__chto-delat-pri-problemah-so-svyazyu"
+    ],
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-018",
+    "query": "Слышал, что в приложении есть какая-то проверка сети — как ей воспользоваться?",
+    "product": "Приложение Мой МТС",
+    "section": "Диагностика связи",
+    "relevant_ids": [
+      "mts_mobilnyy_internet/reshenie-problem-s-internetom__chto-delat-yesli-ne-rabotayet-odno-prilozheniye-ili-sayt",
+      "mts_mobilnyy_internet/reshenie-problem-s-internetom__chto-delat-esli-nizkaya-skorost-mobilnogo-interneta",
+      "domashnii_internet_i_tv/ne-rabotaet-domashnii-internet__chto-delat-pri-nizkoi-skorosti-domashnego-interneta-chat-msk",
+      "domashnii_internet_i_tv/ne-rabotaet-domashnii-internet__chto-delat-pri-nizkoi-skorosti-domashnego-interneta-chat",
+      "vozmozhnosti_moi_mts/vozmozhnosti-moi-mts__prilozhenie-moi-mts--vhod-vozmozhnosti-podderzhka"
+    ],
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-019",
+    "query": "Не могу зайти в приложение — пишет, что номер не привязан",
+    "product": "Приложение Мой МТС",
+    "section": "Вход и авторизация",
+    "relevant_ids": [
+      "akkaunt_v_servise_mts_dengi/vhod-v-servisi-mts-dengi__chto-delat-esli-ne-poluchaetsya-voiti-v-prilozhenie-mts-dengi-ili-lichnii-kabinet-mts-dengi",
+      "moi_akkaunt_v_mts_banke/vhod-v-servisi-mts-banka__chto-delat-esli-ne-poluchaetsya-voiti-v-prilozhenie-mts-banka-ili-lichnii-kabinet-mts-banka",
+      "mts_marketolog/rassilki-po-svoei-baze-pro-i-api-k-nim__dokumentatsiya-rest-api",
+      "akkaunt_v_servise_mts_dengi/moi-dannie-v-servise-mts-dengi__pochemu-net-moih-kart-i-schetov-v-prilozhenii-ili-lichnom-kabinete-mts-dengi",
+      "moi_akkaunt_v_mts_banke/moi-dannie-v-mts-banke__pochemu-net-moih-kart-i-schetov-v-prilozhenii-ili-lichnom-kabinete"
+    ],
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-020",
+    "query": "Как в приложении скачать детализацию звонков и списаний за прошлый месяц?",
+    "product": "Приложение Мой МТС",
+    "section": "Детализация",
+    "relevant_ids": [
+      "mts_mobilnaya_svyaz/balans-i-spisaniya__kak-sdelat-detalizatsiyu-zvonkov",
+      "mts_mobilnaya_svyaz/balans-i-spisaniya__kak-zakazat-detalizatsiyu-rashodov",
+      "mts_domashniy_telefon/upravlenie-uslugami__kak-zakazat-detalizatsiyu-ishodyaschih-zvonkov-s-domashnego-telefona",
+      "zadolzhennost/zadolzhennost__kak-proverit-zadolzhennost"
+    ],
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-021",
+    "query": "У меня списывают 399 рублей за какую-то подписку — как её убрать?",
+    "product": "Подписки и экосистема",
+    "section": "МТС Premium",
+    "relevant_ids": [
+      "mts_mobilnaya_svyaz/upravlenie-uslugami__kak-otklyuchit-dopolnitelnie-uslugi",
+      "kion_stroki/vidi-i-opisanie-podpisok__chto-vklyuchayet-v-sebya-podpiska-kion-top",
+      "mts_vtoraya_pamyat/upravlenie-podpiskoi-mts-vtoraya-pamyat__kak-otklyuchit-mts-vtoraya-pamyat"
+    ],
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-022",
+    "query": "В тарифе написано, что входит кинотеатр, но я не могу смотреть фильмы — почему?",
+    "product": "Подписки и экосистема",
+    "section": "KION",
+    "relevant_ids": [
+      "kion/ispravlenie-sboev-v-rabote-kion__chto-delat-esli-podpiska-est-no-kontent-na-kion-nedostupen",
+      "kion/podpiski-v-kion__skolko-stoyat-podpiski-kion-layt-i-kiondemo-chto-v-nikh-vkhodit",
+      "kion/ispravlenie-sboev-v-rabote-kion__pochemu-stali-nedostupny-filmy-serialy-i-drugoy-kontent-na-kion",
+      "mts-premium/servisi-v-podpiske-mts-premium__kak-podklyuchit-kion-po-podpiske-mts-premium"
+    ],
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-023",
+    "query": "Хочу отказаться от подписки на фильмы, но боюсь, что отключится и что-то нужное",
+    "product": "Подписки и экосистема",
+    "section": "KION",
+    "relevant_ids": [
+      "kion/upravlenie-podpiskoi-i-aktivatsiya-promokoda__kak-otklyuchit-podpisku-kion",
+      "kion/podpiski-v-kion__kion-v-tarifah-mts"
+    ],
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-024",
+    "query": "Что входит в подписку помимо связи и стоит ли она своих денег?",
+    "product": "Подписки и экосистема",
+    "section": "МТС Premium",
+    "relevant_ids": [
+      "mts-premium/o-podpiske-mts-premium__chto-takoe-mts-premium",
+      "kion_stroki/vidi-i-opisanie-podpisok__skolko-stoit-i-chto-vklyuchaet-v-sebya-podpiska-stroki",
+      "kion_stroki/vidi-i-opisanie-podpisok__chto-vklyuchayet-v-sebya-podpiska-kion-top",
+      "kion/podpiski-v-kion__skolko-stoit-podpiska-kion-top-i-chto-v-neye-vkhodit",
+      "kion_stroki/vidi-i-opisanie-podpisok__chto-vhodit-v-podpisku-stroki-i-kak-eyo-podklyuchit",
+      "semeinaya_gruppa/obschaya-informatsiya__kakie-semeinie-podpiski-mozhno-podklyuchit-v-mts"
+    ],
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-025",
+    "query": "Можно ли пользоваться подпиской с другого номера, не с того, к которому она привязана?",
+    "product": "Подписки и экосистема",
+    "section": "МТС Premium",
+    "relevant_ids": [],
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-026",
+    "query": "Хочу подключить интернет и телевидение в новую квартиру — с чего начать?",
+    "product": "Домашний интернет и ТВ",
+    "section": "Подключение",
+    "relevant_ids": [
+      "domashnii_internet_i_tv/podklyuchenie-domashnego-interneta-i-tv__kak-podklyuchit-domashnii-internet-i-tv-msk",
+      "domashnii_internet_i_tv/podklyuchenie-domashnego-interneta-i-tv__kak-podklyuchit-domashnii-internet-i-tv"
+    ],
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-027",
+    "query": "Сколько каналов входит в базовый тариф и можно ли добавить свои?",
+    "product": "Домашний интернет и ТВ",
+    "section": "Тарифы и каналы",
+    "relevant_ids": [
+      "kion/podpiski-v-kion__skolko-stoyat-podpiski-kion-layt-i-kiondemo-chto-v-nikh-vkhodit"
+    ],
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-028",
+    "query": "Можно ли объединить домашний интернет и мобильную связь в один счёт?",
+    "product": "Домашний интернет и ТВ",
+    "section": "Объединение услуг",
+    "relevant_ids": [
+      "domashnii_internet_i_tv/podklyuchenie-domashnego-interneta-i-tv__kak-obedinit-domashnii-internet-tv-i-mobilnuyu-svyaz-v-odin-tarif-chat",
+      "domashnii_internet_i_tv/tarif-i-uslugi__kakiye-tarify-na-domashniy-internet-i-tv-yest-v-mts",
+      "domashnii_internet_i_tv/podklyuchenie-domashnego-interneta-i-tv__kak-podklyuchit-uslugi-esli-vi-uzhe-klient-mts-chat",
+      "domashnii_internet_i_tv/podklyuchenie-domashnego-interneta-i-tv__kak-podklyuchit-uslugi-esli-vi-uzhe-klient-mts-msk",
+      "mts_mobilnyy_internet/prodlenie-interneta__kak-podklyuchit-internet"
+    ],
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-029",
+    "query": "Телевизор тормозит, каналы не переключаются — это проблема приставки или сети?",
+    "product": "Домашний интернет и ТВ",
+    "section": "Диагностика ТВ",
+    "relevant_ids": [
+      "domashnii_internet_i_tv/ne-rabotaet-domashnee-tv__chto-delat-esli-ne-rabotaet-televidenie-msk"
+    ],
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-030",
+    "query": "Скорость интернета ниже заявленной — как это проверить и куда жаловаться?",
+    "product": "Домашний интернет и ТВ",
+    "section": "Скорость и качество",
+    "relevant_ids": [
+      "mts_fiksirovannaya_svyaz/nastroika-i-diagnostika-provodnogo-interneta-ili-telefonii-dlya-biznesa__chto-delat-esli-ne-rabotaet-provodnoi-internet-dlya-biznesa",
+      "mts_mobilnyy_internet/reshenie-problem-s-internetom__chto-delat-esli-nizkaya-skorost-mobilnogo-interneta",
+      "domashnii_internet_i_tv/ne-rabotaet-domashnii-internet__chto-delat-pri-nizkoi-skorosti-domashnego-interneta-chat-msk",
+      "domashnii_internet_i_tv/ne-rabotaet-domashnii-internet__chto-delat-pri-nizkoi-skorosti-domashnego-interneta-chat",
+      "mobilnaya-svyaz-b2b/reshenie-problem-so-svyazyu-i-internetom__chto-delat-pri-nizkoi-skorosti-mobilnogo-interneta-na-korporativnom-nomere",
+      "mts_mobilnyy_internet/reshenie-problem-s-internetom__chto-delat-esli-ne-rabotaet-mobilnii-internet"
+    ],
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-031",
+    "query": "Брал роутер в рассрочку, теперь хочу вернуть — что для этого нужно?",
+    "product": "Оборудование",
+    "section": "Возврат оборудования",
+    "relevant_ids": [
+      "domashnii_internet_i_tv/oborudovanie__arenda-oborudovaniya-chat",
+      "domashnii_internet_i_tv/oborudovanie__arenda-oborudovaniya-msk"
+    ],
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-032",
+    "query": "Сломался роутер, который я арендую у вас — кто чинит и за чей счёт?",
+    "product": "Оборудование",
+    "section": "Аренда и ремонт",
+    "relevant_ids": [
+      "domashnii_internet_i_tv/oborudovanie__garantiya-i-zamena-oborudovaniya-chat",
+      "domashnii_internet_i_tv/oborudovanie__garantiya-i-zamena-oborudovaniya-msk"
+    ],
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-033",
+    "query": "Хочу заменить старую приставку на новую — можно ли обменять по гарантии?",
+    "product": "Оборудование",
+    "section": "Гарантия и замена",
+    "relevant_ids": [
+      "domashnii_internet_i_tv/oborudovanie__garantiya-i-zamena-oborudovaniya-chat",
+      "domashnii_internet_i_tv/oborudovanie__garantiya-i-zamena-oborudovaniya-msk",
+      "kion/garantiya-na-pristavki-kion__garantiya-i-servisnoye-obsluzhivaniye-pristavok-kion",
+      "domashnii_internet_i_tv/oborudovanie__rukovodstvo-po-ekspluatatsii-tv-pristavok-i-cam-modulei",
+      "domashnii_internet_i_tv/oborudovanie__rukovodstvo-po-ekspluatatsii-tv-pristavok-msk",
+      "mts_stv/garantiya-i-servisnoe-obsluzhivanie__garantiya-i-servisnoe-obsluzhivanie",
+      "mts_mts_internet_magazin/vozvrat-tovara-remont-i-garantiya__kak-vernut-tovar-po-garantii"
+    ],
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-034",
+    "query": "После переезда пропал интернет, потому что остался старый роутер — что делать?",
+    "product": "Оборудование",
+    "section": "Переезд и переустановка",
+    "relevant_ids": [
+      "domashnii_internet_i_tv/ne-rabotaet-domashnii-internet__kak-zanovo-podklyuchitsya-k-seti-wi-fi"
+    ],
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-035",
+    "query": "Сколько стоит аренда роутера и можно ли вместо неё купить свой?",
+    "product": "Оборудование",
+    "section": "Аренда оборудования",
+    "relevant_ids": [],
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-036",
+    "query": "Не дозвониться до поддержки — какие ещё есть способы связаться?",
+    "product": "Поддержка",
+    "section": "Каналы связи",
+    "relevant_ids": [
+      "mts_mobilnaya_svyaz/blokirovka-nomera-problemi-so-svyazyu__chto-delat-pri-problemah-so-svyazyu",
+      "mts_vtoraya_pamyat/rabota-s-failami-foto-i-video__chto-delat-esli-vo-vtoroi-pamyati-faili-foto-ili-video-ne-skachivayutsya-ne-zagruzhayutsya-ili-ne-otobrazhayutsya",
+      "mts_mobilnaya_svyaz/blokirovka-nomera-problemi-so-svyazyu__pochemu-nomer-zablokirovan"
+    ],
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-037",
+    "query": "Сколько ждать ответа, если я отправил заявку через приложение?",
+    "product": "Поддержка",
+    "section": "Сроки ответа",
+    "relevant_ids": [
+      "krediti_i_ipoteka/otkritie-i-zakritie-kredita__kak-uznat-reshenie-po-zayavke-na-kredit",
+      "krediti_i_rassrochka_mts_dengi/otkritie-i-zakritie-kredita__kak-uznat-reshenie-po-zayavke-na-kredit",
+      "karti/oformlenie-perevipusk-i-zakritie-karti__kak-oformit-debetovuyu-kartu_"
+    ],
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-038",
+    "query": "Заказал симку с доставкой, а курьер не пришёл — куда обращаться?",
+    "product": "Поддержка",
+    "section": "Доставка заказов",
+    "relevant_ids": [
+      "karti/oformlenie-perevipusk-i-zakritie-karti__kak-otsledit-dostavku-karti-mts-banka",
+      "karti_mts_dengi/oformlenie-perevipusk-i-zakritie-karti__kak-otsledit-dostavku-karti-mts-dengi",
+      "mts_mts_internet_magazin/oformlenie-status-i-poluchenie-zakaza__resheniye-problem-s-zakazom"
+    ],
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-039",
+    "query": "Хочу пожаловаться на качество связи в моём районе — как это правильно сделать?",
+    "product": "Поддержка",
+    "section": "Обращения и жалобы",
+    "relevant_ids": [
+      "mts_mobilnaya_svyaz/blokirovka-nomera-problemi-so-svyazyu__chto-delat-pri-problemah-so-svyazyu"
+    ],
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-040",
+    "query": "Потерял телефон с симкой — как быстро заблокировать номер и восстановить?",
+    "product": "Поддержка",
+    "section": "Блокировка и восстановление",
+    "relevant_ids": [
+      "mts_mobilnaya_svyaz/blokirovka-nomera-problemi-so-svyazyu__dobrovolnaya-blokirovka-nomera",
+      "mts_mobilnaya_svyaz/vosstanovlenie-i-zamena-sim-karti__chto-delat-esli-poteryalas-sim-karta",
+      "mts_mobilnaya_svyaz/esim__chto-delat-esli-poteryalsya-qr-kod-ot-esim-ili-telefon-s-esim",
+      "mts_mobilnaya_svyaz/blokirovka-nomera-problemi-so-svyazyu__blokirovka-iz-za-dolgogo-neispolzovaniya-nomera"
+    ],
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-041",
+    "query": "Как перенести свой номер от другого оператора в МТС?",
+    "product": "Мобильная связь",
+    "section": "Перенос номера",
+    "relevant_ids": [
+      "mts_mobilnaya_svyaz/perehod-v-mts-so-svoim-nomerom-mnp__kak-pereiti-v-mts-so-svoim-nomerom-ot-drugogo-operatora-",
+      "mts_mobilnaya_svyaz/perehod-v-mts-so-svoim-nomerom-mnp__kak-pereiti-v-mts-so-svoim-nomerom",
+      "mts-premium/internet-v-podpiske__internet-po-podpiske-dlya-abonentov-mgts-i-drugih-operatorov"
+    ],
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-042",
+    "query": "Как подключить eSIM и можно ли перевести на неё обычную симку?",
+    "product": "Мобильная связь",
+    "section": "SIM и eSIM",
+    "relevant_ids": [
+      "mts_mobilnaya_svyaz/esim__kak-aktivirovat-esim",
+      "mts_mobilnaya_svyaz/esim__kak-perenesti-esim-v-novii-telefon",
+      "mts_mobilnaya_svyaz/vosstanovlenie-i-zamena-sim-karti__kak-zamenit-sim-kartu",
+      "mts_mobilnaya_svyaz/esim__kak-oformit-novuyu-esim",
+      "mobilnaya-svyaz-b2b/zamena-sim-karti-nomera__kak-zamenit-korporativnuyu-sim-kartu",
+      "mts_mobilnaya_svyaz/esim__kak-zamenit-plastikovuyu-sim-kartu-na-esim",
+      "mts_mobilnaya_svyaz/esim__kak-zamenit-esim",
+      "mobilnaya-svyaz-b2b/esim__kak-korporativnomu-klientu-aktivirovat-esim",
+      "mobilnaya-svyaz-b2b/esim__kak-zamenit-plastikovuyu-korporativnuyu-sim-kartu-na-esim"
+    ],
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-043",
+    "query": "Как переоформить номер на другого человека?",
+    "product": "Мобильная связь",
+    "section": "Переоформление номера",
+    "relevant_ids": [
+      "mts_mobilnaya_svyaz/oformlenie-novoi-sim-karti__skolko-sim-kart-mozhet-bit-oformleno-na-odnogo-cheloveka",
+      "mobilnaya-svyaz-b2b/smena-vladeltsa__pereoformlenie-pri-likvidatsii-organizatsii",
+      "mts_mobilnaya_svyaz/smena-i-pereoformlenie-nomera__kak-pereoformit-nomer-na-drugogo-cheloveka",
+      "mobilnaya-svyaz-b2b/smena-vladeltsa__kak-pereoformit-na-fizicheskoe-litso-1",
+      "mobilnaya-svyaz-b2b/smena-vladeltsa__kak-pereoformit-na-fizicheskoe-litso-2",
+      "mobilnaya-svyaz-b2b/smena-vladeltsa__kak-pereoformit-na-fizicheskoe-litso-3",
+      "mobilnaya-svyaz-b2b/smena-vladeltsa__kak-pereoformit-na-fizicheskoe-litso-4",
+      "mobilnaya-svyaz-b2b/smena-vladeltsa__pereoformlenie-na-fizicheskoe-litso",
+      "mts_mobilnaya_svyaz/smena-i-pereoformlenie-nomera__kak-posmotret-vse-nomera-oformlennie-na-menya",
+      "mobilnaya-svyaz-b2b/smena-vladeltsa__kak-pereoformit-nomer-s-fizlitsa-na-organizatsiyu-ili-ip",
+      "mobilnaya-svyaz-b2b/smena-vladeltsa__kak-pereoformit-dogovor-s-odnoi-organizatsii-na-druguyu-",
+      "mobilnaya-svyaz-b2b/smena-vladeltsa__kak-pereoformit-dogovor-s-odnoi-organizatsii-na-druguyu",
+      "mobilnaya-svyaz-b2b/smena-vladeltsa__kak-pereoformit-dogovor-s-odnoi-organizatsii-na-druguyu1",
+      "mobilnaya-svyaz-b2b/smena-vladeltsa__kak-pereoformit-dogovor-s-odnoi-organizatsii-na-druguyu2"
+    ],
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-044",
+    "query": "Как передать оставшиеся гигабайты другому абоненту и платно ли это?",
+    "product": "Мобильная связь",
+    "section": "Остатки пакетов",
+    "relevant_ids": [],
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-045",
+    "query": "Ошибся цифрой и пополнил чужой номер — можно вернуть деньги?",
+    "product": "Мобильная связь",
+    "section": "Ошибочный платёж",
+    "relevant_ids": [
+      "mts_mobilnaya_svyaz/popolnenie-schyota__kak-vernut-oshibochnii-platyozh",
+      "platezhi_i_perevodi_mts_dengi/reshenie-problem-s-platezhami-i-perevodami__kak-vernut-oshibochnii-perevod-s-karti-mts-dengi",
+      "platezhi_i_perevodi/reshenie-problem-s-platezhami-i-perevodami__kak-vernut-oshibochnii-perevod-s-karti-mts-banka"
+    ],
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-046",
+    "query": "Как оформить номер для ребёнка и запретить на нём платные подписки?",
+    "product": "Мобильная связь",
+    "section": "Номер для ребёнка",
+    "relevant_ids": [
+      "mts_mobilnaya_svyaz/oformlenie-novoi-sim-karti__kak-oformit-novuyu-sim-kartu",
+      "mts_mobilnaya_svyaz/esim__kak-oformit-novuyu-esim"
+    ],
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-047",
+    "query": "Замучили спам-звонки, у МТС есть что-то, чтобы их блокировать?",
+    "product": "Мобильная связь",
+    "section": "Защита от спама",
+    "relevant_ids": [
+      "zaschita_ot_spama_i_moshennikov/zaschita-ot-spama-i-moshennichestva__chto-takoe-zapret-massovih-avtomatizirovannih-vizovov-i-kak-ego-podklyuchit",
+      "zaschitnik/zaschitnik-blokirovka-spam-zvonkov__kak-nastroit-pravila-blokirovki-zvonkov",
+      "zaschita_ot_spama_i_moshennikov/zaschita-ot-spama-i-moshennichestva__kak-zablokirovat-spam-i-nomera-moshennikov",
+      "zaschitnik/obschaya-informatsiya-o-zaschitnike__pochemu-prokhodyat-spam-zvonki-yesli-usluga-zashchitnik-podklyuchena",
+      "zaschitnik/zaschitnik-blokirovka-spam-zvonkov__kak-razblokirovat-nuzhnyy-zvonok",
+      "mts_mobilnaya_svyaz/upravlenie-uslugami__kak-upravlyat-uslugami",
+      "zaschitnik/obschaya-informatsiya-o-zaschitnike__chem-polezen-zaschitnik",
+      "mobilnaya-svyaz-b2b/zaschita-ot-spama-dlya-korporativnih-klientov__zaschita-ot-sms-spama-dlya-korporativnih-klientov"
+    ],
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-048",
+    "query": "Какой USSD-командой проверить баланс?",
+    "product": "Мобильная связь",
+    "section": "USSD-команды",
+    "relevant_ids": [
+      "mts_mobilnaya_svyaz/balans-i-spisaniya__kak-proverit-balans",
+      "mts_cashback/obschaya-informatsiya-o-keshbeke__kak-uznat-skolko-u-menya-keshbeka",
+      "mobilnaya-svyaz-b2b/kak-upravlyat-korporativnimi-nomerami__kak-zapretit-sotrudnikam-upravlyat-uslugami",
+      "mobilnaya-svyaz-b2b/oplata-korporativnogo-nomera__kak-proverit-balans-korporativnogo-nomera-i-postupivshie-platezhi",
+      "mts_mobilnaya_svyaz/balans-i-spisaniya__chto-delat-esli-balans-ne-pokazivaetsya-v-prilozhenii-moi-mts"
+    ],
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-049",
+    "query": "что за услуга Вам звонили",
+    "product": "Мобильная связь",
+    "section": "Управление услугами",
+    "relevant_ids": [
+      "lk_mts_business/upravlenie-rashodami-limitami-i-korporativnim-byudzhetom__kak-upravlyat-korporativnim-byudzhetom"
+    ],
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-050",
+    "query": "Чем отличается аренда роутера от покупки в рассрочку, если я через полгода переезжаю?",
+    "product": "Оборудование",
+    "section": "Аренда оборудования",
+    "relevant_ids": [],
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-051",
+    "query": "скока стоит пеедать гиги другу с мтс на мтс",
+    "product": "Мобильная связь",
+    "section": "Остатки пакетов",
+    "relevant_ids": [],
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-052",
+    "query": "премиум отключить как блин уже третий месяц снимают",
+    "product": "Подписки и экосистема",
+    "section": "МТС Premium",
+    "relevant_ids": [
+      "mts-premium/upravlenie-podpiskoi__kak-otklyuchit-mts-premium",
+      "kion_muzika/promokodi-na-kion-muziku__oshibki-pri-aktivatsii-promokodov-na-podpisku-kion-muzika",
+      "mobilnaya-svyaz-b2b/rouming-dlya-korporativnih-klientov__kak-rabotaet-usluga-nol-bez-granits-po-miru"
+    ],
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-053",
+    "query": "поменял телефон и симка не видит сеть, в старом всё работало",
+    "product": "Мобильная связь",
+    "section": "Проблемы со связью",
+    "relevant_ids": [
+      "mts_mobilnaya_svyaz/blokirovka-nomera-problemi-so-svyazyu__chto-delat-pri-problemah-so-svyazyu",
+      "mobilnaya-svyaz-b2b/esim__kak-korporativnomu-klientu-perenesti-esim-v-drugoi-telefon"
+    ],
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-054",
+    "query": "Хочу расторгнуть договор на домашний интернет и сдать оборудование — как это сделать?",
+    "product": "Домашний интернет и ТВ",
+    "section": "Расторжение договора",
+    "relevant_ids": [
+      "domashnii_internet_i_tv/pereezd-pereoformlenie-i-rastorzhenie__kak-rastorgnut-dogovor-na-domashnii-internet-i-tv-msk",
+      "domashnii_internet_i_tv/pereezd-pereoformlenie-i-rastorzhenie__kak-rastorgnut-dogovor-na-domashnii-internet-i-tv",
+      "domashnii_internet_i_tv/pereezd-pereoformlenie-i-rastorzhenie__chto-delat-esli-vladelets-domashnego-interneta-i-tv-umer-msk",
+      "domashnii_internet_i_tv/pereezd-pereoformlenie-i-rastorzhenie__chto-delat-esli-vladelets-domashnego-interneta-i-tv-umer"
+    ],
+    "source": "synthetic",
+    "verified": false
+  }
+]

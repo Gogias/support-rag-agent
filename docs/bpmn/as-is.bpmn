@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bpmn:definitions xmlns:bpmn="http://www.omg.org/spec/BPMN/20100524/MODEL" xmlns:bpmndi="http://www.omg.org/spec/BPMN/20100524/DI" xmlns:dc="http://www.omg.org/spec/DD/20100524/DC" xmlns:di="http://www.omg.org/spec/DD/20100524/DI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Definitions_AsIs" targetNamespace="http://bpmn.io/schema/bpmn" exporter="handmade" exporterVersion="1.0">
+  <bpmn:collaboration id="Collab_AsIs">
+    <bpmn:participant id="Client" name="Клиент" />
+    <bpmn:participant id="Operator" name="Первая линия поддержки (оператор)" processRef="Process_AsIs" />
+    <bpmn:messageFlow id="M1" name="Сообщение" sourceRef="Client" targetRef="Start" />
+    <bpmn:messageFlow id="M2" name="Ответ" sourceRef="Reply" targetRef="Client" />
+  </bpmn:collaboration>
+  <bpmn:process id="Process_AsIs" isExecutable="false">
+    <bpmn:startEvent id="Start" name="Обращение поступило в чат">
+      <bpmn:outgoing>F1</bpmn:outgoing>
+      <bpmn:messageEventDefinition id="MED_Start" />
+    </bpmn:startEvent>
+    <bpmn:userTask id="Take" name="Взять обращение из очереди">
+      <bpmn:incoming>F1</bpmn:incoming>
+      <bpmn:outgoing>F2</bpmn:outgoing>
+    </bpmn:userTask>
+    <bpmn:userTask id="Read" name="Прочитать обращение и понять суть">
+      <bpmn:incoming>F2</bpmn:incoming>
+      <bpmn:outgoing>F3</bpmn:outgoing>
+    </bpmn:userTask>
+    <bpmn:userTask id="Search" name="Найти статью в базе знаний">
+      <bpmn:incoming>F3</bpmn:incoming>
+      <bpmn:outgoing>F4</bpmn:outgoing>
+      <bpmn:property id="Property_Search" name="__targetRef_placeholder" />
+      <bpmn:dataInputAssociation id="DIA_Search">
+        <bpmn:sourceRef>KB</bpmn:sourceRef>
+        <bpmn:targetRef>Property_Search</bpmn:targetRef>
+      </bpmn:dataInputAssociation>
+    </bpmn:userTask>
+    <bpmn:dataStoreReference id="KB" name="База знаний" />
+    <bpmn:exclusiveGateway id="Found" name="Ответ найден?" default="F6">
+      <bpmn:incoming>F4</bpmn:incoming>
+      <bpmn:outgoing>F5</bpmn:outgoing>
+      <bpmn:outgoing>F6</bpmn:outgoing>
+    </bpmn:exclusiveGateway>
+    <bpmn:sendTask id="Reply" name="Пересказать ответ клиенту">
+      <bpmn:incoming>F5</bpmn:incoming>
+      <bpmn:outgoing>F7</bpmn:outgoing>
+    </bpmn:sendTask>
+    <bpmn:endEvent id="Done" name="Обращение закрыто">
+      <bpmn:incoming>F7</bpmn:incoming>
+    </bpmn:endEvent>
+    <bpmn:userTask id="Escalate" name="Передать на вторую линию">
+      <bpmn:incoming>F6</bpmn:incoming>
+      <bpmn:outgoing>F8</bpmn:outgoing>
+    </bpmn:userTask>
+    <bpmn:endEvent id="Passed" name="Передано на вторую линию">
+      <bpmn:incoming>F8</bpmn:incoming>
+    </bpmn:endEvent>
+    <bpmn:sequenceFlow id="F1" sourceRef="Start" targetRef="Take" />
+    <bpmn:sequenceFlow id="F2" sourceRef="Take" targetRef="Read" />
+    <bpmn:sequenceFlow id="F3" sourceRef="Read" targetRef="Search" />
+    <bpmn:sequenceFlow id="F4" sourceRef="Search" targetRef="Found" />
+    <bpmn:sequenceFlow id="F5" name="да" sourceRef="Found" targetRef="Reply">
+      <bpmn:conditionExpression xsi:type="bpmn:tFormalExpression">ответ есть в базе</bpmn:conditionExpression>
+    </bpmn:sequenceFlow>
+    <bpmn:sequenceFlow id="F6" name="нет" sourceRef="Found" targetRef="Escalate" />
+    <bpmn:sequenceFlow id="F7" sourceRef="Reply" targetRef="Done" />
+    <bpmn:sequenceFlow id="F8" sourceRef="Escalate" targetRef="Passed" />
+    <bpmn:textAnnotation id="N1">
+      <bpmn:text>Узкое место: все обращения, от «спасибо» до угроз, ждут в одной очереди</bpmn:text>
+    </bpmn:textAnnotation>
+    <bpmn:association id="Assoc_N1" associationDirection="None" sourceRef="N1" targetRef="Take" />
+    <bpmn:textAnnotation id="N2">
+      <bpmn:text>Узкое место: ручной поиск повторяется для одинаковых вопросов</bpmn:text>
+    </bpmn:textAnnotation>
+    <bpmn:association id="Assoc_N2" associationDirection="None" sourceRef="N2" targetRef="Search" />
+  </bpmn:process>
+  <bpmndi:BPMNDiagram id="Diagram_Process_AsIs">
+    <bpmndi:BPMNPlane id="Plane_Process_AsIs" bpmnElement="Collab_AsIs">
+      <bpmndi:BPMNShape id="Client_di" bpmnElement="Client" isHorizontal="true"><dc:Bounds x="80" y="30" width="1060" height="60" /></bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Operator_di" bpmnElement="Operator" isHorizontal="true"><dc:Bounds x="80" y="130" width="1060" height="330" /></bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Start_di" bpmnElement="Start"><dc:Bounds x="142" y="252" width="36" height="36" /><bpmndi:BPMNLabel><dc:Bounds x="118" y="300" width="84" height="27" /></bpmndi:BPMNLabel></bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Take_di" bpmnElement="Take"><dc:Bounds x="210" y="230" width="120" height="80" /></bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Read_di" bpmnElement="Read"><dc:Bounds x="370" y="230" width="120" height="80" /></bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Search_di" bpmnElement="Search"><dc:Bounds x="530" y="230" width="120" height="80" /></bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="KB_di" bpmnElement="KB"><dc:Bounds x="565" y="355" width="50" height="50" /><bpmndi:BPMNLabel><dc:Bounds x="560" y="410" width="60" height="14" /></bpmndi:BPMNLabel></bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Found_di" bpmnElement="Found" isMarkerVisible="true"><dc:Bounds x="725" y="245" width="50" height="50" /><bpmndi:BPMNLabel><dc:Bounds x="670" y="226" width="74" height="14" /></bpmndi:BPMNLabel></bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Reply_di" bpmnElement="Reply"><dc:Bounds x="850" y="140" width="120" height="80" /></bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Done_di" bpmnElement="Done"><dc:Bounds x="1042" y="162" width="36" height="36" /><bpmndi:BPMNLabel><dc:Bounds x="1031" y="205" width="58" height="27" /></bpmndi:BPMNLabel></bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Escalate_di" bpmnElement="Escalate"><dc:Bounds x="850" y="330" width="120" height="80" /></bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Passed_di" bpmnElement="Passed"><dc:Bounds x="1042" y="352" width="36" height="36" /><bpmndi:BPMNLabel><dc:Bounds x="1024" y="395" width="72" height="27" /></bpmndi:BPMNLabel></bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="N1_di" bpmnElement="N1"><dc:Bounds x="230" y="140" width="220" height="55" /></bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="N2_di" bpmnElement="N2"><dc:Bounds x="520" y="140" width="190" height="55" /></bpmndi:BPMNShape>
+      <bpmndi:BPMNEdge id="F1_di" bpmnElement="F1"><di:waypoint x="178" y="270" /><di:waypoint x="210" y="270" /></bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="F2_di" bpmnElement="F2"><di:waypoint x="330" y="270" /><di:waypoint x="370" y="270" /></bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="F3_di" bpmnElement="F3"><di:waypoint x="490" y="270" /><di:waypoint x="530" y="270" /></bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="F4_di" bpmnElement="F4"><di:waypoint x="650" y="270" /><di:waypoint x="725" y="270" /></bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="F5_di" bpmnElement="F5"><di:waypoint x="750" y="245" /><di:waypoint x="750" y="180" /><di:waypoint x="850" y="180" /><bpmndi:BPMNLabel><dc:Bounds x="758" y="205" width="14" height="14" /></bpmndi:BPMNLabel></bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="F6_di" bpmnElement="F6"><di:waypoint x="750" y="295" /><di:waypoint x="750" y="370" /><di:waypoint x="850" y="370" /><bpmndi:BPMNLabel><dc:Bounds x="758" y="325" width="20" height="14" /></bpmndi:BPMNLabel></bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="F7_di" bpmnElement="F7"><di:waypoint x="970" y="180" /><di:waypoint x="1042" y="180" /></bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="F8_di" bpmnElement="F8"><di:waypoint x="970" y="370" /><di:waypoint x="1042" y="370" /></bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="M1_di" bpmnElement="M1"><di:waypoint x="160" y="90" /><di:waypoint x="160" y="252" /><bpmndi:BPMNLabel><dc:Bounds x="168" y="100" width="60" height="14" /></bpmndi:BPMNLabel></bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="M2_di" bpmnElement="M2"><di:waypoint x="910" y="140" /><di:waypoint x="910" y="90" /><bpmndi:BPMNLabel><dc:Bounds x="918" y="108" width="36" height="14" /></bpmndi:BPMNLabel></bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Assoc_N1_di" bpmnElement="Assoc_N1"><di:waypoint x="270" y="195" /><di:waypoint x="270" y="230" /></bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Assoc_N2_di" bpmnElement="Assoc_N2"><di:waypoint x="590" y="195" /><di:waypoint x="590" y="230" /></bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="DIA_Search_di" bpmnElement="DIA_Search"><di:waypoint x="590" y="355" /><di:waypoint x="590" y="310" /></bpmndi:BPMNEdge>
+    </bpmndi:BPMNPlane>
+  </bpmndi:BPMNDiagram>
+</bpmn:definitions>

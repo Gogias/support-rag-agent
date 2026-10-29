@@ -1,0 +1,1924 @@
+[
+  {
+    "title": "Как посмотреть все номера, оформленные на меня",
+    "source_path": "mts_mobilnaya_svyaz/smena-i-pereoformlenie-nomera__kak-posmotret-vse-nomera-oformlennie-na-menya",
+    "content": "## Как посмотреть номера МТС\n\nЕсли номер МТС оформлен на вас как на физлицо, это можно сделать в приложении Мой МТС и в Личном кабинете. Выберите удобный для вас сервис и нажмите на него, чтобы открыть инструкцию:\n\n**В приложении Мой МТС**\n\n1. На главном экране нажмите на значок профиля  или номер телефона\n\nЕсли в вашем аккаунте есть привязанные номера, нажмите Перейти в профиль. Если привязанных номеров нет, вы сразу попадёте в свой профиль\n\n 2. Выберите Мои договоры\n\n 3. Дождитесь загрузки информации о ваших номерах. Обычно это занимает 1–2 минуты\n\n 4. Вы увидите:\n\n- оформленные на вас номера телефонов\n- номера договоров\n- даты заключения договоров\n- регионы, где они были заключены\n\n**В Личном кабинете**\n\n1. Перейдите в раздел Настройки > [Мои договоры](https://lk.mts.ru/settings/contracts)\n\n2. Дождитесь загрузки информации о ваших номерах. Обычно это занимает 1–2 минуты\n\n3. Вы увидите:\n\n- оформленные на вас номера телефонов\n- номера договоров\n- даты заключения договоров\n- регионы, где они были заключены\n\nЕсли вы пользуетесь корпоративным номером МТС или у вас тариф с мобильной связью, домашним интернетом и ТВ в одном пакете, посмотреть номера в Мой МТС не получится — воспользуйтесь [Госуслугами](https://lk.gosuslugi.ru/settings/sim-cards)",
+    "chunk_id": "mts_mobilnaya_svyaz/smena-i-pereoformlenie-nomera__kak-posmotret-vse-nomera-oformlennie-na-menya::0002",
+    "heading_path": [
+      "Как посмотреть номера МТС"
+    ],
+    "sources": [
+      "mts_mobilnaya_svyaz/smena-i-pereoformlenie-nomera__kak-posmotret-vse-nomera-oformlennie-na-menya"
+    ],
+    "chunk_ids": [
+      "mts_mobilnaya_svyaz/smena-i-pereoformlenie-nomera__kak-posmotret-vse-nomera-oformlennie-na-menya::0002"
+    ],
+    "negative": true,
+    "cand_id": "cand-001"
+  },
+  {
+    "title": "Что делать, если не приходит код для входа в МТС ID",
+    "source_path": "mts_id/chto-delat-esli-voznikli-problemi-so-vhodom__chto-delat-esli-ne-prihodit-kod-dlya-vhoda-v-mts-id",
+    "content": "# Что делать, если не приходит код для входа в МТС ID\n\n1. Проверьте на экране входа, что вы пытаетесь войти в аккаунт под своим основным номером. Если его нужно исправить, нажмите «Войти с другим номером» и наберите нужный\n\n2. Убедитесь, что SIM-карта с нужным номером МТС активна. Чтобы заново зарегистрироваться в сети, включите авиарежим, а затем отключите его\n\n3. Если сигнал слабый или отсутствует, но есть доступ к сети Wi-Fi, вы можете включить функцию VoWiFi и получать СМС через интернет. Подробнее о технологии VoWiFi — [на сайте](https://media.mts.ru/internet/145683/?utm_source=inhouse_support&utm_medium=volte&utm_campaign=volte_support&utm_content=145683-kak-rabotaet-volte-mts_volte_0824)\n\n4. Удалите старые ненужные СМС, чтобы освободить место для получения новых сообщений. В некоторых телефонах может переполняться память\n\n5. Если получить СМС с кодом невозможно, нажмите «Не могу получить СМС» на экране входа:\n\n- отправим код на ваши дополнительные контакты — email или резервный номер, если вы добавили их в своём профиле МТС ранее\n- предложим подтвердить доступ к аккаунту через Госуслуги, если вы подтверждали свои персональные данные в профиле МТС с их помощью\n\n**Совет**\n\nДобавьте дополнительные контакты для восстановления доступа к вашему аккаунту МТС. Так вы сможете получать код для входа на email или резервный номер.\n\nВы можете это сделать в своём профиле МТС в разделе Вход и безопасность > [Восстановление доступа](https://id.mts.ru/account/safety/restore-access)\n\nЕсли SIM-карта в устройстве, которое не принимает СМС, временно установите её в телефон. Вход в профиль и добавление контактов нужно будет подтвердить кодом из СМС.\n\nНастроить дополнительные контакты нужно только один раз, после чего у вас будет постоянный доступ к аккаунту.\n\nЕсли у вас не получилось войти в аккаунт, свяжитесь с нами по номеру [8 800 250-08-90](tel:88002500890)",
+    "chunk_id": "mts_id/chto-delat-esli-voznikli-problemi-so-vhodom__chto-delat-esli-ne-prihodit-kod-dlya-vhoda-v-mts-id::0000",
+    "heading_path": [],
+    "sources": [
+      "mts_id/chto-delat-esli-voznikli-problemi-so-vhodom__chto-delat-esli-ne-prihodit-kod-dlya-vhoda-v-mts-id"
+    ],
+    "chunk_ids": [
+      "mts_id/chto-delat-esli-voznikli-problemi-so-vhodom__chto-delat-esli-ne-prihodit-kod-dlya-vhoda-v-mts-id::0000"
+    ],
+    "negative": true,
+    "cand_id": "cand-002"
+  },
+  {
+    "title": "Как переоформить Спутниковое ТВ на другого человека",
+    "source_path": "mts_stv/dobrovolnaya-blokirovka-pereoformlenie-rastorzhenie__kak-pereoformit-sputnikovoe-tv-na-drugogo-cheloveka",
+    "content": "# Как переоформить Спутниковое ТВ на другого человека\n\n> Если у вас домашнее ТВ без спутниковой антенны, инструкция — [в отдельной статье](https://l.mts.ru/0pereoformit)\n\nДоговор на услуги Спутникового ТВ можно бесплатно переоформить на другого человека, если на лицевом счёте нет задолженностей.\n\nЧтобы переоформить договор, текущему и будущему владельцам нужно вместе обратиться [в любой салон МТС](https://mts.ru/personal/podderzhka/zoni-obsluzhivaniya/offices/). С собой возьмите паспорта.\n\nНа месте текущий и будущий владелец заполняют акт приёма-передачи. В течение суток новому владельцу перейдут:\n\n- номер лицевого счёта\n- остаток денег на счёте\n\nСнять остаток или вывести деньги для возврата прежнему владельцу не получится.",
+    "chunk_id": "mts_stv/dobrovolnaya-blokirovka-pereoformlenie-rastorzhenie__kak-pereoformit-sputnikovoe-tv-na-drugogo-cheloveka::0000",
+    "heading_path": [],
+    "sources": [
+      "mts_stv/dobrovolnaya-blokirovka-pereoformlenie-rastorzhenie__kak-pereoformit-sputnikovoe-tv-na-drugogo-cheloveka"
+    ],
+    "chunk_ids": [
+      "mts_stv/dobrovolnaya-blokirovka-pereoformlenie-rastorzhenie__kak-pereoformit-sputnikovoe-tv-na-drugogo-cheloveka::0000"
+    ],
+    "negative": true,
+    "cand_id": "cand-003"
+  },
+  {
+    "title": "Роуминг-режим Лайт — как получить безлимитные звонки и бесплатный интернет в роуминге",
+    "source_path": "mts_rouming_i_mezhgorod/uslugi-dlya-ekonomii-v-poezdkah-po-miru__rouming-rezhim-layt-kak-poluchit-bezlimitnyye-zvonki-i-besplatnyy-internet-v-rouminge",
+    "content": "## Как работает режим роуминга\n\n **Важно**\n\nРоуминг-режим Лайт доступен только в странах: Абхазия, Австралия, Австрия, Армения, Андорра, Багамские о-ва, Болгария, Германия, Греция, Грузия, Гонконг, Египет, Израиль, Испания, Италия, Казахстан, Кипр, Китай, Куба, Латвия, Литва, ОАЭ, Польша, Таиланд, Турция, Финляндия, Франция, Хорватия, Швеция, Швейцария, Эстония\n\nИспользовать роуминг-режим Лайт можно, если на номере подключена одна из услуг «Лёгкий роуминг и международный доступ» или «Международный и национальный роуминг». Подробнее — в статье [Как подключить услуги для доступа к связи и интернету в роуминге](https://l.mts.ru/rouming-uslugi)\n\nРоуминг-режим можно подключить заранее, находясь дома. Работать он начнёт только за границей, при первом звонке или выходе в интернет. Услуга недоступна для подключения на корпоративном тарифе.\n\nСрок действия режима — 30 дней с момента подключения. По истечении этого срока режим Лайт остаётся активным на номере. При исчерпании пакета интернета вы можете продолжить пользоваться интернетом на скорости до 128 Кбит/с.",
+    "chunk_id": "mts_rouming_i_mezhgorod/uslugi-dlya-ekonomii-v-poezdkah-po-miru__rouming-rezhim-layt-kak-poluchit-bezlimitnyye-zvonki-i-besplatnyy-internet-v-rouminge::0001",
+    "heading_path": [
+      "Как работает режим роуминга"
+    ],
+    "sources": [
+      "mts_rouming_i_mezhgorod/uslugi-dlya-ekonomii-v-poezdkah-po-miru__rouming-rezhim-layt-kak-poluchit-bezlimitnyye-zvonki-i-besplatnyy-internet-v-rouminge"
+    ],
+    "chunk_ids": [
+      "mts_rouming_i_mezhgorod/uslugi-dlya-ekonomii-v-poezdkah-po-miru__rouming-rezhim-layt-kak-poluchit-bezlimitnyye-zvonki-i-besplatnyy-internet-v-rouminge::0001"
+    ],
+    "negative": true,
+    "cand_id": "cand-004"
+  },
+  {
+    "title": "Что такое МТС Лончер",
+    "source_path": "mts-launcher/chto-takoe-mts-loncher__chto-takoe-mts_loncher",
+    "content": "# Что такое МТС Лончер\n\nСейчас сервис недоступен для новых подключений, поэтому пользоваться им могут только те, кто уже настроил его раньше. Скачать приложение и начать пользоваться сервисом не получится\n\nМТС Лончер — это приложение для Android, которое помогает:\n\n- изменить дизайн рабочего стола с помощью разных тем и виджетов\n- сгруппировать приложения для удобного пользования\n- сделать рабочий стол похожим на интерфейс популярного смартфона с помощью стиля «Фруктовый»\n- очистить память телефона и закрыть ненужные приложения одним кликом\n- настроить анимацию при переходе между рабочими столами\n- скрыть и защитить приложения от перемещения, что удобно для родителей\n- поменять иконки приложений, например, на каплю, цветок, медвежонка или сердечко\n- быстро получить доступ к сервисам МТС прямо с рабочего стола",
+    "chunk_id": "mts-launcher/chto-takoe-mts-loncher__chto-takoe-mts_loncher::0000",
+    "heading_path": [],
+    "sources": [
+      "mts-launcher/chto-takoe-mts-loncher__chto-takoe-mts_loncher"
+    ],
+    "chunk_ids": [
+      "mts-launcher/chto-takoe-mts-loncher__chto-takoe-mts_loncher::0000"
+    ],
+    "negative": true,
+    "cand_id": "cand-005"
+  },
+  {
+    "title": "Как активировать промокод в МТС  Premium",
+    "source_path": "mts-premium/upravlenie-podpiskoi__kak-podklyuchit-podpisku-po-promokodu",
+    "content": "# Как активировать промокод в МТС  Premium\n\nПо промокоду можно подключить актуальную [подписку МТС Premium](https://l.mts.ru/0chto-takoe-mts-premium) с временной скидкой. Когда её действие закончится, подписка будет стоить 349 ₽/мес.\n\nПромокод можно активировать, только если у вас нет действующей подписки МТС Premium. Если она есть, для активации промокода её придётся отключить. Прежде, чем сделать это, проверьте свои текущие условия. Например, у вас может быть архивная подписка с безлимитным интернетом. После отключения вернуть её не получится.",
+    "chunk_id": "mts-premium/upravlenie-podpiskoi__kak-podklyuchit-podpisku-po-promokodu::0000",
+    "heading_path": [],
+    "sources": [
+      "mts-premium/upravlenie-podpiskoi__kak-podklyuchit-podpisku-po-promokodu"
+    ],
+    "chunk_ids": [
+      "mts-premium/upravlenie-podpiskoi__kak-podklyuchit-podpisku-po-promokodu::0000"
+    ],
+    "negative": true,
+    "cand_id": "cand-006"
+  },
+  {
+    "title": "Зачем подтверждать данные в Mos ID при аренде самоката или велосипеда в Москве",
+    "source_path": "urent/podtverzhdenie-dannih-v-mos-id-pri-arende-samokatov-i-velosipedov-v-moskve__zachem-podtverzhdat-dannyye-v-mos-id-pri-arende-samokata-ili-velosipeda-v-moskve",
+    "content": "# Зачем подтверждать данные в Mos ID при аренде самоката или велосипеда в Москве\n\nЧтобы сделать поездки на самокатах и велосипедах безопасными и удобными. Это требование Правительства Москвы. Для поездок без ограничений полную учётную запись [на портале Mos ID](https://www.mos.ru/news/item/149902073/)нужно связать с аккаунтом Юрент.\n\nЗарегистрироваться там может любой человек, не только житель Москвы. Это можно сделать по паспорту РФ или через банковскую карту с помощью привязки к Сбер ID, T-ID, ВТБ ID или Альфа ID. Такая мера поможет ограничить доступ к аренде транспорта детям и подросткам, а также быстрее находить нарушителей ПДД.\n\nБез привязки к Mos ID вам доступно пять поездок. Если за это время вы не подтвердите аккаунт на портале, аренда будет недоступна пока не привяжете его [к mos.ru](https://www.mos.ru/)\n\nПодробно о том, как привязать аккаунт Юрент к Mos ID рассказываем в статье [Как связать аккаунт Юрент с Mos ID](https://support.mts.ru/urent/podtverzhdenie-dannih-v-mos-id-pri-arende-samokatov-i-velosipedov-v-moskve/kak-svyazat-akkaunt-urent-s-mos-id)",
+    "chunk_id": "urent/podtverzhdenie-dannih-v-mos-id-pri-arende-samokatov-i-velosipedov-v-moskve__zachem-podtverzhdat-dannyye-v-mos-id-pri-arende-samokata-ili-velosipeda-v-moskve::0000",
+    "heading_path": [],
+    "sources": [
+      "urent/podtverzhdenie-dannih-v-mos-id-pri-arende-samokatov-i-velosipedov-v-moskve__zachem-podtverzhdat-dannyye-v-mos-id-pri-arende-samokata-ili-velosipeda-v-moskve"
+    ],
+    "chunk_ids": [
+      "urent/podtverzhdenie-dannih-v-mos-id-pri-arende-samokatov-i-velosipedov-v-moskve__zachem-podtverzhdat-dannyye-v-mos-id-pri-arende-samokata-ili-velosipeda-v-moskve::0000"
+    ],
+    "negative": true,
+    "cand_id": "cand-007"
+  },
+  {
+    "title": "Как вернуть товар без брака",
+    "source_path": "mts_mts_internet_magazin/vozvrat-tovara-remont-i-garantiya__kak-vernut-tovar-bez-braka",
+    "content": "### **Покупка в салоне МТС**\n\nПравила отличаются для техники и аксессуаров:\n\n- по закону нельзя вернуть смартфон, планшет, ноутбук и [другие технически сложные товары](https://www.consultant.ru/document/cons_doc_LAW_121597/63df0c03a72c20f83fbac36216d643e24c7dc5cd/), если они работают и в них нет заводского брака\n- можно вернуть колонки, наушники, чехлы и другие аксессуары в течение 14 дней. Возьмите с собой паспорт, чек о покупке и обратитесь [в любой салон МТС](https://shop.mts.ru/stores/?tab=list). Сотрудник салона проверит товар и объяснит вам условия возврата",
+    "chunk_id": "mts_mts_internet_magazin/vozvrat-tovara-remont-i-garantiya__kak-vernut-tovar-bez-braka::0002",
+    "heading_path": [
+      "Покупка в салоне МТС"
+    ],
+    "sources": [
+      "mts_mts_internet_magazin/vozvrat-tovara-remont-i-garantiya__kak-vernut-tovar-bez-braka"
+    ],
+    "chunk_ids": [
+      "mts_mts_internet_magazin/vozvrat-tovara-remont-i-garantiya__kak-vernut-tovar-bez-braka::0002"
+    ],
+    "negative": true,
+    "cand_id": "cand-008"
+  },
+  {
+    "title": "Как найти расшифровку звонков в Membrana, на которые ответил Секретарь",
+    "source_path": "membrana/kak-upravlyat-zvonkami__kak-naiti-rasshifrovku-zvonkov-na-kotorie-otvetil-sekretar-",
+    "content": "# Как найти расшифровку звонков в Membrana, на которые ответил Секретарь\n\nСекретарь — это ваш личный голосовой помощник, который:\n\n- автоматически заблокирует звонки от спамеров и мошенников, используя свои алгоритмы и базу данных\n- пообщается за вас, если вы не можете говорить\n- отправит расшифровку разговора в приложение\n\nПосмотреть расшифровку разговоров можно в приложении Membrana и Klasta. Для этого:\n\n1. На главном экране нажмите на значок трубки\n\n2. На открывшемся экране вы увидите звонки за последние 30 дней. Выберите нужный звонок, чтобы посмотреть расшифровку разговора",
+    "chunk_id": "membrana/kak-upravlyat-zvonkami__kak-naiti-rasshifrovku-zvonkov-na-kotorie-otvetil-sekretar-::0000",
+    "heading_path": [],
+    "sources": [
+      "membrana/kak-upravlyat-zvonkami__kak-naiti-rasshifrovku-zvonkov-na-kotorie-otvetil-sekretar-"
+    ],
+    "chunk_ids": [
+      "membrana/kak-upravlyat-zvonkami__kak-naiti-rasshifrovku-zvonkov-na-kotorie-otvetil-sekretar-::0000"
+    ],
+    "negative": true,
+    "cand_id": "cand-009"
+  },
+  {
+    "title": "Что делать, если ключ игры не активируется или он уже использован",
+    "source_path": "rushbe/aktivatsiya-klyuchei__chto-delat-esli-klyuch-igri-ne-aktiviruetsya-ili-on-uzhe-ispolzovan",
+    "content": "# Что делать, если ключ игры не активируется или он уже использован\n\nКлюч можно активировать только один раз на одном устройстве. Если вы уже его использовали, второй раз сделать это не получится.\n\nПожалуйста, проверьте, можно ли активировать ключ в России. Это указано на странице игры. Вот пример, когда активация в России недоступна\n\nТакой ключ можно активировать только в странах СНГ, кроме России и Беларуси.\n\nЕсли активация в России доступна, но ключ не активируется, свяжитесь с нами [в чате](#chat_open). Мы всё проверим.",
+    "chunk_id": "rushbe/aktivatsiya-klyuchei__chto-delat-esli-klyuch-igri-ne-aktiviruetsya-ili-on-uzhe-ispolzovan::0000",
+    "heading_path": [],
+    "sources": [
+      "rushbe/aktivatsiya-klyuchei__chto-delat-esli-klyuch-igri-ne-aktiviruetsya-ili-on-uzhe-ispolzovan"
+    ],
+    "chunk_ids": [
+      "rushbe/aktivatsiya-klyuchei__chto-delat-esli-klyuch-igri-ne-aktiviruetsya-ili-on-uzhe-ispolzovan::0000"
+    ],
+    "negative": true,
+    "cand_id": "cand-010"
+  },
+  {
+    "title": "Как оплатить домашний интернет и ТВ кешбэком",
+    "source_path": "domashnii_internet_i_tv/balans-scheta-i-oplata__kak-oplatit-domashnii-internet-i-tv-keshbekom-msk",
+    "content": "### Особенности пополнения\n\n- перевести кешбэк можно на мобильный номер +7 9\\*\\* \\*\\*\\*-\\*\\*-\\*\\*, городской +7 49\\* \\*\\*\\*-\\*\\*-\\*\\* или виртуальный +7 050 \\*\\*\\*-\\*\\*-\\*\\*. На номер 699 \\*\\*\\*-\\*\\*-\\*\\* перевести кешбэк нельзя\n- размер кешбэка, который можно вывести в месяц, зависит от стоимости вашего тарифа и платных услуг на номере: больше расходов — выше сумма пополнения кешбэком\n- если на номере есть непогашенный обещанный платёж, то перевести кешбэк на баланс не получится\n- максимальный срок зачисления кешбэка — 2 часа\n- на аренду оборудования кешбэк не расходуется",
+    "chunk_id": "domashnii_internet_i_tv/balans-scheta-i-oplata__kak-oplatit-domashnii-internet-i-tv-keshbekom-msk::0004",
+    "heading_path": [
+      "Особенности пополнения"
+    ],
+    "sources": [
+      "domashnii_internet_i_tv/balans-scheta-i-oplata__kak-oplatit-domashnii-internet-i-tv-keshbekom-msk",
+      "domashnii_internet_i_tv/balans-scheta-i-oplata__kak-oplatit-domashnii-internet-i-tv-keshbekom"
+    ],
+    "chunk_ids": [
+      "domashnii_internet_i_tv/balans-scheta-i-oplata__kak-oplatit-domashnii-internet-i-tv-keshbekom-msk::0004",
+      "domashnii_internet_i_tv/balans-scheta-i-oplata__kak-oplatit-domashnii-internet-i-tv-keshbekom::0004"
+    ],
+    "negative": true,
+    "cand_id": "cand-011"
+  },
+  {
+    "title": "Сколько стоят подписки КИОН Лайт и КИОН.Демо, что в них входит",
+    "source_path": "kion/podpiski-v-kion__skolko-stoyat-podpiski-kion-layt-i-kiondemo-chto-v-nikh-vkhodit",
+    "content": "# Сколько стоят подписки КИОН Лайт и КИОН.Демо, что в них входит\n\nЭто бесплатные подписки, которые включены в некоторые тарифы:\n\n- КИОН. Демо — пробная подписка на 30 дней с доступом к большей части контента. Через 30 дней она отключится сама. Деньги за неё не спишутся\n- КИОН Лайт — подписка с ограниченным доступом к контенту. Она всегда будет в тарифе. С ней вы сможете смотреть 20 ТВ-каналов и оригинальные фильмы и сериалы КИОН\n\nЭто бесплатные подписки, платного автопродления по ним нет. Отключить их нельзя, так как они входят в ваш тариф.\n\nЧтобы посмотреть, что входит в подписки, перейдите в раздел Ещё > Подписки > Мои > выберите нужную подписку\n\nПодробно об акции в статье [КИОН в тарифах МТС](https://l.mts.ru/0kion-v-tarifah-mts)",
+    "chunk_id": "kion/podpiski-v-kion__skolko-stoyat-podpiski-kion-layt-i-kiondemo-chto-v-nikh-vkhodit::0000",
+    "heading_path": [],
+    "sources": [
+      "kion/podpiski-v-kion__skolko-stoyat-podpiski-kion-layt-i-kiondemo-chto-v-nikh-vkhodit"
+    ],
+    "chunk_ids": [
+      "kion/podpiski-v-kion__skolko-stoyat-podpiski-kion-layt-i-kiondemo-chto-v-nikh-vkhodit::0000"
+    ],
+    "negative": true,
+    "cand_id": "cand-012"
+  },
+  {
+    "title": "Какие есть ограничения в использовании самоката",
+    "source_path": "urent/pravila-narusheniya-i-shtrafi-v-urent__kakie-est-ogranicheniya-v-ispolzovanii-samokata",
+    "content": "# Какие есть ограничения в использовании самоката\n\n- нельзя кататься в сильный дождь и ветер\n- вес человека не должен превышать 100 кг, иначе самокат может сломаться\n- кататься можно с 18 лет\n- нельзя кататься в состоянии алкогольного или наркотического опьянения\n- один самокат — один человек. Вдвоём нельзя, это опасно и может привести к травмам, штрафу до 100 000 ₽ и блокировке аккаунта\n\nПеред поездкой проверяйте тормоза и соблюдайте [правила дорожного движения](https://support.mts.ru/urent/pravila-narusheniya-i-shtrafi-v-urent/pravila-dorozhnogo-dvizheniya-na-elektrosamokatah). Чтобы избежать травм, советуем надевать шлем.",
+    "chunk_id": "urent/pravila-narusheniya-i-shtrafi-v-urent__kakie-est-ogranicheniya-v-ispolzovanii-samokata::0000",
+    "heading_path": [],
+    "sources": [
+      "urent/pravila-narusheniya-i-shtrafi-v-urent__kakie-est-ogranicheniya-v-ispolzovanii-samokata"
+    ],
+    "chunk_ids": [
+      "urent/pravila-narusheniya-i-shtrafi-v-urent__kakie-est-ogranicheniya-v-ispolzovanii-samokata::0000"
+    ],
+    "negative": true,
+    "cand_id": "cand-013"
+  },
+  {
+    "title": "Как использовать промокод при покупке билетов в МТС Live",
+    "source_path": "mts_mts_live/pokupka-i-ispolzovanie-biletov__kak-ispolzovat-promokod-pri-pokupke-biletov-v-mts-live",
+    "content": "## Особенности\n\n- промокод можно использовать один раз\n- хотя бы 10 ₽ в заказе нужно оплатить с банковской карты\n- нельзя использовать промокод при покупке билетов в кино\n- промокод нельзя использовать вместе с Пушкинской или подарочной картой\n- если сумма покупки меньше номинала промокода, остаток сгорает\n- если вернёте билет, сумма скидки не вернётся\n- если мероприятие отменили, вернуть промокод не получится",
+    "chunk_id": "mts_mts_live/pokupka-i-ispolzovanie-biletov__kak-ispolzovat-promokod-pri-pokupke-biletov-v-mts-live::0001",
+    "heading_path": [
+      "Особенности"
+    ],
+    "sources": [
+      "mts_mts_live/pokupka-i-ispolzovanie-biletov__kak-ispolzovat-promokod-pri-pokupke-biletov-v-mts-live"
+    ],
+    "chunk_ids": [
+      "mts_mts_live/pokupka-i-ispolzovanie-biletov__kak-ispolzovat-promokod-pri-pokupke-biletov-v-mts-live::0001"
+    ],
+    "negative": true,
+    "cand_id": "cand-014"
+  },
+  {
+    "title": "Как отключить подписку КИОН",
+    "source_path": "kion/upravlenie-podpiskoi-i-aktivatsiya-promokoda__kak-otklyuchit-podpisku-kion",
+    "content": "# Как отключить подписку КИОН\n\nПодписку КИОН, которая входит в МТС Premium, отключить нельзя. Она отключится автоматически после удаления МТС Premium. Как отключить подписку МТС Premium, рассказываем [в статье](https://l.mts.ru/0otklyuchit-mts-premium)\n\nПодписки [КИОН. Демо и КИОН Лайт](https://support.mts.ru/kion/podpiski-v-kion/skolko-stoyat-podpiski-kion-layt-i-kiondemo-chto-v-nikh-vkhodit) — бесплатные, платного автопродления по ним нет, отключить их нельзя.\n\nЕсли вы подключали подписку в партнёрских сервисах, то отключить её можно только там же. Если в сервисах КИОН, то отключить её можно [на сайте КИОН](https://kion.ru/)",
+    "chunk_id": "kion/upravlenie-podpiskoi-i-aktivatsiya-promokoda__kak-otklyuchit-podpisku-kion::0000",
+    "heading_path": [],
+    "sources": [
+      "kion/upravlenie-podpiskoi-i-aktivatsiya-promokoda__kak-otklyuchit-podpisku-kion"
+    ],
+    "chunk_ids": [
+      "kion/upravlenie-podpiskoi-i-aktivatsiya-promokoda__kak-otklyuchit-podpisku-kion::0000"
+    ],
+    "negative": true,
+    "cand_id": "cand-015"
+  },
+  {
+    "title": "Что делать, если нет связи с камерой в Cloud Bridge",
+    "source_path": "mts_oblachnoe_videonablyudenie_new/chto-delat-esli-voznikli-problemi-v-rabote-servisa__chto-delat-yesli-net-svyazi-s-kameroy-v-cloud-bridge",
+    "content": "# Что делать, если нет связи с камерой в Cloud Bridge\n\nЕсли устройство, подключённое через функцию Cloud Bridge, недоступно в сервисе — не удаляйте его из аккаунта. Это приведёт к удалению единственной конфигурации устройства в сервисе, восстановить данные будет невозможно. Записанный облачный архив также будет удалён.\n\nЕсли статус камеры в Cloud Bridge изменился с Онлайн на Нет связи, попробуйте следующее:\n\n1. Обновите информацию о статусе камеры — нажмите Обновить в верхней части страницы\n\n2. Рядом с нужной камерой нажмите на кнопку настроек с тремя точками и выберите Переподключить. Если это не помогло, выберите Настроить и проверьте данные для подключения. Если нужно, внесите изменения и нажмите Продолжить\n\n3. Если это не помогло:\n\n- проверьте, что камера подключена к питанию и интернету, а её веб-интерфейс доступен по внешнему IP-адресу. Если нет, проверьте подключение и настройки камеры\n- попробуйте перезагрузить камеру",
+    "chunk_id": "mts_oblachnoe_videonablyudenie_new/chto-delat-esli-voznikli-problemi-v-rabote-servisa__chto-delat-yesli-net-svyazi-s-kameroy-v-cloud-bridge::0000",
+    "heading_path": [],
+    "sources": [
+      "mts_oblachnoe_videonablyudenie_new/chto-delat-esli-voznikli-problemi-v-rabote-servisa__chto-delat-yesli-net-svyazi-s-kameroy-v-cloud-bridge"
+    ],
+    "chunk_ids": [
+      "mts_oblachnoe_videonablyudenie_new/chto-delat-esli-voznikli-problemi-v-rabote-servisa__chto-delat-yesli-net-svyazi-s-kameroy-v-cloud-bridge::0000"
+    ],
+    "negative": true,
+    "cand_id": "cand-016"
+  },
+  {
+    "title": "Дополнительные пакеты интернета ― автопродление",
+    "source_path": "mts_mobilnyy_internet/prodlenie-interneta__avtoprodlenie-interneta",
+    "content": "## Условия использования трафика из дополнительных пакетов\n\n- неиспользованный трафик из дополнительных пакетов не переносится на следующий месяц\n- инициаторы групп «Единый интернет», «Общий пакет», «Все вместе» могут предоставлять членам групп интернет только из основного пакета. Делиться интернетом из дополнительных пакетов невозможно.",
+    "chunk_id": "mts_mobilnyy_internet/prodlenie-interneta__avtoprodlenie-interneta::0004",
+    "heading_path": [
+      "Условия использования трафика из дополнительных пакетов"
+    ],
+    "sources": [
+      "mts_mobilnyy_internet/prodlenie-interneta__avtoprodlenie-interneta"
+    ],
+    "chunk_ids": [
+      "mts_mobilnyy_internet/prodlenie-interneta__avtoprodlenie-interneta::0004"
+    ],
+    "negative": true,
+    "cand_id": "cand-017"
+  },
+  {
+    "title": "Что такое МТС Лончер Junior",
+    "source_path": "mts-launcher-junior/chto-takoe-mts-loncher-junior__chto-takoe-mts-loncher-junior",
+    "content": "# Что такое МТС Лончер Junior\n\nСейчас сервис недоступен для новых подключений, поэтому пользоваться им могут только те, кто уже настроил его раньше. Скачать приложение и начать пользоваться сервисом не получится\n\nМТС Лончер Junior — это приложение для Android, которое помогает:\n\n- изменить дизайн рабочего стола с помощью разных тем и виджетов\n- сгруппировать приложения для удобного пользования\n- сделать рабочий стол похожим на интерфейс популярного смартфона с помощью стиля Фруктовый\n- очистить память телефона и закрыть ненужные приложения одним кликом\n- настроить анимацию при переходе между рабочими столами\n- защитить приложения от случайного перемещения\n- поменять иконки приложений, например, на каплю, цветок, медвежонка или сердечко",
+    "chunk_id": "mts-launcher-junior/chto-takoe-mts-loncher-junior__chto-takoe-mts-loncher-junior::0000",
+    "heading_path": [],
+    "sources": [
+      "mts-launcher-junior/chto-takoe-mts-loncher-junior__chto-takoe-mts-loncher-junior"
+    ],
+    "chunk_ids": [
+      "mts-launcher-junior/chto-takoe-mts-loncher-junior__chto-takoe-mts-loncher-junior::0000"
+    ],
+    "negative": true,
+    "cand_id": "cand-018"
+  },
+  {
+    "title": "Что такое МТС Premium  и какие есть подписки",
+    "source_path": "mts-premium/o-podpiske-mts-premium__chto-takoe-mts-premium",
+    "content": "### На каких тарифах нельзя подключить КИОН + Premium\n\nНа любых тарифах для юридических лиц и на некоторых для физических, а именно:\n\n- Тариф №2\n- Тариф №4\n- Тариф №7\n- Тариф №9\n- Для авто\n- МОДЕМ ЗА РУБЛЬ\\_ПОМИНУТНО\n- Smart Модем+\n- Для планшета\n- Smart для своих. Новогодний\n\nМТС Premium — не тариф. Это дополнительная подписка и её нужно оплачивать отдельно.",
+    "chunk_id": "mts-premium/o-podpiske-mts-premium__chto-takoe-mts-premium::0002",
+    "heading_path": [
+      "Какие есть подписки и что в них входит",
+      "На каких тарифах нельзя подключить КИОН + Premium"
+    ],
+    "sources": [
+      "mts-premium/o-podpiske-mts-premium__chto-takoe-mts-premium"
+    ],
+    "chunk_ids": [
+      "mts-premium/o-podpiske-mts-premium__chto-takoe-mts-premium::0002"
+    ],
+    "negative": true,
+    "cand_id": "cand-019"
+  },
+  {
+    "title": "Как управлять родительским контролем в сервисе Мой Поиск",
+    "source_path": "mts_mts_poisk/nablyudenie-za-uchastnikami-gruppi-moi-poisk__kak-upravlyat-roditelskim-kontrolem-v-servise-moy-poisk",
+    "content": "# Как управлять родительским контролем в сервисе Мой Поиск\n\nСервис Мой Поиск в процессе закрытия и недоступен для новых подключений, поэтому пользоваться им могут только те, кто уже настроил его раньше. Также недоступно добавление новых контактов. Сейчас настроить родительский контроль можно в сервисе [Семейная группа](https://mts.ru/personal/servisy/semejnaya-gruppa)\n\nРодительский контроль показывает, где находится ваш ребёнок, а также полезную информацию о его телефоне:\n\n- заряд аккумулятора\n- баланс\n- подключён ли он к Wi-Fi\n- работает ли дисплей\n\nВключить его можно в приложении Мой Поиск, если оно у вас установлено, или [на сайте Мой Поиск](https://poisk.mts.ru/mts-poisk):\n\n1. Выберите номер, на который хотите установить контроль\n\n2. Переведите переключатель Родительский контроль в нужный режим\n\n3.  Контакт должен принять запрос. После этого у него появится статус Под родительским контролем\n\nУбрать родительский контроль со своего номера можно двумя способами:\n\n- попросить наблюдателя удалить ваш номер из списка контактов\n- если вам есть 18 лет и вы владелец номера, на котором установлен контроль, напишите заявление в салоне МТС. В нём укажите свой номер и номер наблюдателя",
+    "chunk_id": "mts_mts_poisk/nablyudenie-za-uchastnikami-gruppi-moi-poisk__kak-upravlyat-roditelskim-kontrolem-v-servise-moy-poisk::0000",
+    "heading_path": [],
+    "sources": [
+      "mts_mts_poisk/nablyudenie-za-uchastnikami-gruppi-moi-poisk__kak-upravlyat-roditelskim-kontrolem-v-servise-moy-poisk"
+    ],
+    "chunk_ids": [
+      "mts_mts_poisk/nablyudenie-za-uchastnikami-gruppi-moi-poisk__kak-upravlyat-roditelskim-kontrolem-v-servise-moy-poisk::0000"
+    ],
+    "negative": true,
+    "cand_id": "cand-020"
+  },
+  {
+    "title": "Что такое Мой поиск",
+    "source_path": "mts_mts_poisk/o-servise-moi-poisk__chto-takoye-moy-poisk",
+    "content": "# Что такое Мой поиск\n\nСервис Мой Поиск в процессе закрытия и недоступен для новых подключений, поэтому пользоваться им могут только те, кто уже настроил его раньше. Наблюдать за местоположением близких можно в новом сервисе [Семейная группа](https://mts.ru/personal/servisy/semejnaya-gruppa)\n\nМой Поиск — это сервис для определения местоположения близких. Сейчас он недоступен для новых подключений, поэтому пользоваться им могут только те, кто уже настроил его раньше. Скачать приложение Мой поиск и начать пользоваться сервисом не получится.\n\nНастроить детский режим и наблюдать за местоположением близких можно в сервисе [Семейная группа](https://mts.ru/personal/servisy/semejnaya-gruppa). А также:\n\n- получить скидку на тариф\n- делиться семейной скидкой и подпиской МТС Premium с участниками\n- получить доступ к аккаунтам близких и помогать им управлять мобильной связью",
+    "chunk_id": "mts_mts_poisk/o-servise-moi-poisk__chto-takoye-moy-poisk::0000",
+    "heading_path": [],
+    "sources": [
+      "mts_mts_poisk/o-servise-moi-poisk__chto-takoye-moy-poisk"
+    ],
+    "chunk_ids": [
+      "mts_mts_poisk/o-servise-moi-poisk__chto-takoye-moy-poisk::0000"
+    ],
+    "negative": true,
+    "cand_id": "cand-021"
+  },
+  {
+    "title": "Что такое Секретарь+ и как его подключить",
+    "source_path": "servisi_voicetech/sekretar-plyus__chto-takoe-sekretar-plyus-i-kak-ego-podklyuchit",
+    "content": "# Что такое Секретарь+ и как его подключить\n\nВ подписку «Секретарь+» входят услуги:\n\n- «МТС Секретарь» с функцией «Звонок в чат» — ответит на звонок, если вы не взяли трубку. Узнает кто и зачем звонил, а потом сохранит диалог в приложении Мой МТС или отправит в Telegram, если активирован бот. Функция «Звонок в чат» поможет отклонить вызов, если неудобно говорить, и ответить на звонок сообщениями в реальном времени\n- «Интеллектуальная запись» — запишет и сохранит ваши разговоры. После беседы в разделе «Звонки» приложения Мой МТС появятся аудиозапись и текстовая расшифровка звонка\n\nУслуги работают в сети МТС России. В некоторых районах ХМАО и ЯНАО, а также в Крыму или за границей, где нет собственной сети МТС, сервисы могут не работать. Подробнее об услугах рассказываем в разделах [МТС Секретарь](https://support.mts.ru/servisi_voicetech#mts-sekretar) и [Интеллектуальная запись](https://support.mts.ru/servisi_voicetech#intellektualnaya-zapis)\n\nПодписка «Секретарь+» недоступна для корпоративных тарифов МТС.",
+    "chunk_id": "servisi_voicetech/sekretar-plyus__chto-takoe-sekretar-plyus-i-kak-ego-podklyuchit::0000",
+    "heading_path": [],
+    "sources": [
+      "servisi_voicetech/sekretar-plyus__chto-takoe-sekretar-plyus-i-kak-ego-podklyuchit"
+    ],
+    "chunk_ids": [
+      "servisi_voicetech/sekretar-plyus__chto-takoe-sekretar-plyus-i-kak-ego-podklyuchit::0000"
+    ],
+    "negative": true,
+    "cand_id": "cand-022"
+  },
+  {
+    "title": "Что делать, если не работает проводной интернет для бизнеса",
+    "source_path": "mts_fiksirovannaya_svyaz/nastroika-i-diagnostika-provodnogo-interneta-ili-telefonii-dlya-biznesa__chto-delat-esli-ne-rabotaet-provodnoi-internet-dlya-biznesa",
+    "content": "### **Сайт или приложение не загружаются**\n\nИногда один сайт или приложение начинают медленно работать, в то время как другие работают быстро. Вот несколько советов, которые помогут ускорить их работу или найти причину ограничений:\n\n- если вы пользуетесь VPN, отключите его. Некоторые сервисы могут блокировать VPN-трафик\n- убедитесь, что правильно ввели адрес сайта\n- проверьте, что сайта нет [в реестре заблокированных](https://blocklist.rkn.gov.ru/). Если он там есть, зайти на него не получится\n- попробуйте открыть сайт в другом браузере. Очистите кеш и куки, чтобы удалить устаревшие данные, которые могут мешать загрузке\n- откройте сайт или приложение на другом устройстве. Если там всё работает, проверьте настройки вашего устройства\n- временно отключите антивирус или брандмауэр Windows и проверьте, будет ли работать сервис. Если это помогло, добавьте сайт или приложение в список исключений антивируса или брандмауэра\n\nЕсли рекомендации не помогли, обратитесь в поддержку сайта или приложения. Вероятнее всего ограничение на их стороне.\n\n3. Если всё это не помогло, напишите нам [в чат](https://support.mts.ru/mts_fiksirovannaya_svyaz#chat_open)\n\nСоветуем быть рядом с оборудованием, чтобы проверить его работу, если это понадобится для диагностики. Также подготовьте:\n\n- номер вашего договора, на кого он оформлен, лицевой счёт или адрес подключения\n- для услуги VPN — начальную и конечную точки подключения\n- код ошибки или текст сообщения с экрана вашего устройства\n\n[](https://cdn.support.mts.ru/api/v1/uploads/Что_необходимо_знать_при_обращении_в_Контактный_центр_69d4a999b4ecfa7569064e29.mp4)\n\nПолезную информацию о том, что делать при проблемах с интернетом для бизнеса, собрали в памятке.",
+    "chunk_id": "mts_fiksirovannaya_svyaz/nastroika-i-diagnostika-provodnogo-interneta-ili-telefonii-dlya-biznesa__chto-delat-esli-ne-rabotaet-provodnoi-internet-dlya-biznesa::0004",
+    "heading_path": [
+      "Сайт или приложение не загружаются"
+    ],
+    "sources": [
+      "mts_fiksirovannaya_svyaz/nastroika-i-diagnostika-provodnogo-interneta-ili-telefonii-dlya-biznesa__chto-delat-esli-ne-rabotaet-provodnoi-internet-dlya-biznesa"
+    ],
+    "chunk_ids": [
+      "mts_fiksirovannaya_svyaz/nastroika-i-diagnostika-provodnogo-interneta-ili-telefonii-dlya-biznesa__chto-delat-esli-ne-rabotaet-provodnoi-internet-dlya-biznesa::0004"
+    ],
+    "negative": true,
+    "cand_id": "cand-023"
+  },
+  {
+    "title": "Что делать, если камера исчезла из моего аккаунта или перестала работать",
+    "source_path": "mts_oblachnoe_videonablyudenie_new/chto-delat-esli-voznikli-problemi-v-rabote-servisa__chto-delat-yesli-kamera-ischezla-iz-moyego-akkaunta-ili-perestala-rabotat",
+    "content": "# Что делать, если камера исчезла из моего аккаунта или перестала работать\n\nЕсли вы не можете найти камеру в своём аккаунте, значит владелец удалил её или отозвал у вас права доступа.\n\nЕсли камера не работает, возможно, владелец выключил её или камера потеряла связь с сервисом по другой причине.\n\nВ этих случаях рекомендуем связаться с администратором услуги для выяснения ситуации.",
+    "chunk_id": "mts_oblachnoe_videonablyudenie_new/chto-delat-esli-voznikli-problemi-v-rabote-servisa__chto-delat-yesli-kamera-ischezla-iz-moyego-akkaunta-ili-perestala-rabotat::0000",
+    "heading_path": [],
+    "sources": [
+      "mts_oblachnoe_videonablyudenie_new/chto-delat-esli-voznikli-problemi-v-rabote-servisa__chto-delat-yesli-kamera-ischezla-iz-moyego-akkaunta-ili-perestala-rabotat"
+    ],
+    "chunk_ids": [
+      "mts_oblachnoe_videonablyudenie_new/chto-delat-esli-voznikli-problemi-v-rabote-servisa__chto-delat-yesli-kamera-ischezla-iz-moyego-akkaunta-ili-perestala-rabotat::0000"
+    ],
+    "negative": true,
+    "cand_id": "cand-024"
+  },
+  {
+    "title": "Как скачать контент на КИОН и где его найти",
+    "source_path": "kion/ustanovka-i-rabota-prilozheniya-kion__kak-skachat-kontent-na-kion-i-gde-ego-naiti",
+    "content": "# Как скачать контент на КИОН и где его найти\n\nКонтент на КИОН можно скачивать и смотреть в приложении без интернета. Для этого нужна подписка. Скачать фильмы и сериалы на телефон или другой носитель нельзя по решению правообладателей.\n\nЗагруженный контент доступен без интернета 30 дней. Чтобы продлить доступ, откройте фильм, мультфильм или сериал при подключении к интернету.",
+    "chunk_id": "kion/ustanovka-i-rabota-prilozheniya-kion__kak-skachat-kontent-na-kion-i-gde-ego-naiti::0000",
+    "heading_path": [],
+    "sources": [
+      "kion/ustanovka-i-rabota-prilozheniya-kion__kak-skachat-kontent-na-kion-i-gde-ego-naiti"
+    ],
+    "chunk_ids": [
+      "kion/ustanovka-i-rabota-prilozheniya-kion__kak-skachat-kontent-na-kion-i-gde-ego-naiti::0000"
+    ],
+    "negative": true,
+    "cand_id": "cand-025"
+  },
+  {
+    "title": "Что такое Домашний центр МТС",
+    "source_path": "umnii_dom/domashnii-tsentr-mts__chto-takoe-domashnii-tsentr-mts",
+    "content": "# Что такое Домашний центр МТС\n\nЭто хаб, который объединяет разные устройства Умного дома в единую сеть и позволяет управлять ими через приложение МТС Умный дом. Управлять умными устройствами без Домашнего центра не получится.\n\nСейчас доступны два вида центров — с функциями роутера и без. Перед подключением умных устройств сначала добавьте Домашний центр МТС.",
+    "chunk_id": "umnii_dom/domashnii-tsentr-mts__chto-takoe-domashnii-tsentr-mts::0000",
+    "heading_path": [],
+    "sources": [
+      "umnii_dom/domashnii-tsentr-mts__chto-takoe-domashnii-tsentr-mts"
+    ],
+    "chunk_ids": [
+      "umnii_dom/domashnii-tsentr-mts__chto-takoe-domashnii-tsentr-mts::0000"
+    ],
+    "negative": true,
+    "cand_id": "cand-026"
+  },
+  {
+    "title": "Что произойдёт с сервисом МТС Лончер после 1 июля 2026",
+    "source_path": "mts-launcher/zakritie-servisa__chto-proizoydet-s-servisom-loncher-posle-1-iyulya-2026",
+    "content": "# Что произойдёт с сервисом МТС Лончер после 1 июля 2026\n\nС 1 июля 2026 года прекращается техническая поддержка сервисов МТС Лончер и МТС Лончер Junior. Подключить их будет нельзя. У действующих пользователей продолжат работать установленные темы, обои и виджеты из списка доступных, но загружать новые не получится.",
+    "chunk_id": "mts-launcher/zakritie-servisa__chto-proizoydet-s-servisom-loncher-posle-1-iyulya-2026::0000",
+    "heading_path": [],
+    "sources": [
+      "mts-launcher/zakritie-servisa__chto-proizoydet-s-servisom-loncher-posle-1-iyulya-2026"
+    ],
+    "chunk_ids": [
+      "mts-launcher/zakritie-servisa__chto-proizoydet-s-servisom-loncher-posle-1-iyulya-2026::0000"
+    ],
+    "negative": true,
+    "cand_id": "cand-027"
+  },
+  {
+    "title": "Ошибки при активации промокодов на подписку КИОН Музыка",
+    "source_path": "kion_muzika/promokodi-na-kion-muziku__oshibki-pri-aktivatsii-promokodov-na-podpisku-kion-muzika",
+    "content": "# Ошибки при активации промокодов на подписку КИОН Музыка\n\nВыберите, какая ошибка появляется при попытке использовать промокод:\n\n**Промокод не подходит. Возможно, у вас действует подписка MTC Premium или в промокоде есть ошибка**\n\nПроверьте:\n\n- что у вас нет подписки на МТС Premium или МТС Junior. Если есть, КИОН Музыка\\* уже входит в них, поэтому промокод не работает. Отключите подписку и попробуйте снова\n- что выбрана верная раскладка клавиатуры и промокод введён без ошибок\n\n\\*подключается по промокоду\n\nО том, как отключить подписки, рассказываем в статьях [Как отключить подписку на КИОН Музыку](https://l.mts.ru/0otklyuchenie-avtoprodleniya) и [Как отключить подписку МТС Premium](https://l.mts.ru/0otklyuchit-mts-premium)\n\n**Срок активации промокода истёк**\n\nПромокод устарел, его нельзя активировать.\n\n**Сейчас действует другой промокод. Вы сможете активировать новый, когда закончится действие текущего**\n\nБесплатный период от другого промокода ещё активен. Подождите, когда он закончится, затем введите новый.\n\n**Этот промокод уже был активирован**\n\nПромокод уже использовали, ещё раз активировать его не получится.\n\nЕсли что-то пошло не так, свяжитесь с нами в приложении КИОН Музыка > Профиль > Поддержка > Чат. Мы поможем.",
+    "chunk_id": "kion_muzika/promokodi-na-kion-muziku__oshibki-pri-aktivatsii-promokodov-na-podpisku-kion-muzika::0000",
+    "heading_path": [],
+    "sources": [
+      "kion_muzika/promokodi-na-kion-muziku__oshibki-pri-aktivatsii-promokodov-na-podpisku-kion-muzika"
+    ],
+    "chunk_ids": [
+      "kion_muzika/promokodi-na-kion-muziku__oshibki-pri-aktivatsii-promokodov-na-podpisku-kion-muzika::0000"
+    ],
+    "negative": true,
+    "cand_id": "cand-028"
+  },
+  {
+    "title": "Как взаимодействует интернет от МТС Premium с другими интернет-опциями",
+    "source_path": "mts-premium/internet-v-podpiske__kak-vzaimodeystvuyet-internet-ot-mts-premium-s-drugimi-internet-optsiyami",
+    "content": "### **Группы Все вместе/ Все вместе+/ Общий пакет/ Единый интернет/ Для близких**\n\nВсё зависит от вашего тарифа:\n\n- на тарифах с ежемесячной платой интернет от МТС Premium работает только на том номере, где подключена подписка. Делиться им нельзя\n- на тарифах Для устройств, без ежемесячной платы или с платой меньше 100 ₽/мес интернет от МТС Premium не работает. Участники могут пользоваться трафиком инициатора, который включён в его тариф",
+    "chunk_id": "mts-premium/internet-v-podpiske__kak-vzaimodeystvuyet-internet-ot-mts-premium-s-drugimi-internet-optsiyami::0001",
+    "heading_path": [
+      "Группы Все вместе/ Все вместе+/ Общий пакет/ Единый интернет/ Для близких"
+    ],
+    "sources": [
+      "mts-premium/internet-v-podpiske__kak-vzaimodeystvuyet-internet-ot-mts-premium-s-drugimi-internet-optsiyami"
+    ],
+    "chunk_ids": [
+      "mts-premium/internet-v-podpiske__kak-vzaimodeystvuyet-internet-ot-mts-premium-s-drugimi-internet-optsiyami::0001"
+    ],
+    "negative": true,
+    "cand_id": "cand-029"
+  },
+  {
+    "title": "Что делать, если мероприятие перенесли",
+    "source_path": "mts_mts_live/bileti__chto-delat-esli-meropriyatie-perenesli",
+    "content": "# Что делать, если мероприятие перенесли\n\nИногда мероприятия переносятся на другую дату или новое место. Мы обязательно предупредим вас об этом. Напишем:\n\n- на электронную почту, которую вы указывали при оформлении заказа\n- на сайте Ticketland [в разделе Изменения в репертуаре](https://www.ticketland.ru/news/)\n\nВы можете использовать билеты, которые уже купили, на новую дату или место.\n\nЕсли не получится пойти, можно вернуть билеты и получить деньги назад. При этом сервисный сбор не возвращается. Подробная инструкция в статье [Как вернуть билет, если не получается пойти на мероприятие](https://l.mts.ru/0ne-poluchayetsya_lv)",
+    "chunk_id": "mts_mts_live/bileti__chto-delat-esli-meropriyatie-perenesli::0000",
+    "heading_path": [],
+    "sources": [
+      "mts_mts_live/bileti__chto-delat-esli-meropriyatie-perenesli"
+    ],
+    "chunk_ids": [
+      "mts_mts_live/bileti__chto-delat-esli-meropriyatie-perenesli::0000"
+    ],
+    "negative": true,
+    "cand_id": "cand-030"
+  },
+  {
+    "title": "Что такое МТС.ГеоПоиск и как его подключить",
+    "source_path": "zaschitnik/mtsgeopoisk__chto-takoe-mtsgeopoisk-i-kak-ego-podklyuchit",
+    "content": "## Как подключить МТС.ГеоПоиск\n\n1. На главном экране приложения Мой МТС нажмите на виджет Защитник\n\nЕсли такого виджета нет, скорее всего, вы зашли в аккаунт кого-то из ваших близких, которым управляете в Мой МТС. Перейдите в аккаунт со своим основным номером — инструкция есть [в статье](https://l.mts.ru/0akkaunty)\n\n2. Нажмите Все возможности\n\n3. Пролистайте экран вниз до раздела Услуги без доплат. Выберите МТС.ГеоПоиск\n\n4. Нажмите Разрешить для предоставления доступа к геолокации\n\n5. Далее выдайте разрешения для предоставления данных о местоположении по инструкции на экране",
+    "chunk_id": "zaschitnik/mtsgeopoisk__chto-takoe-mtsgeopoisk-i-kak-ego-podklyuchit::0001",
+    "heading_path": [
+      "Как подключить МТС.ГеоПоиск"
+    ],
+    "sources": [
+      "zaschitnik/mtsgeopoisk__chto-takoe-mtsgeopoisk-i-kak-ego-podklyuchit"
+    ],
+    "chunk_ids": [
+      "zaschitnik/mtsgeopoisk__chto-takoe-mtsgeopoisk-i-kak-ego-podklyuchit::0001"
+    ],
+    "negative": false,
+    "cand_id": "cand-031"
+  },
+  {
+    "title": "Как управлять номером МТС, если SIM-карта в планшете, модеме, роутере или часах",
+    "source_path": "mts_mobilnaya_svyaz/smena-i-pereoformlenie-nomera__kak-upravlyat-nomerom-mts-esli-sim-karta-v-planshete-modeme-routere-ili-chasah",
+    "content": "## Как добавить дополнительные контакты для входа\n\n1. Временно установите SIM-карту в телефон. Вход в профиль и добавление контактов нужно будет подтвердить кодом из СМС.\n\n2. В своём профиле МТС перейдите в раздел Вход и безопасность > [Восстановление доступа](https://id.mts.ru/account/safety/restore-access)\n\n3. Добавьте резервный номер и email\n\nНастроить дополнительные контакты нужно только один раз, после чего у вас будет постоянный доступ к аккаунту.\n\nЕсли у вас не получилось войти в аккаунт, свяжитесь с нами по номеру [8 800 250-08-90](tel:88002500890)\n\nЕсли у вас есть другой номер МТС, к его аккаунту можно привязать номер, который вы используете в устройстве. Так вы сможете переключаться между нужными номерами в приложении Мой МТС или в Личном кабинете. Подробнее — в статье [Как управлять другими номерами в МТС](https://l.mts.ru/0privyazat-akkaunt)",
+    "chunk_id": "mts_mobilnaya_svyaz/smena-i-pereoformlenie-nomera__kak-upravlyat-nomerom-mts-esli-sim-karta-v-planshete-modeme-routere-ili-chasah::0001",
+    "heading_path": [
+      "Как добавить дополнительные контакты для входа"
+    ],
+    "sources": [
+      "mts_mobilnaya_svyaz/smena-i-pereoformlenie-nomera__kak-upravlyat-nomerom-mts-esli-sim-karta-v-planshete-modeme-routere-ili-chasah"
+    ],
+    "chunk_ids": [
+      "mts_mobilnaya_svyaz/smena-i-pereoformlenie-nomera__kak-upravlyat-nomerom-mts-esli-sim-karta-v-planshete-modeme-routere-ili-chasah::0001"
+    ],
+    "negative": false,
+    "cand_id": "cand-032"
+  },
+  {
+    "title": "Как создать семейную группу",
+    "source_path": "semeinaya_gruppa/upravlenie-gruppoi__kak-sozdat-semeinuyu-gruppu",
+    "content": "# Как создать семейную группу\n\nУправлять семейной группой можно в приложении Мой МТС версии 6.48.1 и выше. Его можно установить на телефон или планшет, на компьютере его нет.\n\nЧтобы создать группу:\n\n1. На главном экране приложения нажмите на значок профиля или номер телефона\n\nЕсли в вашем аккаунте есть привязанные номера, нажмите Перейти в профиль. Если привязанных номеров нет, вы сразу попадёте в свой профиль\n\n2. В разделе Семейная группа нажмите Создать группу\n\nЕсли на главном экране Мой МТС есть кнопка Семейная группа, можно сразу нажать на неё\n\n3. Нажмите Создать группу\n\n4. Настройте профиль организатора группы:\n\n- укажите своё имя, которое будут видеть все участники группы\n- включите или выключите показ своей геолокации, баланса и остатка ГБ другим участникам\n- нажмите Продолжить\n\nПосле заполнения поля с именем нужно нажать на клавиатуре телефона кнопку Готово. На разных моделях она также может быть изображена со значком ↲ или ✓\n\n5. Заполните профиль участника группы:\n\n- наберите номер телефона\n- укажите имя\n- выберите роль ― Взрослый, Ребёнок или Старший\n\nНа роль Старшего можно пригласить участников в возрасте 60 и более лет\n\n- укажите дату рождения\n- выберите пол участника для роли Ребёнок или Старший\n- нажмите Отправить приглашение\n\nВашему близкому придёт приглашение в группу. Оно действует 48 часов. Как принять приглашение, рассказываем [в статье](https://l.mts.ru/0prinyat-priglashenie)\n\n[Перейти в Семейную группу >](https://c.mts.ru/uQ4e/5odg07yg)",
+    "chunk_id": "semeinaya_gruppa/upravlenie-gruppoi__kak-sozdat-semeinuyu-gruppu::0000",
+    "heading_path": [],
+    "sources": [
+      "semeinaya_gruppa/upravlenie-gruppoi__kak-sozdat-semeinuyu-gruppu"
+    ],
+    "chunk_ids": [
+      "semeinaya_gruppa/upravlenie-gruppoi__kak-sozdat-semeinuyu-gruppu::0000"
+    ],
+    "negative": false,
+    "cand_id": "cand-033"
+  },
+  {
+    "title": "Как подключить автоплатёж для оплаты домашнего интернета и ТВ",
+    "source_path": "domashnii_internet_i_tv/balans-scheta-i-oplata__kak-podklyuchit-avtoplatyozh-dlya-oplati-domashnego-interneta-i-tv-msk",
+    "content": "## Как подключить\n\n**В приложении Мой МТС**\n\nВойдите в приложение по мобильному номеру МТС.\n\n1. Нажмите Пополнить\n\n2. Выберите Автоплатёж\n\n3. Нажмите кнопку Подключить автоплатёж или Добавить новый, если подключали раньше\n\n4. Укажите номер телефона или лицевой счёт для пополнения, способ оплаты, название, вид автоплатежа и другие параметры, затем нажмите Подключить\n\n5. Введите код из СМС, чтобы подтвердить подключение автоплатежа\n\n[Перейти в раздел Автоплатежи >](https://c.mts.ru/uQ4e/b2z09sfo)\n\n**На сайте МТС Оплата через телефон**\n\n1.  Откройте [сайт МТС Оплата](https://payment.mts.ru/autopayment) и укажите назначение платежа:\n\n- Моб. телефон МТС — если подключены мобильная связь и услуги для дома в одном пакете\n- Интернет и ТВ МТС — если подключены интернет и телевидение\n\n2. В реквизитах введите номер телефона из пакета или лицевой счёт\n\n3. Настройте расписание оплаты, введите сумму и нажмите Продолжить\n\n4. Введите номер телефона, чтобы авторизоваться на сайте, и нажмите Далее\n\n5. Введите код из СМС, чтобы подтвердить подключение автоплатежа\n\n**На сайте МТС Оплата через компьютер**\n\n1.  Откройте [сайт МТС Оплата](https://payment.mts.ru/autopayment) и укажите назначение платежа:\n\n- Моб. телефон МТС — если подключены мобильная связь и услуги для дома в одном пакете\n- Интернет и ТВ МТС — если подключены интернет и телевидение\n\n2. В реквизитах введите номер телефона из пакета или лицевой счёт\n\n3. Настройте расписание оплаты, введите сумму и нажмите Продолжить\n\n4. Введите номер телефона, чтобы авторизоваться на сайте, и нажмите Далее\n\n5. Введите код из СМС, чтобы подтвердить подключение автоплатежа",
+    "chunk_id": "domashnii_internet_i_tv/balans-scheta-i-oplata__kak-podklyuchit-avtoplatyozh-dlya-oplati-domashnego-interneta-i-tv-msk::0001",
+    "heading_path": [
+      "Как подключить"
+    ],
+    "sources": [
+      "domashnii_internet_i_tv/balans-scheta-i-oplata__kak-podklyuchit-avtoplatyozh-dlya-oplati-domashnego-interneta-i-tv-msk",
+      "domashnii_internet_i_tv/balans-scheta-i-oplata__kak-podklyuchit-avtoplatyozh-dlya-oplati-domashnego-interneta-i-tv"
+    ],
+    "chunk_ids": [
+      "domashnii_internet_i_tv/balans-scheta-i-oplata__kak-podklyuchit-avtoplatyozh-dlya-oplati-domashnego-interneta-i-tv-msk::0001",
+      "domashnii_internet_i_tv/balans-scheta-i-oplata__kak-podklyuchit-avtoplatyozh-dlya-oplati-domashnego-interneta-i-tv::0001"
+    ],
+    "negative": false,
+    "cand_id": "cand-034"
+  },
+  {
+    "title": "Как привязать банковскую карту для оплаты в МТС Pay",
+    "source_path": "mts_id/upravlenie-bankovskimi-kartami-dlya-oplati-v-mts-pay__kak-privyazat-bankovskuyu-kartu-dlya-oplati-v-mts-pay",
+    "content": "# Как привязать банковскую карту для оплаты в МТС Pay\n\n1. [В профиле МТС ID](https://id.mts.ru/) перейдите в раздел МТС PAY > [Способы оплаты](https://id.mts.ru/account/pay)\n\n 2. Нажмите Добавить карту\n\n 3. Введите данные карты и нажмите Привязать карту\n\n 4. С вашей банковской карты спишется технический платёж, подтвердите его. Сразу после привязки карты сумма вернётся\n\nГотово — теперь с этой карты можно пополнять баланс или оплачивать покупки, и не придётся каждый раз заново вводить реквизиты.",
+    "chunk_id": "mts_id/upravlenie-bankovskimi-kartami-dlya-oplati-v-mts-pay__kak-privyazat-bankovskuyu-kartu-dlya-oplati-v-mts-pay::0000",
+    "heading_path": [],
+    "sources": [
+      "mts_id/upravlenie-bankovskimi-kartami-dlya-oplati-v-mts-pay__kak-privyazat-bankovskuyu-kartu-dlya-oplati-v-mts-pay"
+    ],
+    "chunk_ids": [
+      "mts_id/upravlenie-bankovskimi-kartami-dlya-oplati-v-mts-pay__kak-privyazat-bankovskuyu-kartu-dlya-oplati-v-mts-pay::0000"
+    ],
+    "negative": false,
+    "cand_id": "cand-035"
+  },
+  {
+    "title": "Как управлять услугами",
+    "source_path": "mts_mobilnaya_svyaz/upravlenie-uslugami__kak-upravlyat-uslugami",
+    "content": "### **Как работают услуги «За границей» и «Забугорище»**\n\nС этими услугами вы можете экономить на связи за границей. Без них стоимость звонков и интернета может быть в несколько раз выше. На большинстве тарифов услуга «За границей» или «Забугорище» подключена по умолчанию.\n\nВ России услуги не действуют, и деньги за них не списываются. Если вы включите VPN на своём телефоне, это не активирует услуги «За границей» или «Забугорище». Плата за них списывается только в дни, когда вы звоните, отвечаете на звонок или выходите в интернет за границей. Подробнее об услугах рассказали в отдельных статьях:\n\n- [Как работает услуга За границей](https://l.mts.ru/0za-granitsei)\n- [Как работает услуга Забугорище](https://l.mts.ru/0zabugorische)",
+    "chunk_id": "mts_mobilnaya_svyaz/upravlenie-uslugami__kak-upravlyat-uslugami::0016",
+    "heading_path": [
+      "Часто спрашивают",
+      "Как работают услуги «За границей» и «Забугорище»"
+    ],
+    "sources": [
+      "mts_mobilnaya_svyaz/upravlenie-uslugami__kak-upravlyat-uslugami"
+    ],
+    "chunk_ids": [
+      "mts_mobilnaya_svyaz/upravlenie-uslugami__kak-upravlyat-uslugami::0016"
+    ],
+    "negative": false,
+    "cand_id": "cand-036"
+  },
+  {
+    "title": "Руководство по эксплуатации ТВ-приставок",
+    "source_path": "domashnii_internet_i_tv/oborudovanie__rukovodstvo-po-ekspluatatsii-tv-pristavok-i-cam-modulei",
+    "content": "### Общие параметры\n\n|  |  |\n| --- | --- |\n| Сегмент | OTT |\n| Версия ОС | Android 11 |\n| Порты | HDMI, USB/Type C |\n| Wi-Fi | 2,4 ГГц / 5 ГГц |\n| Bluetooth | Версия 4.2 |\n| Функции ТВ | UHD, 1080p, 720p  EPG — программа передач  VOD — сериалы, фильмы, мультфильмы и документальное кино собственного производства, снятые специально для КИОН  Catch UP — повтор телепередач до 7 дней  Пауза Timeshift — приостановка текущего эфира  Родительский контроль — до 3 профилей на одном аккаунте, включая Детский режим |\n| Внешний блок питания | 5В 2А |\n| Корпус | Размер ДхШхВ: 82 мм х 68 мм х 15 мм |",
+    "chunk_id": "domashnii_internet_i_tv/oborudovanie__rukovodstvo-po-ekspluatatsii-tv-pristavok-i-cam-modulei::0029",
+    "heading_path": [
+      "ОТТ-приставки",
+      "Общие параметры"
+    ],
+    "sources": [
+      "domashnii_internet_i_tv/oborudovanie__rukovodstvo-po-ekspluatatsii-tv-pristavok-i-cam-modulei",
+      "domashnii_internet_i_tv/oborudovanie__rukovodstvo-po-ekspluatatsii-tv-pristavok-msk"
+    ],
+    "chunk_ids": [
+      "domashnii_internet_i_tv/oborudovanie__rukovodstvo-po-ekspluatatsii-tv-pristavok-i-cam-modulei::0029",
+      "domashnii_internet_i_tv/oborudovanie__rukovodstvo-po-ekspluatatsii-tv-pristavok-msk::0029"
+    ],
+    "negative": false,
+    "cand_id": "cand-037"
+  },
+  {
+    "title": "Как пополнить баланс телефона кешбэком",
+    "source_path": "mts_mobilnaya_svyaz/popolnenie-schyota__kak-popolnit-balans-telefona-keshbekom",
+    "content": "### **Почему я не могу вывести кешбэк на баланс номера**\n\nЧаще всего перевод кешбэка на баланс не проходит по одной из причин:\n\n- вы переводите кешбэк на другой номер. Перевод доступен только на номер, где он накоплен\n- вы уже использовали лимит в этом месяце. Лимит обновится в следующем месяце\n- на номере не подключена услуга Служба коротких сообщений. Она бесплатная и нужна для СМС. Проверить её можно в приложении Мой МТС > Услуги > Настройки связи или в Личном кабинете [в разделе Услуги](https://lk.mts.ru/uslugi/podklyuchennye). Если услуги нет, подключите её там же\n- номер заблокирован из-за отрицательного баланса. Пополните счёт\n- у вас кешбэка меньше, чем вы пытаетесь перевести\n- вы подали заявку на перенос номера к другому оператору\n- номер оформлен на юридическое лицо\n- на номере есть непогашенный обещанный платёж",
+    "chunk_id": "mts_mobilnaya_svyaz/popolnenie-schyota__kak-popolnit-balans-telefona-keshbekom::0004",
+    "heading_path": [
+      "Часто спрашивают",
+      "Почему я не могу вывести кешбэк на баланс номера"
+    ],
+    "sources": [
+      "mts_mobilnaya_svyaz/popolnenie-schyota__kak-popolnit-balans-telefona-keshbekom"
+    ],
+    "chunk_ids": [
+      "mts_mobilnaya_svyaz/popolnenie-schyota__kak-popolnit-balans-telefona-keshbekom::0004"
+    ],
+    "negative": false,
+    "cand_id": "cand-038"
+  },
+  {
+    "title": "Облачное хранение 7 дней",
+    "source_path": "umnii_dom/umnaya-domashnyaya-kamera__oblachnoe-hranenie-7-dnei",
+    "content": "### **Как отключить подписку**\n\n1. Перейдите в раздел Профиль\n\n2. Нажмите Центр подписок\n\n3. Выберите камеру видеонаблюдения, где подключена подписка\n\n4. Нажмите Отменить подписку\n\n5. Ещё раз нажмите Отменить подписку\n\nБез подписки будут работать круглосуточная видеотрансляция в мобильном приложении и пуш-уведомления по событиям при движении в кадре или громких звуках.",
+    "chunk_id": "umnii_dom/umnaya-domashnyaya-kamera__oblachnoe-hranenie-7-dnei::0004",
+    "heading_path": [
+      "Как отключить подписку"
+    ],
+    "sources": [
+      "umnii_dom/umnaya-domashnyaya-kamera__oblachnoe-hranenie-7-dnei"
+    ],
+    "chunk_ids": [
+      "umnii_dom/umnaya-domashnyaya-kamera__oblachnoe-hranenie-7-dnei::0004"
+    ],
+    "negative": false,
+    "cand_id": "cand-039"
+  },
+  {
+    "title": "Как настроить качество видеотрансляции",
+    "source_path": "mts_oblachnoe_videonablyudenie_new/upravlenie-videotranslyatsiei__kak-nastroit-kachestvo-videotranslyatsii",
+    "content": "# Как настроить качество видеотрансляции\n\nПо умолчанию публичное видео транслируется в том качестве, которое установлено в настройках камеры. Вы можете управлять качеством видео с помощью встроенного переключателя. Для этого:\n\n1. Откройте меню плеера камеры, нажав на кнопку с тремя горизонтальными линиями > выберите Качество воспроизведения\n\n2. Установите нужное качество просмотра — высокое или низкое",
+    "chunk_id": "mts_oblachnoe_videonablyudenie_new/upravlenie-videotranslyatsiei__kak-nastroit-kachestvo-videotranslyatsii::0000",
+    "heading_path": [],
+    "sources": [
+      "mts_oblachnoe_videonablyudenie_new/upravlenie-videotranslyatsiei__kak-nastroit-kachestvo-videotranslyatsii"
+    ],
+    "chunk_ids": [
+      "mts_oblachnoe_videonablyudenie_new/upravlenie-videotranslyatsiei__kak-nastroit-kachestvo-videotranslyatsii::0000"
+    ],
+    "negative": false,
+    "cand_id": "cand-040"
+  },
+  {
+    "title": "Как настроить родительский контроль в КИОН",
+    "source_path": "kion/upravlenie-profilem__kak-nastroit-roditelskii-kontrol-v-kion",
+    "content": "### **На телевизоре или приставке на Android TV**\n\nЭто инструкция для Android TV с приложением КИОН версии 1.1.189.126.8 и выше. Если у вас версия ниже, перейдите во вкладку На другом телевизоре или приставке\n\n1. Войдите на нужный профиль > откройте боковое меню > нажмите на иконку сверху > Настройки профиля\n\n2. Под нужным профилем нажмите кнопку Изменить\n\n3. Нажмите вкладку Родительский контроль\n\n4. Выберите возрастное ограничение или отключите его\n\n5. Введите ПИН-код, чтобы подтвердить изменения\n\nДля дополнительного профиля можно настроить защиту от нежелательных покупок. Для этого в карточке дополнительного профиля включите функцию ПИН-код при покупке.",
+    "chunk_id": "kion/upravlenie-profilem__kak-nastroit-roditelskii-kontrol-v-kion::0003",
+    "heading_path": [
+      "На телевизоре или приставке на Android TV"
+    ],
+    "sources": [
+      "kion/upravlenie-profilem__kak-nastroit-roditelskii-kontrol-v-kion"
+    ],
+    "chunk_ids": [
+      "kion/upravlenie-profilem__kak-nastroit-roditelskii-kontrol-v-kion::0003"
+    ],
+    "negative": false,
+    "cand_id": "cand-041"
+  },
+  {
+    "title": "Что делать, если владелец домашнего интернета и ТВ умер",
+    "source_path": "domashnii_internet_i_tv/pereezd-pereoformlenie-i-rastorzhenie__chto-delat-esli-vladelets-domashnego-interneta-i-tv-umer-msk",
+    "content": "# Что делать, если владелец домашнего интернета и ТВ умер\n\n **Важно**\n\nИнформация для клиентов, которые подключали услуги в Москве и Московской области. Измените город, если подключали услуги в другом регионе\n\n[Изменить город](#geo_open)\n\nЕсли владелец умер, услуги можно переоформить на нового пользователя или расторгнуть договор. Нажмите на способ, который вам подходит, чтобы открыть подробности:",
+    "chunk_id": "domashnii_internet_i_tv/pereezd-pereoformlenie-i-rastorzhenie__chto-delat-esli-vladelets-domashnego-interneta-i-tv-umer-msk::0000",
+    "heading_path": [],
+    "sources": [
+      "domashnii_internet_i_tv/pereezd-pereoformlenie-i-rastorzhenie__chto-delat-esli-vladelets-domashnego-interneta-i-tv-umer-msk",
+      "domashnii_internet_i_tv/pereezd-pereoformlenie-i-rastorzhenie__chto-delat-esli-vladelets-domashnego-interneta-i-tv-umer"
+    ],
+    "chunk_ids": [
+      "domashnii_internet_i_tv/pereezd-pereoformlenie-i-rastorzhenie__chto-delat-esli-vladelets-domashnego-interneta-i-tv-umer-msk::0000",
+      "domashnii_internet_i_tv/pereezd-pereoformlenie-i-rastorzhenie__chto-delat-esli-vladelets-domashnego-interneta-i-tv-umer::0000"
+    ],
+    "negative": false,
+    "cand_id": "cand-042"
+  },
+  {
+    "title": "Как настроить Zoiper",
+    "source_path": "avtosekretar_20/nastroika-oborudovaniya-avtosekretar-20__kak-nastroit-zoiper",
+    "content": "# Как настроить Zoiper\n\nЧтобы настроить, потребуются:\n\n- SIP-логин. В примере настройки — 9160000000U0000. Как получить SIP-логин, рассказываем [в статье](https://l.mts.ru/as2_sip)\n- пароль от SIP–учётной записи. В примере настройки — Password\n- SIP Server — reg.aa.mts.ru\n- Outbound proxy — reg.aa.mts.ru\n\nНастройка Zoiper для ПК\n\n1. После установки и запуска приложения Zoiper нажмите Continue as a Free user на главном экране\n\n2. Введите имя пользователя и пароль вашей учётной записи. Нажмите Login\n\n3. Укажите адрес SIP–сервера и нажмите Next\n\n4. Выберите Optional, затем укажите имя авторизации и адрес исходящего прокси\n\n5. Если данные указаны правильно, вы увидите доступную конфигурацию вызовов. Нажмите Next\n\n6. Настройка учётной записи завершена. Чтобы добавить дополнительный аккаунт Автосекретаря ВАТС, нажмите кнопку Add\n\nНастройка подключения завершена.\n\nЕсли в ходе тестирования возникли ошибки, обратитесь к персональному менеджеру или по номеру [8 800 250-09-90](tel:88002500990). Сообщите:\n\n- номер, с которого звонили\n- номер, на который звонили\n- дату и время звонка\n\nНастройка Zoiper для iOS\n\n1. Установите приложение [Zoiper для iOS](https://apps.apple.com/ru/app/zoiper-lite-voip-soft-phone/id438949960) из App Store\n\n2. Откройте приложение и перейдите в раздел Настройки\n\n3. В разделе Настройки нажмите Учётные записи, далее на значок +\n\n4. Подтвердите, что учётная запись уже есть, затем выберите пункт Ручная настройка\n\n5. Выберите тип учётной записи — SIP\n\n6. Заполните параметры учётной записи:\n\n- Учетная запись — укажите название учётной записи\n- Домен — reg.aa.mts.ru\n- Имя пользователя, ID абонента, Имя авторизации — ваш SIP–логин в формате, указанном в исходных данных\n- Пароль — пароль от SIP–учётной записи\n- Исходящий прокси: reg.aa.mts.ru\n\nНажмите Зарегистрировать. Если настройки указаны верно, вы увидите успешный статус регистрации\n\nНастройка подключения завершена.\n\nЕсли в ходе тестирования возникли ошибки, обратитесь к персональному менеджеру или по номеру [8 800 250-09-90](tel:88002500990). Сообщите:\n\n- номер, с которого звонили\n- номер, на который звонили\n- дату и время звонка",
+    "chunk_id": "avtosekretar_20/nastroika-oborudovaniya-avtosekretar-20__kak-nastroit-zoiper::0000",
+    "heading_path": [],
+    "sources": [
+      "avtosekretar_20/nastroika-oborudovaniya-avtosekretar-20__kak-nastroit-zoiper"
+    ],
+    "chunk_ids": [
+      "avtosekretar_20/nastroika-oborudovaniya-avtosekretar-20__kak-nastroit-zoiper::0000"
+    ],
+    "negative": false,
+    "cand_id": "cand-043"
+  },
+  {
+    "title": "Как привязать карту или другой способ оплаты в Юрент",
+    "source_path": "urent/oplata__kak-privyazat-kartu-ili-drugoi-sposob-oplati-v-urent",
+    "content": "# Как привязать карту или другой способ оплаты в Юрент\n\n1. Перейдите в меню\n\n2. В правом нижнем углу нажмите Способ оплаты\n\n3. Нажмите Добавить способ оплаты\n\n4. Выберите подходящий способ оплаты и следуйте инструкциям\n\nМы проведём платёж 15 ₽, чтобы подтвердить способ, который вы выбрали. Затем вернём деньги обратно.",
+    "chunk_id": "urent/oplata__kak-privyazat-kartu-ili-drugoi-sposob-oplati-v-urent::0000",
+    "heading_path": [],
+    "sources": [
+      "urent/oplata__kak-privyazat-kartu-ili-drugoi-sposob-oplati-v-urent"
+    ],
+    "chunk_ids": [
+      "urent/oplata__kak-privyazat-kartu-ili-drugoi-sposob-oplati-v-urent::0000"
+    ],
+    "negative": false,
+    "cand_id": "cand-044"
+  },
+  {
+    "title": "Как работать с дашбордами в МТС Экологии",
+    "source_path": "mts_ekologiya/dashbordi-i-analitika__kak-rabotat-s-dashbordami-v-mts-ekologii",
+    "content": "### **Дашборд №1. Мониторинг количества превышений концентрации вещества на постах мониторинга**\n\nДля его создания выберите фильтры:\n\n- Интервал времени — по умолчанию это прошедшая неделя. Чтобы изменить период, нажмите на календарь  в панели Фильтры и выберите даты начала и окончания\n\n- Посты мониторинга — выберите из списка нужные посты мониторинга\n\n- Вещество — выберите нужные вещества в разделе «Выбрать вещество»\n\nПосле выбора параметров нажмите Применить. Будет сформирован дашборд, в котором показаны названия постов и количество превышений выбросов за выбранный период. Чтобы увидеть подробную сводку за конкретный день, наведите курсор на нужную дату",
+    "chunk_id": "mts_ekologiya/dashbordi-i-analitika__kak-rabotat-s-dashbordami-v-mts-ekologii::0001",
+    "heading_path": [
+      "Дашборд №1. Мониторинг количества превышений концентрации вещества на постах мониторинга"
+    ],
+    "sources": [
+      "mts_ekologiya/dashbordi-i-analitika__kak-rabotat-s-dashbordami-v-mts-ekologii"
+    ],
+    "chunk_ids": [
+      "mts_ekologiya/dashbordi-i-analitika__kak-rabotat-s-dashbordami-v-mts-ekologii::0001"
+    ],
+    "negative": false,
+    "cand_id": "cand-045"
+  },
+  {
+    "title": "Как настроить время на камере в Личном кабинете Облачного видеонаблюдения",
+    "source_path": "mts_oblachnoe_videonablyudenie_new/upravlenie-kameroi__kak-nastroit-vremya-na-kamere-v-lichnom-kabinete-oblachnogo-videonablyudeniya",
+    "content": "# Как настроить время на камере в Личном кабинете Облачного видеонаблюдения\n\nВ личном кабинете можно настроить только часовой пояс. Для этого:\n\n1. Перейдите в раздел [Камеры](https://new.video.mts.ru/) > нажмите на три точки рядом с названием камеры > Настройки камеры\n\n2. Откройте вкладку Системные и выберите нужный часовой пояс. Нажмите Применить\n\nЧтобы настроить время и дату, выполните настройки на самой камере по инструкции к ней.",
+    "chunk_id": "mts_oblachnoe_videonablyudenie_new/upravlenie-kameroi__kak-nastroit-vremya-na-kamere-v-lichnom-kabinete-oblachnogo-videonablyudeniya::0000",
+    "heading_path": [],
+    "sources": [
+      "mts_oblachnoe_videonablyudenie_new/upravlenie-kameroi__kak-nastroit-vremya-na-kamere-v-lichnom-kabinete-oblachnogo-videonablyudeniya"
+    ],
+    "chunk_ids": [
+      "mts_oblachnoe_videonablyudenie_new/upravlenie-kameroi__kak-nastroit-vremya-na-kamere-v-lichnom-kabinete-oblachnogo-videonablyudeniya::0000"
+    ],
+    "negative": false,
+    "cand_id": "cand-046"
+  },
+  {
+    "title": "Звонки с корпоративных SIM-карт",
+    "source_path": "avtosekretar_20/vozmozhnosti-integratsii-s-bitriks24__zvonki-s-korporativnih-sim-kart",
+    "content": "# Звонки с корпоративных SIM-карт\n\nЕсли в личном кабинете Автосекретаря за сотрудником закреплена корпоративная SIM-карта, звонки с этой SIM-карты будут передаваться и сохраняться в Битрикс24 — в статистике вызовов и в карточке клиента.\n\nВсплывающая карточка и запись разговоров работают аналогично использованию программного телефона\n\nПосмотреть с какого номера совершался звонок — с многоканального номера Автосекретаря или с корпоративной SIM-карты, можно в статистике вызовов и в карточке сделки",
+    "chunk_id": "avtosekretar_20/vozmozhnosti-integratsii-s-bitriks24__zvonki-s-korporativnih-sim-kart::0000",
+    "heading_path": [],
+    "sources": [
+      "avtosekretar_20/vozmozhnosti-integratsii-s-bitriks24__zvonki-s-korporativnih-sim-kart"
+    ],
+    "chunk_ids": [
+      "avtosekretar_20/vozmozhnosti-integratsii-s-bitriks24__zvonki-s-korporativnih-sim-kart::0000"
+    ],
+    "negative": false,
+    "cand_id": "cand-047"
+  },
+  {
+    "title": "Как настроить детекцию автономеров для камер со встроенным модулем аналитики",
+    "source_path": "mts_oblachnoe_videonablyudenie_new/detektsiya-avtomobilnih-nomerov__kak-nastroit-detektsiyu-avtonomerov-dlya-kamer-so-vstroennim-modulem-analitiki",
+    "content": "### **Internet Explorer**\n\n1. Откройте браузер и введите IP-адрес камеры в адресную строку\n\n2. Укажите имя пользователя и пароль, затем нажмите Вход\n\n3. Скачайте плагин WebComponents.exe, когда браузер предложит это сделать. Этот плагин нужен для просмотра видео и изменения настроек\n\n4. Закройте браузер и установите WebComponents.exe\n\n5. После установки снова откройте браузер и войдите в веб-интерфейс камеры: введите IP-адрес камеры в адресную строку, затем имя пользователя и пароль",
+    "chunk_id": "mts_oblachnoe_videonablyudenie_new/detektsiya-avtomobilnih-nomerov__kak-nastroit-detektsiyu-avtonomerov-dlya-kamer-so-vstroennim-modulem-analitiki::0002",
+    "heading_path": [
+      "Шаг 1. Войдите в веб-интерфейс камеры",
+      "Internet Explorer"
+    ],
+    "sources": [
+      "mts_oblachnoe_videonablyudenie_new/detektsiya-avtomobilnih-nomerov__kak-nastroit-detektsiyu-avtonomerov-dlya-kamer-so-vstroennim-modulem-analitiki"
+    ],
+    "chunk_ids": [
+      "mts_oblachnoe_videonablyudenie_new/detektsiya-avtomobilnih-nomerov__kak-nastroit-detektsiyu-avtonomerov-dlya-kamer-so-vstroennim-modulem-analitiki::0002"
+    ],
+    "negative": false,
+    "cand_id": "cand-048"
+  },
+  {
+    "title": "Что делать, если за границей не работает связь или интернет",
+    "source_path": "mts_rouming_i_mezhgorod/poezdki-po-miru__chto-delat-esli-za-granitsei-ne-rabotaet-svyaz-ili-internet",
+    "content": "1. Отключите автоматический выбор сети и дождитесь загрузки списка местных операторов\n2. Попробуйте зарегистрироваться во всех доступных сетях, даже если какие-то из них отмечены крестиком или надписью «Запрещено». Как это сделать:\n\n**На айфоне**\n\n**Айфон с одной SIM-картой:** Настройки > Сотовая связь > Выбор сети\n\n**Айфон с двумя SIM-картами:** Настройки > Сотовая связь > в разделе SIM-карты выберите SIM 1 или SIM 2 > Выбор сети\n\n**На андроиде**\n\n**Xiaomi, Redmi:** Настройки > Мобильные сети > выберите SIM 1 или SIM 2 > Мобильные сети\n\n**Samsung:** Настройки > Подключения > Мобильные сети > Операторы сети\n\n**Huawei:** Настройки > Мобильная сеть > Мобильная передача данных > Оператор\n\n**realme:** Настройки > Мобильная сеть > выберите SIM 1 или SIM 2 > Оператор\n\n**TECNO:** Настройки > Настройки SIM-карты и сети > выберите SIM 1 или SIM 2 > Выбрать сеть\n\n**Infinix:** Настройки > Настройки SIM‑карты и сети > выберите SIM 1 или SIM 2 > Выбрать сеть\n\n**HONOR:** Настройки > Мобильная сеть > Мобильная передача данных > Оператор SIM 1 или SIM 2\n\n**vivo:** Настройки > Сеть и интернет > SIM‑карта и мобильная сеть > выберите SIM 1 или SIM 2 в разделе Информация и настройки SIM‑карты > отключите Выбирать сеть автоматически > Выбрать сеть\n\n**OPPO:** Настройки > SIM‑карты и мобильные данные > выберите SIM 1 или SIM 2 > Оператор\n\n**POCO:** Настройки > SIM‑карты и мобильные сети > выберите SIM 1 или SIM 2 > Мобильные сети\n\nПосле регистрации в сети иностранного оператора на экране появится её название или код. Когда вернётесь в Россию, не забудьте вернуть автоматический выбор сети.\n\nЕсли связь появилась, а интернета нет",
+    "chunk_id": "mts_rouming_i_mezhgorod/poezdki-po-miru__chto-delat-esli-za-granitsei-ne-rabotaet-svyaz-ili-internet::0001",
+    "heading_path": [],
+    "sources": [
+      "mts_rouming_i_mezhgorod/poezdki-po-miru__chto-delat-esli-za-granitsei-ne-rabotaet-svyaz-ili-internet"
+    ],
+    "chunk_ids": [
+      "mts_rouming_i_mezhgorod/poezdki-po-miru__chto-delat-esli-za-granitsei-ne-rabotaet-svyaz-ili-internet::0001"
+    ],
+    "negative": false,
+    "cand_id": "cand-049"
+  },
+  {
+    "title": "МТС Вторая память закрывается. Что это значит",
+    "source_path": "mts_vtoraya_pamyat/zakritie-servisa__mts-vtoraya-pamyat-zakryvayetsya-chto-eto-znachit",
+    "content": "### **Я получил ссылку на скачивание архива, что мне с ней делать**\n\n1. Откройте ссылку из СМС\n\n2. Нажмите Скачать\n\n3. Выберите папку для сохранения. Убедитесь, что на устройстве хватает свободного места\n\n4. Дождитесь окончания загрузки. Лучше использовать стабильное подключение по Wi-Fi. Если загрузка прервалась, запустите её снова по той же ссылке\n\n5. Распакуйте архив:\n\n- на компьютере — нажмите правой кнопкой мыши на архив > Разархивировать или Извлечь файлы\n- на айфоне — откройте Файлы > нажмите на архив > Распаковать\n- на андроиде — откройте Файлы или любой архиватор из Google Play > Распаковать\n\nПосле распаковки выгрузятся все ваши файлы, фото и видео.",
+    "chunk_id": "mts_vtoraya_pamyat/zakritie-servisa__mts-vtoraya-pamyat-zakryvayetsya-chto-eto-znachit::0006",
+    "heading_path": [
+      "Часто спрашивают",
+      "Я получил ссылку на скачивание архива, что мне с ней делать"
+    ],
+    "sources": [
+      "mts_vtoraya_pamyat/zakritie-servisa__mts-vtoraya-pamyat-zakryvayetsya-chto-eto-znachit"
+    ],
+    "chunk_ids": [
+      "mts_vtoraya_pamyat/zakritie-servisa__mts-vtoraya-pamyat-zakryvayetsya-chto-eto-znachit::0006"
+    ],
+    "negative": false,
+    "cand_id": "cand-050"
+  },
+  {
+    "title": "Как удалить карту в приложении Юрент",
+    "source_path": "urent/oplata__kak-udalit-kartu-v-prilozhenii-urent",
+    "content": "# Как удалить карту в приложении Юрент\n\nЕсли карта привязана к вашему МТС ID, то удалить её можно только там. Об этом рассказываем в статье [Как удалить банковскую карту из МТС Pay](https://l.mts.ru/0offbk-mtsid)\n\nЕсли карта была добавлена в приложении Юрент, то удалить её можно там. Как это сделать:\n\n1. Перейдите в меню\n\n2. Нажмите Способ оплаты в правом нижнем углу\n\n3. Смахните влево карту и нажмите Удалить. Если кнопки нет, значит карта привязана к вашему МТС ID и удалить её можно только там. Об этом рассказываем в статье [Как удалить банковскую карту из МТС Pay](https://l.mts.ru/0offbk-mtsid)",
+    "chunk_id": "urent/oplata__kak-udalit-kartu-v-prilozhenii-urent::0000",
+    "heading_path": [],
+    "sources": [
+      "urent/oplata__kak-udalit-kartu-v-prilozhenii-urent"
+    ],
+    "chunk_ids": [
+      "urent/oplata__kak-udalit-kartu-v-prilozhenii-urent::0000"
+    ],
+    "negative": false,
+    "cand_id": "cand-051"
+  },
+  {
+    "title": "Что делать, если я не знаю свой ПИН-код от КИОН",
+    "source_path": "kion/pin-kod__chto-delat-esli-ya-ne-znayu-svoi-pin-kod",
+    "content": "### **На телевизоре или приставке на Android TV**\n\nЭто инструкция для Android TV с приложением КИОН версии 1.1.189.126.8 и выше. Если у вас версия ниже, перейдите во вкладку На другом телевизоре или приставке\n\n1. Откройте боковое меню > нажмите на иконку профиля сверху > Настройки профиля\n\n2. Возле основного профиля нажмите кнопку Изменить\n\n3. Пролистните до пункта Сменить ПИН-код\n\n4. Нажмите Забыли код?\n\n5. Вам придёт СМС с шестизначным кодом, введите его в приложении\n\n6. Придумайте и введите новый ПИН-код из четырех цифр\n\n7. Повторите новый ПИН-код\n\nГотово, ПИН-код обновлён.",
+    "chunk_id": "kion/pin-kod__chto-delat-esli-ya-ne-znayu-svoi-pin-kod::0003",
+    "heading_path": [
+      "На телевизоре или приставке на Android TV"
+    ],
+    "sources": [
+      "kion/pin-kod__chto-delat-esli-ya-ne-znayu-svoi-pin-kod"
+    ],
+    "chunk_ids": [
+      "kion/pin-kod__chto-delat-esli-ya-ne-znayu-svoi-pin-kod::0003"
+    ],
+    "negative": false,
+    "cand_id": "cand-052"
+  },
+  {
+    "title": "Будет ли работать подписка МТС Optimus за границей",
+    "source_path": "mts_optimus/upravlenie-podpiskoi-mts-optimus__budet-li-rabotat-podpiska-mts-optimus-za-granitsei",
+    "content": "# Будет ли работать подписка МТС Optimus за границей\n\nДа, вы сможете просматривать аудиозаписи, краткие пересказы и расшифровки разговоров в МТС Optimus в любой точке мира, где есть интернет. Стоимость подписки при этом не изменится. Если вы используете приложение через мобильный интернет, трафик будет оплачиваться по условиям вашего тарифа.",
+    "chunk_id": "mts_optimus/upravlenie-podpiskoi-mts-optimus__budet-li-rabotat-podpiska-mts-optimus-za-granitsei::0000",
+    "heading_path": [],
+    "sources": [
+      "mts_optimus/upravlenie-podpiskoi-mts-optimus__budet-li-rabotat-podpiska-mts-optimus-za-granitsei"
+    ],
+    "chunk_ids": [
+      "mts_optimus/upravlenie-podpiskoi-mts-optimus__budet-li-rabotat-podpiska-mts-optimus-za-granitsei::0000"
+    ],
+    "negative": false,
+    "cand_id": "cand-053"
+  },
+  {
+    "title": "Что делать, если закончился пакет интернета",
+    "source_path": "mts_mobilnyy_internet/prodlenie-interneta__chto-delat-yesli-zakonchilsya-paket-interneta",
+    "content": "# Что делать, если закончился пакет интернета\n\nКогда заканчивается основной пакет интернета, на большинстве тарифов по умолчанию подключается дополнительный. Стоимость пакета списывается в момент подключения. Это указано в условиях тарифа. Подробнее [в статье Дополнительные пакеты интернета ― автопродление](https://l.mts.ru/0otmena_dopinternet)\n\nПомимо дополнительных пакетов, есть несколько способов добавить трафик. Нажмите на каждый, чтобы открыть подробную информацию:",
+    "chunk_id": "mts_mobilnyy_internet/prodlenie-interneta__chto-delat-yesli-zakonchilsya-paket-interneta::0000",
+    "heading_path": [],
+    "sources": [
+      "mts_mobilnyy_internet/prodlenie-interneta__chto-delat-yesli-zakonchilsya-paket-interneta"
+    ],
+    "chunk_ids": [
+      "mts_mobilnyy_internet/prodlenie-interneta__chto-delat-yesli-zakonchilsya-paket-interneta::0000"
+    ],
+    "negative": false,
+    "cand_id": "cand-054"
+  },
+  {
+    "title": "Как просмотреть видео из архива камеры в приложении для VDome",
+    "source_path": "mpvdome/kak-upravlyat-domofonom-i-kameroi__kak-prosmotret-video-iz-arhiva-kameri-v-prilozhenii-vdome",
+    "content": "# Как просмотреть видео из архива камеры в приложении для VDome\n\n1. Откройте вкладку Камеры на главной странице приложения для VDome. Вы увидите все камеры, подключённые к дому: домофоны, шлагбаумы или калитки\n\nДля айфона — приложение МТС Домофон, для андроида — VDome\n\n2. Выберите камеру\n\n3. Нажмите Архив\n\n4. Выберите дату и время в архиве. Трансляция начнётся с этого момента\n\nИнтервал можно выбрать от одной минуты до одного часа в пределах суток. Чтобы выбрать время, передвиньте ползунок",
+    "chunk_id": "mpvdome/kak-upravlyat-domofonom-i-kameroi__kak-prosmotret-video-iz-arhiva-kameri-v-prilozhenii-vdome::0000",
+    "heading_path": [],
+    "sources": [
+      "mpvdome/kak-upravlyat-domofonom-i-kameroi__kak-prosmotret-video-iz-arhiva-kameri-v-prilozhenii-vdome"
+    ],
+    "chunk_ids": [
+      "mpvdome/kak-upravlyat-domofonom-i-kameroi__kak-prosmotret-video-iz-arhiva-kameri-v-prilozhenii-vdome::0000"
+    ],
+    "negative": false,
+    "cand_id": "cand-055"
+  },
+  {
+    "title": "Как удалить МТС Лончер",
+    "source_path": "mts-launcher/kak-polzovatsya-mts-loncher__kak-udalit-mts-loncher",
+    "content": "# Как удалить МТС Лончер\n\nВыберите магазин приложений, который есть на вашем телефоне, и разверните инструкцию:\n\n**Google Play**\n\n1. Откройте Google Play\n\n2. Нажмите на иконку профиля в правом верхнем углу\n\n3. Выберите Управление приложениями и устройством\n\n4. Перейдите во вкладку Управление\n\n5. Найдите МТС Лончер в списке и нажмите на него\n\n6. Нажмите Удалить и подтвердите удаление\n\n**AppGallery**\n\n1. Откройте [AppGallery](https://appgallery.huawei.com/) > перейдите в раздел Я > Удаление приложений\n\n2. Найдите МТС Лончер, выберите его и нажмите Удалить",
+    "chunk_id": "mts-launcher/kak-polzovatsya-mts-loncher__kak-udalit-mts-loncher::0000",
+    "heading_path": [],
+    "sources": [
+      "mts-launcher/kak-polzovatsya-mts-loncher__kak-udalit-mts-loncher"
+    ],
+    "chunk_ids": [
+      "mts-launcher/kak-polzovatsya-mts-loncher__kak-udalit-mts-loncher::0000"
+    ],
+    "negative": false,
+    "cand_id": "cand-056"
+  },
+  {
+    "title": "Как переоформить именные билеты в МТС Live",
+    "source_path": "mts_mts_live/pokupka-i-ispolzovanie-biletov__kak-pereoformit-imennie-bileti-v-mts-live",
+    "content": "## **В Личном кабинете Ticketland**\n\nБилеты, которые вы купили в МТС Live, загрузятся [в Личный кабинет Ticketland](https://www.ticketland.ru/private/orders/) и там их можно переоформить:\n\n 1. На карточке мероприятия посмотрите, кто организатор\n\n2. Проверьте, есть ли он [в списке](https://www.ticketland.ru/landing/preview/pereoformlenie_biletov/):\n\n- есть — следуйте далее по инструкции\n- нет — значит, билет неименной, переоформление не нужно. По нему может пройти любой человек\n\n3. Войдите в Личный кабинет [на сайте Ticketland](https://www.ticketland.ru/private/orders/) по email, который указывали при покупке билетов\n\n4. Выберите билет и нажмите Изменить данные\n\n5. Введите новые данные и нажмите Сохранить\n\n6. Скачайте билет с обновлёнными данными\n\nЕсли вы переоформили билет, но отображаются старые данные, почистите куки и кэш, либо пробуйте загрузить страницу в другом браузере. Это обычно помогает.\n\nЕсли ситуация не изменится, напишите нам на [support@ticketland.ru](mailto:support@ticketland.ru). Мы во всём разберёмся.",
+    "chunk_id": "mts_mts_live/pokupka-i-ispolzovanie-biletov__kak-pereoformit-imennie-bileti-v-mts-live::0002",
+    "heading_path": [
+      "В Личном кабинете Ticketland"
+    ],
+    "sources": [
+      "mts_mts_live/pokupka-i-ispolzovanie-biletov__kak-pereoformit-imennie-bileti-v-mts-live"
+    ],
+    "chunk_ids": [
+      "mts_mts_live/pokupka-i-ispolzovanie-biletov__kak-pereoformit-imennie-bileti-v-mts-live::0002"
+    ],
+    "negative": false,
+    "cand_id": "cand-057"
+  },
+  {
+    "title": "Что такое «AI Помощник МТС» и как его подключить",
+    "source_path": "servisi_voicetech/ai-pomoschnik-mts__chto-takoe-ai-pomoschnik-mts-i-kak-ego-podklyuchit",
+    "content": "## Сколько стоит подписка «AI Помощник МТС»\n\nПри первом подключении — бесплатно 30 дней, затем — 249 ₽/мес.\n\nЕсли вы уже пользуетесь отдельными сервисами VoiceTech, при подключении подписки «AI Помощник МТС», их стоимость обнулится, и вы будете платить только за подписку.\n\nСтоимость подписки не изменится, если отключить отдельные услуги, входящие в неё.",
+    "chunk_id": "servisi_voicetech/ai-pomoschnik-mts__chto-takoe-ai-pomoschnik-mts-i-kak-ego-podklyuchit::0001",
+    "heading_path": [
+      "Сколько стоит подписка «AI Помощник МТС»"
+    ],
+    "sources": [
+      "servisi_voicetech/ai-pomoschnik-mts__chto-takoe-ai-pomoschnik-mts-i-kak-ego-podklyuchit"
+    ],
+    "chunk_ids": [
+      "servisi_voicetech/ai-pomoschnik-mts__chto-takoe-ai-pomoschnik-mts-i-kak-ego-podklyuchit::0001"
+    ],
+    "negative": false,
+    "cand_id": "cand-058"
+  },
+  {
+    "title": "Звонки из карточки CRM",
+    "source_path": "avtosekretar_10/nastroika-integratsii-s-bitriks24__zvonki-iz-kartochki-crm",
+    "content": "# Звонки из карточки CRM\n\nВозможны, если в настройках виджета Автосекретаря включить поддержку связи Битрикс24:\n\n1. В настройках CRM перейдите в раздел Телефония с правами Администратора Битрикс24. Для быстрого перехода воспользуйтесь поиском по названию раздела\n\n2. Далее Настройка телефонии — Общие настройки\n\n3. В качестве номера по умолчанию и резервного номера телефона выберите «Приложение: @втосекретарь» и нажмите Сохранить\n\n4. Настройка завершена. Теперь при нажатии на номер телефона или иконку трубки в карточке контакта или сделки будет совершён звонок клиенту и показана карточка сделки\n\nЗвонки из карточки не учитываются в статистике вызовов в Битрикс24.\n\nПосле активации звонков из карточки и поддержки виджета для обратного звонка, в личном кабинете Автосекретаря появятся две технические кампании в разделе Голосовые кампании. Не меняйте настройки этих кампаний, иначе сервис может работать некорректно",
+    "chunk_id": "avtosekretar_10/nastroika-integratsii-s-bitriks24__zvonki-iz-kartochki-crm::0000",
+    "heading_path": [],
+    "sources": [
+      "avtosekretar_10/nastroika-integratsii-s-bitriks24__zvonki-iz-kartochki-crm"
+    ],
+    "chunk_ids": [
+      "avtosekretar_10/nastroika-integratsii-s-bitriks24__zvonki-iz-kartochki-crm::0000"
+    ],
+    "negative": false,
+    "cand_id": "cand-059"
+  },
+  {
+    "title": "Какие семейные подписки можно подключить в МТС",
+    "source_path": "semeinaya_gruppa/obschaya-informatsiya__kakie-semeinie-podpiski-mozhno-podklyuchit-v-mts",
+    "content": "## Защитник+ для семьи\n\nЭто возможность защитить себя и троих своих близких от спама и мошенничества. В услугу входят четыре сервиса мобильной безопасности: Защитник, Безопасный звонок, Страхование от мошенников и Уведомления о мошенничестве. Подключает и оплачивает подписку организатор группы со своего номера. Подробнее — в статье [Как подключить Защитник+ для семьи](https://l.mts.ru/0zashchitnik-dlya-semi)",
+    "chunk_id": "semeinaya_gruppa/obschaya-informatsiya__kakie-semeinie-podpiski-mozhno-podklyuchit-v-mts::0003",
+    "heading_path": [
+      "Защитник+ для семьи"
+    ],
+    "sources": [
+      "semeinaya_gruppa/obschaya-informatsiya__kakie-semeinie-podpiski-mozhno-podklyuchit-v-mts"
+    ],
+    "chunk_ids": [
+      "semeinaya_gruppa/obschaya-informatsiya__kakie-semeinie-podpiski-mozhno-podklyuchit-v-mts::0003"
+    ],
+    "negative": false,
+    "cand_id": "cand-060"
+  },
+  {
+    "title": "Как подключить «Безопасный интернет» для детей",
+    "source_path": "zaschitnik/bezopasnii-internet__kak-podklyuchit-bezopasnyy-internet-dlya-detey",
+    "content": "### **Есть Семейная группа, а в ней участники с ролью Ребёнок**\n\n1. На главном экране приложения Мой МТС откройте виджет Защитник\n\nЕсли такого виджета нет, скорее всего, вы зашли в аккаунт кого-то из ваших близких, которым управляете в Мой МТС. Перейдите в аккаунт со своим основным номером — инструкция есть [в статье](https://l.mts.ru/0akkaunty)\n\n2. Нажмите Все возможности\n\n3. В блоке Для детей > Безопасный интернет нажмите Добавить ребёнка\n\n4. Участники с ролью Ребёнок отобразятся на экране\n\n5. Включите Безопасный интернет. Для этого нажмите на кнопку переключения рядом с именем\n\n8. Кнопка станет активной, а ваш ребёнок под защитой",
+    "chunk_id": "zaschitnik/bezopasnii-internet__kak-podklyuchit-bezopasnyy-internet-dlya-detey::0007",
+    "heading_path": [
+      "Шаг 2. Добавьте номер ребёнка",
+      "Есть Семейная группа, а в ней участники с ролью Ребёнок"
+    ],
+    "sources": [
+      "zaschitnik/bezopasnii-internet__kak-podklyuchit-bezopasnyy-internet-dlya-detey"
+    ],
+    "chunk_ids": [
+      "zaschitnik/bezopasnii-internet__kak-podklyuchit-bezopasnyy-internet-dlya-detey::0007"
+    ],
+    "negative": false,
+    "cand_id": "cand-061"
+  },
+  {
+    "title": "Как настроить Asterisk для услуги Автосекретарь",
+    "source_path": "avtosekretar_10/nastroika-oborudovaniya-avtosekretar-10__kak-nastroit-asterisk-dlya-uslugi-avtosekretar-10",
+    "content": "### Настройте Asterisk\n\n1. Отредактируйте pjsip.conf\n\n[udp-transport]  \ntype=transport  \nprotocol=udp  \nbind=0.0.0.0\n\n[9160000000U0000]  \ntype=registration  \ntransport=udp-transport  \noutbound\\_auth=9160000000U0000\\_auth  \nserver\\_uri=sip:reg.aa.mts.ru  \nclient\\_uri=sip:9160000000U0000@reg.aa.mts.ru  \nretry\\_interval=60  \nexpiration=120  \ncontact\\_user=9160000000U0000  \n[9160000000U0000\\_auth]  \ntype=auth  \nauth\\_type=userpass  \npassword=password — значение пароля, который поступил на email  \nusername=9160000000U0000\n\n[9160000000U0000]  \ntype=aor  \ncontact=sip:reg.aa.mts.ru:5060\n\n[9160000000U0000]  \ntype=endpoint  \ntransport=udp-transpor  \ncontext=aa\\_mts\\_in — название контекста для входящей связи в extensions.conf  \ndisallow=all  \nallow=alaw  \noutbound\\_auth=9160000000U0000\\_auth  \naors=9160000000U0000  \nfrom\\_user=9160000000U0000  \nfrom\\_domain=reg.aa.mts.ru  \ndirect\\_media=no\n\n[9160000000U0000]  \ntype=identify  \nendpoint=9160000000U0000  \nmatch=reg.aa.mts.ru\n\n2. Настройте внутренний номер для приёма входящих и совершения исходящих вызовов\n\n[1234]  \ntype=endpoint  \ntransport=udp-transport  \ncontext=aa\\_mts\\_out — название контекста для исходящей связи в extensions.conf  \ndisallow=all  \nallow=alaw  \nauth=1234  \naors=1234\n\n[1234]  \ntype=auth  \nauth\\_type=userpass  \npassword=1234  \nusername=1234\n\n[1234]  \ntype=aor  \nmax\\_contacts=10\n\n3. Отредактируйте extensions.conf. Создайте контексты\n\n[aa\\_mts\\_in]  \nexten => 9160000000U0000,1, Dial(SIP/1234) — все входящие звонки с транка 9160000000U0000 направлены на внутренний номер 1234\n\n[aa\\_mts\\_out]  \nexten => \\_XXXX.,1,Dial(SIP/${EXTEN}@9160000000U0000) — звонки через транк 9160000000U0000\n\nНастройка подключения завершена.\n\nЕсли в ходе тестирования возникли ошибки, обратитесь к персональному менеджеру или по номеру [8 800 250-09-90](tel:88002500990). Сообщите:\n\n- номер, с которого звонили\n- номер, на который звонили\n- дату и время звонка",
+    "chunk_id": "avtosekretar_10/nastroika-oborudovaniya-avtosekretar-10__kak-nastroit-asterisk-dlya-uslugi-avtosekretar-10::0006",
+    "heading_path": [
+      "Настройте Asterisk"
+    ],
+    "sources": [
+      "avtosekretar_10/nastroika-oborudovaniya-avtosekretar-10__kak-nastroit-asterisk-dlya-uslugi-avtosekretar-10"
+    ],
+    "chunk_ids": [
+      "avtosekretar_10/nastroika-oborudovaniya-avtosekretar-10__kak-nastroit-asterisk-dlya-uslugi-avtosekretar-10::0006"
+    ],
+    "negative": false,
+    "cand_id": "cand-062"
+  },
+  {
+    "title": "Что такое Автосекретарь 2.0 и как его подключить",
+    "source_path": "avtosekretar_20/obschaya-informatsiya__chto-takoe-avtosekretar-20-i-kak-ego-podklyuchit",
+    "content": "# Что такое Автосекретарь 2.0 и как его подключить\n\nАвтосекретарь 2.0 — это услуга, которая помогает компаниям организовать их телефонную сеть. Она позволяет объединить в единую систему телефоны в одном или нескольких офисах даже в разных регионах России. Услуга предоставляет единый план короткой нумерации и многоканальный номер для звонков.\n\nС Автосекретарём 2.0 вам доступны:\n\n- многоканальный телефонный номер\n- запись внутренних и внешних звонков предприятия\n- перевод вызова во время разговора\n- распределение входящих звонков на очередь из операторов\n- FMC\n- настройка рабочего или нерабочего времени для всего предприятия и отдельных операторов\n- обработка входящих звонков c помощью голосового меню (IVR)\n- возможность подключения офисных УАТС\n- объединение телефонных номеров и номеров PBX в единую систему по обработке звонков\n- статистика вызовов\n- голосовая почта\n- интеграция с CRM Битрикс24 с помощью виджета Автосекретарь 2.0\n- интеграция с различными CRM с помощью универсального модуля\n\nУправлять услугой вы можете [через Личный кабинет Автосекретаря 2.0](https://aa.mts.ru/unadmin/account/login?ReturnUrl=%2Funadmin%2F)",
+    "chunk_id": "avtosekretar_20/obschaya-informatsiya__chto-takoe-avtosekretar-20-i-kak-ego-podklyuchit::0000",
+    "heading_path": [],
+    "sources": [
+      "avtosekretar_20/obschaya-informatsiya__chto-takoe-avtosekretar-20-i-kak-ego-podklyuchit"
+    ],
+    "chunk_ids": [
+      "avtosekretar_20/obschaya-informatsiya__chto-takoe-avtosekretar-20-i-kak-ego-podklyuchit::0000"
+    ],
+    "negative": false,
+    "cand_id": "cand-063"
+  },
+  {
+    "title": "Как работать с картой и объектами в МТС Экологии",
+    "source_path": "mts_ekologiya/rabota-s-kartoi__kak-rabotat-s-kartoy-i-obyektami-v-mts-ekologii",
+    "content": "### Объекты на карте\n\n- Домен — область для расчётов и обработки данных, выделенная на карте красным пунктирным квадратом 100х100 км. Чтобы увидеть весь домен, отдалите карту с помощью кнопок масштабирования + и –\n\nВы можете переключаться между доменами через панель переключения\n\n- Пост мониторинга — оборудование для мониторинга качества атмосферного воздуха и поверхностных водных объектов. Для водных объектов могут использоваться плавучие посты мониторинга, например, Буй Буян\n\nИконка поста мониторинга на карте\n\nИконка поста мониторинга для водных объектов\n\n- Объект — предприятие, на территории которого находятся источники выбросов в атмосферный воздух или сбросов в водный объект\n- Источник (ЗВ) — источник на объекте, который выбрасывает загрязняющие вещества в атмосферный воздух или сбросы в поверхностный водный объект\n\nИконка источника загрязняющего вещества\n\n- Санитарно-защитная зона (СЗЗ) — специальная территория с особым режимом использования, которая уменьшает влияние химического, биологического и физического загрязнения атмосферного воздуха до значений, установленных гигиеническими нормативами\n\nТерритория объекта\n\n- Контрольная точка — точка для мониторинга концентраций загрязняющих веществ на карте. Вы можете установить её в любом месте в пределах домена\n\nИконка контрольной точки на карте\n\nНа дашборде в нижнем левом углу показана цветовая шкала для каждого вещества. Концентрации отображаются в долях предельно допустимой концентрации (ПДК)",
+    "chunk_id": "mts_ekologiya/rabota-s-kartoi__kak-rabotat-s-kartoy-i-obyektami-v-mts-ekologii::0001",
+    "heading_path": [
+      "Объекты на карте"
+    ],
+    "sources": [
+      "mts_ekologiya/rabota-s-kartoi__kak-rabotat-s-kartoy-i-obyektami-v-mts-ekologii"
+    ],
+    "chunk_ids": [
+      "mts_ekologiya/rabota-s-kartoi__kak-rabotat-s-kartoy-i-obyektami-v-mts-ekologii::0001"
+    ],
+    "negative": false,
+    "cand_id": "cand-064"
+  },
+  {
+    "title": "Как подготовиться к поездке в Беларусь",
+    "source_path": "mts_rouming_i_mezhgorod/svyaz-i-internet-v-populyarnih-stranah__kak-podgotovitsya-k-poezdke-v-belarus",
+    "content": "## Сколько стоит связь в Беларуси\n\n**Звонки.** Все входящие — первые 150 минут в месяц бесплатные, с 151 минуты — 2 ₽/мин. Стоимость исходящих звонков на номера России и Беларуси зависит от вашего тарифа:\n\n- на тарифах с абонентской платой — первые 150 минут в месяц бесплатные, с 151 минуты — 5 ₽/мин\n- на тарифах без абонентской платы — 5 ₽/мин с первой минуты\n\n**Интернет.** 100 МБ — 15 ₽. За 1 ГБ получится 154 ₽. С подключённой услугой [За границей](https://l.mts.ru/0za-granitsei) — 1 ГБ за 119 ₽/день. Плата за услугу списывается только в дни, когда вы выходите в интернет в Беларуси. Если интернет закончится, его можно [продлить на 1 ГБ](https://l.mts.ru/0prodlenie-interneta) за 450 ₽/день\n\n**СМС.** Отправка — 2 ₽ за сообщение, все входящие — бесплатно.\n\nВсе актуальные цены можно посмотреть в приложении Мой МТС в разделе Каталог > Роуминг или на сайте МТС в разделе [Роуминг](https://mts.ru/personal/mobilnaya-svyaz/rouming-i-mezhgorod). Подробные инструкции есть [в статье](https://l.mts.ru/0rouming-tarifi)\n\nЕсли у вас тариф МТС ТОП или МТС ТОП+, в него уже включены бесплатные гигабайты и минуты для роуминга. Условия смотрите в описании тарифа. Подробнее — [в статье](https://l.mts.ru/uznattarif)",
+    "chunk_id": "mts_rouming_i_mezhgorod/svyaz-i-internet-v-populyarnih-stranah__kak-podgotovitsya-k-poezdke-v-belarus::0001",
+    "heading_path": [
+      "Сколько стоит связь в Беларуси"
+    ],
+    "sources": [
+      "mts_rouming_i_mezhgorod/svyaz-i-internet-v-populyarnih-stranah__kak-podgotovitsya-k-poezdke-v-belarus"
+    ],
+    "chunk_ids": [
+      "mts_rouming_i_mezhgorod/svyaz-i-internet-v-populyarnih-stranah__kak-podgotovitsya-k-poezdke-v-belarus::0001"
+    ],
+    "negative": false,
+    "cand_id": "cand-065"
+  },
+  {
+    "title": "Как добавить камеру в приложении для VDome",
+    "source_path": "mpvdome/kak-upravlyat-domofonom-i-kameroi__kak-dobavit-kameru-v-prilozhenii-vdome",
+    "content": "# Как добавить камеру в приложении для VDome\n\nЧтобы подключить камеры, свяжитесь с домофонной компанией. Только она может добавить новые камеры в приложении и подключить архив.\n\nЕсли камеры в приложении нет, значит, компания не дала к ней доступ.\n\nОбратитесь в Домофонную компанию одним из способов:\n\n- создайте заявку в Домофонную компанию — инструкция [в статье](https://l.mts.ru/0sozdat-zayavku)\n- свяжитесь по телефону из раздела Контакты — инструкция [в статье](https://l.mts.ru/0obsluzhivaet-domofon)",
+    "chunk_id": "mpvdome/kak-upravlyat-domofonom-i-kameroi__kak-dobavit-kameru-v-prilozhenii-vdome::0000",
+    "heading_path": [],
+    "sources": [
+      "mpvdome/kak-upravlyat-domofonom-i-kameroi__kak-dobavit-kameru-v-prilozhenii-vdome"
+    ],
+    "chunk_ids": [
+      "mpvdome/kak-upravlyat-domofonom-i-kameroi__kak-dobavit-kameru-v-prilozhenii-vdome::0000"
+    ],
+    "negative": false,
+    "cand_id": "cand-066"
+  },
+  {
+    "title": "Какие есть режимы доступа к интернет-ресурсам в МТС Membrana Junior",
+    "source_path": "membrana_junior/rezhimi-dostupa-k-internet-resursam__kakie-est-rezhimi-dostupa-k-internet-resursam-v-mts-membrana-junior",
+    "content": "# Какие есть режимы доступа к интернет-ресурсам в МТС Membrana Junior\n\nЕсть четыре режима доступа к интернет-ресурсам:\n\n- умный режим — мы автоматически подбираем подходящий контент для ребенка на основе его возраста и советов детских психологов. Этот режим включается по умолчанию\n- ручной режим — вы сами решаете, какие категории сайтов будут доступны вашему ребенку\n- доступно всё, кроме 18+ — все сайты доступны, кроме тех, которые предназначены для взрослых\n- режим блокировки — вы можете полностью отключить доступ в интернет на определенное время",
+    "chunk_id": "membrana_junior/rezhimi-dostupa-k-internet-resursam__kakie-est-rezhimi-dostupa-k-internet-resursam-v-mts-membrana-junior::0000",
+    "heading_path": [],
+    "sources": [
+      "membrana_junior/rezhimi-dostupa-k-internet-resursam__kakie-est-rezhimi-dostupa-k-internet-resursam-v-mts-membrana-junior"
+    ],
+    "chunk_ids": [
+      "membrana_junior/rezhimi-dostupa-k-internet-resursam__kakie-est-rezhimi-dostupa-k-internet-resursam-v-mts-membrana-junior::0000"
+    ],
+    "negative": false,
+    "cand_id": "cand-067"
+  },
+  {
+    "title": "Как подключить Мультирум для Спутникового ТВ МТС",
+    "source_path": "mts_stv/ustanovka-i-nastroika-oborudovaniya__kak-podklyuchit-multirum-dlya-sputnikovogo-tv-mts",
+    "content": "# Как подключить Мультирум для Спутникового ТВ МТС\n\n> Если у вас домашнее ТВ без спутниковой антенны, инструкция — [в отдельной статье](https://l.mts.ru/0podklyuchit-multirum )\n\nС услугой Мультирум можно подключить до трёх телевизоров к одной антенне и смотреть Спутниковое ТВ по специальной цене на дополнительных. Для каждого телевизора нужна своя ТВ-приставка или CAM-модуль.\n\nПриобрести дополнительное оборудование можно в салонах МТС или у дилеров.\n\nТрансляция ТВ-каналов на дополнительных телевизорах стоит 90 руб/мес, на некоторых тарифах это бесплатно. Подробнее об услуге — [на сайте](https://mts.ru/personal/dlya-doma/uslugi/katalog-uslug-fiksirovannoy-svyazi/do_treh_televizorov_na_odnoj_antenne)",
+    "chunk_id": "mts_stv/ustanovka-i-nastroika-oborudovaniya__kak-podklyuchit-multirum-dlya-sputnikovogo-tv-mts::0000",
+    "heading_path": [],
+    "sources": [
+      "mts_stv/ustanovka-i-nastroika-oborudovaniya__kak-podklyuchit-multirum-dlya-sputnikovogo-tv-mts"
+    ],
+    "chunk_ids": [
+      "mts_stv/ustanovka-i-nastroika-oborudovaniya__kak-podklyuchit-multirum-dlya-sputnikovogo-tv-mts::0000"
+    ],
+    "negative": false,
+    "cand_id": "cand-068"
+  },
+  {
+    "title": "Приложение Мой МТС — вход, возможности, поддержка",
+    "source_path": "vozmozhnosti_moi_mts/vozmozhnosti-moi-mts__prilozhenie-moi-mts--vhod-vozmozhnosti-podderzhka",
+    "content": "## Как работает онлайн-диагностика и как её запустить\n\n1. Перейти к диагностике можно в разделе Поддержка. В блоке Помощь вы найдёте пункт «Диагностика связи и интернета» или «Диагностика услуг»\n\n2. Система автоматически проверит:\n\n- состояние номера и услуг — баланс и остатки пакетов, наличие нужных опций, отсутствие блокировок\n- качество связи по вашему адресу — аварии или технические работы\n- статус и настройки оборудования — если проблемы с домашним интернетом или ТВ\n\n3. В результате диагностики на экране отобразятся рекомендации по устранению ограничений или информация о технических работах. Если диагностика не выявит ограничений, здесь же вы можете оставить обращение в поддержку",
+    "chunk_id": "vozmozhnosti_moi_mts/vozmozhnosti-moi-mts__prilozhenie-moi-mts--vhod-vozmozhnosti-podderzhka::0008",
+    "heading_path": [
+      "Как работает онлайн-диагностика и как её запустить"
+    ],
+    "sources": [
+      "vozmozhnosti_moi_mts/vozmozhnosti-moi-mts__prilozhenie-moi-mts--vhod-vozmozhnosti-podderzhka"
+    ],
+    "chunk_ids": [
+      "vozmozhnosti_moi_mts/vozmozhnosti-moi-mts__prilozhenie-moi-mts--vhod-vozmozhnosti-podderzhka::0008"
+    ],
+    "negative": false,
+    "cand_id": "cand-069"
+  },
+  {
+    "title": "Как получить счёт-фактуру и акт сверки по услугам интернета и телефонии для бизнеса",
+    "source_path": "mts_fiksirovannaya_svyaz/scheta-i-oplata__kak-poluchit-schyot-fakturu-i-akt-sverki-po-uslugam-interneta-i-telefonii-dlya-biznesa",
+    "content": "### **Способ 2.** В Личном кабинете МТС Бизнес\n\n1. Перейдите в раздел [Финансовые документы](https://lk-b2b.mts.ru/fixed_line/financial-documents) и выберите документ, который хотите заказать\n\n2. Выберите один или несколько лицевых счетов, по которым нужен документ\n\n3. Нажмите **Выбрать способ доставки** и выберите, куда доставить счёт — В ЭДО или На email\n\n4. Укажите параметры:\n\n- период, за который нужен документ. Максимальный период для заказа — последние 10 лет\n- формат файла\n- email для отправки документа\n- оператора, через которого хотите получить этот документ — только для ЭДО\n\n5. Нажмите Отправить документ\n\nЕсли документы нужны регулярно, вы можете настроить их ежемесячную доставку по ЭДО или на email.\n\nКак подключить нужный способ:\n\n- [через Личный кабинет МТС Бизнес](https://lk-b2b.mts.ru/fixed_line/internet/home), если у вас есть к нему доступ. Подробнее — [в статье](https://l.mts.ru/lkmtsb_dostavka)\n- заполните [заявление](https://l.mts.ru/blank_servis) и отправьте его с фиксированного электронного адреса вашей компании на [fixcorpservice@mts.ru](mailto:fixcorpservice@mts.ru). Как подключить обслуживание по фиксированному электронному адресу, рассказываем [в статье](https://l.mts.ru/fea_fs)",
+    "chunk_id": "mts_fiksirovannaya_svyaz/scheta-i-oplata__kak-poluchit-schyot-fakturu-i-akt-sverki-po-uslugam-interneta-i-telefonii-dlya-biznesa::0007",
+    "heading_path": [
+      "Как заказать документы",
+      "Способ 2.** В Личном кабинете МТС Бизнес"
+    ],
+    "sources": [
+      "mts_fiksirovannaya_svyaz/scheta-i-oplata__kak-poluchit-schyot-fakturu-i-akt-sverki-po-uslugam-interneta-i-telefonii-dlya-biznesa"
+    ],
+    "chunk_ids": [
+      "mts_fiksirovannaya_svyaz/scheta-i-oplata__kak-poluchit-schyot-fakturu-i-akt-sverki-po-uslugam-interneta-i-telefonii-dlya-biznesa::0007"
+    ],
+    "negative": false,
+    "cand_id": "cand-070"
+  },
+  {
+    "title": "Как поделиться записью и расшифровкой звонков, на которые ответил Секретарь",
+    "source_path": "servisi_voicetech/mts-sekretar__kak-podelitsya-zapisyu-i-rasshifrovkoi-zvonkov-na-kotorie-otvetil-sekretar",
+    "content": "# Как поделиться записью и расшифровкой звонков, на которые ответил Секретарь\n\nЕсли у вас подключена услуга «МТС Секретарь», все записанные разговоры, на которые ответил Секретарь, доступны в приложении Мой МТС. Вы можете сохранить нужную аудиозапись или расшифровку на телефон, либо отправить её, например, себе в мессенджер.\n\n1. В приложении Мой МТС перейдите в раздел Звонки\n\nЕсли такого раздела нет, скорее всего, вы зашли в аккаунт кого-то из ваших близких, которым управляете в Мой МТС. Перейдите в аккаунт со своим основным номером — инструкция есть [в статье](https://l.mts.ru/0akkaunty)\n\n2. Выберите нужный звонок\n\n3. Нажмите на значок с тремя точками \n\n4. Выберите Поделиться\n\n5. Выберите, чем поделиться:\n\n- Записью — чтобы сохранить аудиозапись разговора\n- Расшифровкой — чтобы сохранить текстовую расшифровку\n\n6. Выберите, куда отправить запись, например, себе в мессенджер",
+    "chunk_id": "servisi_voicetech/mts-sekretar__kak-podelitsya-zapisyu-i-rasshifrovkoi-zvonkov-na-kotorie-otvetil-sekretar::0000",
+    "heading_path": [],
+    "sources": [
+      "servisi_voicetech/mts-sekretar__kak-podelitsya-zapisyu-i-rasshifrovkoi-zvonkov-na-kotorie-otvetil-sekretar"
+    ],
+    "chunk_ids": [
+      "servisi_voicetech/mts-sekretar__kak-podelitsya-zapisyu-i-rasshifrovkoi-zvonkov-na-kotorie-otvetil-sekretar::0000"
+    ],
+    "negative": false,
+    "cand_id": "cand-071"
+  },
+  {
+    "title": "Почему в МТС Pay есть моя банковская карта, хотя я её не привязывал",
+    "source_path": "mts_id/upravlenie-bankovskimi-kartami-dlya-oplati-v-mts-pay__pochemu-v-mts-pay-est-moya-bankovskaya-karta-hotya-ya-eyo-ne-privyazival",
+    "content": "# Почему в МТС Pay есть моя банковская карта, хотя я её не привязывал\n\nМТС Pay запоминает реквизиты карты, когда вы вошли в свой аккаунт МТС ID и что-то оплачиваете ей в интернете. Так вам не придётся снова вводить данные карты при следующих покупках.\n\nЭто безопасно: данные передаются в зашифрованном виде. Поэтому они не попадут в базы магазинов или в чужие руки.",
+    "chunk_id": "mts_id/upravlenie-bankovskimi-kartami-dlya-oplati-v-mts-pay__pochemu-v-mts-pay-est-moya-bankovskaya-karta-hotya-ya-eyo-ne-privyazival::0000",
+    "heading_path": [],
+    "sources": [
+      "mts_id/upravlenie-bankovskimi-kartami-dlya-oplati-v-mts-pay__pochemu-v-mts-pay-est-moya-bankovskaya-karta-hotya-ya-eyo-ne-privyazival"
+    ],
+    "chunk_ids": [
+      "mts_id/upravlenie-bankovskimi-kartami-dlya-oplati-v-mts-pay__pochemu-v-mts-pay-est-moya-bankovskaya-karta-hotya-ya-eyo-ne-privyazival::0000"
+    ],
+    "negative": false,
+    "cand_id": "cand-072"
+  },
+  {
+    "title": "Как настроить основные параметры номера",
+    "source_path": "avtosekretar_10/instruktsii-po-rabote-v-lichnom-kabinete-mts-avtosekretar__kak-nastroit-osnovnie-parametri-nomera",
+    "content": "# Как настроить основные параметры номера\n\nНа вкладке [Основные параметры](https://aa.mts.ru/unadmin/unlist) можно настроить:\n\n- время ожидания в очереди\n- длительность попытки дозвона\n- другие показатели\n\nНе рекомендуем ставить время ожидания больше 90 секунд, иначе звонящий положит трубку\n\nЧтобы операторы смогли быстро отреагировать на входящий звонок, установите длительность попытки дозвона в очереди не больше 30 секунд\n\nЗдесь вы можете настроить взаимодействие с голосовыми функциями Автосекретаря",
+    "chunk_id": "avtosekretar_10/instruktsii-po-rabote-v-lichnom-kabinete-mts-avtosekretar__kak-nastroit-osnovnie-parametri-nomera::0000",
+    "heading_path": [],
+    "sources": [
+      "avtosekretar_10/instruktsii-po-rabote-v-lichnom-kabinete-mts-avtosekretar__kak-nastroit-osnovnie-parametri-nomera"
+    ],
+    "chunk_ids": [
+      "avtosekretar_10/instruktsii-po-rabote-v-lichnom-kabinete-mts-avtosekretar__kak-nastroit-osnovnie-parametri-nomera::0000"
+    ],
+    "negative": false,
+    "cand_id": "cand-073"
+  },
+  {
+    "title": "Сколько хранится заказ в салоне экосистемы МТС",
+    "source_path": "mts_mts_internet_magazin/samovivoz__skolko-hranitsya-zakaz-v-salone-ekosistemi-mts",
+    "content": "# Сколько хранится заказ в салоне экосистемы МТС\n\nЗависит от способа оплаты, который вы выбрали:\n\n- если оплатите при получении — 3 дня\n- если оплатили онлайн — 30 дней. Если не забираете заказ долгое время — свяжемся с вами и уточним актуальность покупки\n\nЕсли не успеете забрать заказ, деньги и потраченный на него кешбэк вернутся автоматически. Как правило, в течение суток. Деньги могут зачисляться чуть дольше — точный срок зависит от вашего банка.",
+    "chunk_id": "mts_mts_internet_magazin/samovivoz__skolko-hranitsya-zakaz-v-salone-ekosistemi-mts::0000",
+    "heading_path": [],
+    "sources": [
+      "mts_mts_internet_magazin/samovivoz__skolko-hranitsya-zakaz-v-salone-ekosistemi-mts"
+    ],
+    "chunk_ids": [
+      "mts_mts_internet_magazin/samovivoz__skolko-hranitsya-zakaz-v-salone-ekosistemi-mts::0000"
+    ],
+    "negative": false,
+    "cand_id": "cand-074"
+  },
+  {
+    "title": "Что такое МТС Membrana Junior",
+    "source_path": "membrana_junior/chto-takoe-mts-membrana-junior__chto-takoe-mts-membrana-junior",
+    "content": "# Что такое МТС Membrana Junior\n\nЭто мобильное приложение, которое обеспечивает безопасность ребёнка в сети. Приложение устанавливается на телефон родителей, доступно только родителям-клиентам МТС.\n\nС помощью МТС Membrana Junior можно:\n\n- ограничить сайтам возможность собирать информацию об активностях ребёнка в интернете для рекламы\n- ограничить доступ ребёнка к нежелательным категориям сайтов и приложений\n- выключать доступ в интернет на время, чтобы ребёнок не играл в онлайн-игры по ночам или на уроках\n- посмотреть десять самых посещаемых интернет-ресурсов за неделю, как среди разрешённых, так и среди заблокированных\n- создать список доверенных номеров, звонки с которых будут поступать на номер ребёнка. Вызовы с остальных номеров будут блокироваться\n\nВам нужно настроить доступ на наш DNS-сервер с устройства ребёнка, чтобы мы могли обрабатывать интернет-трафик даже тогда, когда устройство подключено к сети отличной от МТС. Подробная инструкция в статье [Как настроить DNS-сервер для работы МТС Membrana Junior при подключении к сети Wi-Fi](https://support.mts.ru/membrana_junior/nastroika-dns-servera/kak-nastroit-dns-server-dlya-raboti-mts-membrana-junior-pri-podklyuchenii-k-seti-wi-fi?utm_medium=sup)",
+    "chunk_id": "membrana_junior/chto-takoe-mts-membrana-junior__chto-takoe-mts-membrana-junior::0000",
+    "heading_path": [],
+    "sources": [
+      "membrana_junior/chto-takoe-mts-membrana-junior__chto-takoe-mts-membrana-junior"
+    ],
+    "chunk_ids": [
+      "membrana_junior/chto-takoe-mts-membrana-junior__chto-takoe-mts-membrana-junior::0000"
+    ],
+    "negative": false,
+    "cand_id": "cand-075"
+  },
+  {
+    "title": "Что делать, если появились проблемы со звуком или изображением на КИОН",
+    "source_path": "kion/ispravlenie-sboev-v-rabote-kion__chto-delat-esli-poyavilis-problemi-so-zvukom-ili-izobrazheniem-na-kion",
+    "content": "1. Откройте браузер Google Chrome > зайдите [на сайт КИОН](https://kion.ru/) > нажмите F12\n\n2. Перейдите в раздел Application\n\n3. Перейдите в подраздел Storage\n\n4. Нажмите на кнопку Clear site data\n\n5. Нажмите F5, чтобы перезагрузить страницу\n\n6. Откройте сайт в режиме Инкогнито. Это можно сделать через комбинацию клавиш:\n\n- на Windows, Linux и Chrome OS — Ctrl + Shift + N\n- на Mac — ⌘ + Shift + N\n\n7. Если ситуация не меняется, включите JavaScript и хранение cookies\n\n**Как включить javascript**\n\nВсё зависит от браузера:\n\n- Сhrome — нажмите на три точки в правом верхнем углу > Настройки > Безопасность и конфиденциальность > Настройки сайтов JavaScript > Разрешить сайтам использовать JavaScript\n- Яндекс — нажмите на три строчки в правом верхнем углу > Настройки > Параметры > Файлы cookie и разрешения сайтов > JavaScript > Разрешено\n- Opera — выберите меню в левом верхнем углу > Дополнительно > Безопасность > Настройка контента > JavaScript > Разрешено\n- Firefox — на панели в верхней части экрана нажмите Настройки > Содержимое > Использовать JavaScript > OK\n- Edge — нажмите на три строчки в правом верхнем углу > Настройки > Файлы cookie и разрешения сайтов > JavaScript > Разрешено\n\nЕсли рекомендации не помогли, свяжитесь с нами [здесь](#chat_open) или [в чате КИОН](https://kion.onelink.me/QnZJ/KionSupportChat )\n\n**На телевизоре или приставке**\n\nПопробуйте сделать следующее:",
+    "chunk_id": "kion/ispravlenie-sboev-v-rabote-kion__chto-delat-esli-poyavilis-problemi-so-zvukom-ili-izobrazheniem-na-kion::0005",
+    "heading_path": [],
+    "sources": [
+      "kion/ispravlenie-sboev-v-rabote-kion__chto-delat-esli-poyavilis-problemi-so-zvukom-ili-izobrazheniem-na-kion"
+    ],
+    "chunk_ids": [
+      "kion/ispravlenie-sboev-v-rabote-kion__chto-delat-esli-poyavilis-problemi-so-zvukom-ili-izobrazheniem-na-kion::0005"
+    ],
+    "negative": false,
+    "cand_id": "cand-076"
+  },
+  {
+    "title": "Как отключить корпоративный номер",
+    "source_path": "mobilnaya-svyaz-b2b/zamena-i-blokirovka-sim-karti-__kak-otklyuchit-korporativnii-nomer",
+    "content": "### **Как вернуть остаток денег при расторжении договора**\n\nВы можете выбрать один из способов:\n\n- на банковскую карту или расчётный счёт — карта или счёт должны быть оформлены на ваше имя. Данные держателя карты или владельца счёта должны полностью совпадать с информацией в заявлении на расторжение договора\n- на лицевой счёт в МТС — деньги можно вернуть на ваш счёт мобильной или фиксированной связи. Это удобный вариант, если вы планируете и дальше пользоваться нашими услугами\n\nУкажите выбранный способ при подаче заявки на расторжение договора.",
+    "chunk_id": "mobilnaya-svyaz-b2b/zamena-i-blokirovka-sim-karti-__kak-otklyuchit-korporativnii-nomer::0004",
+    "heading_path": [
+      "Часто спрашивают",
+      "Как вернуть остаток денег при расторжении договора"
+    ],
+    "sources": [
+      "mobilnaya-svyaz-b2b/zamena-i-blokirovka-sim-karti-__kak-otklyuchit-korporativnii-nomer",
+      "mts_fiksirovannaya_svyaz/pereoformlenie-perenos-ili-otklyuchenie-interneta-i-telefonii-dlya-biznesa__kak-otklyuchit-internet-ili-telefoniyu-dlya-biznesa"
+    ],
+    "chunk_ids": [
+      "mobilnaya-svyaz-b2b/zamena-i-blokirovka-sim-karti-__kak-otklyuchit-korporativnii-nomer::0004",
+      "mts_fiksirovannaya_svyaz/pereoformlenie-perenos-ili-otklyuchenie-interneta-i-telefonii-dlya-biznesa__kak-otklyuchit-internet-ili-telefoniyu-dlya-biznesa::0005"
+    ],
+    "negative": false,
+    "cand_id": "cand-077"
+  },
+  {
+    "title": "Как продлить интернет за границей",
+    "source_path": "mts_rouming_i_mezhgorod/uslugi-dlya-ekonomii-v-poezdkah-po-miru__kak-prodlit-internet-za-granitsey",
+    "content": "### **Способ 1.** В приложении Мой МТС\n\n1. На главной странице откройте раздел Каталог\n\n2. Нажмите на Услуги\n\n3. Выберите В путешествии\n\nРаздел может называться В поездках\n\n4. В списке услуг найдите «Продление интернета за границей» и нажмите на неё\n\n5. Выберите страну пребывания и нажмите Подключить\n\n6. Ознакомьтесь со стоимостью и нажмите Подключить",
+    "chunk_id": "mts_rouming_i_mezhgorod/uslugi-dlya-ekonomii-v-poezdkah-po-miru__kak-prodlit-internet-za-granitsey::0003",
+    "heading_path": [
+      "Как подключить",
+      "Способ 1.** В приложении Мой МТС"
+    ],
+    "sources": [
+      "mts_rouming_i_mezhgorod/uslugi-dlya-ekonomii-v-poezdkah-po-miru__kak-prodlit-internet-za-granitsey"
+    ],
+    "chunk_ids": [
+      "mts_rouming_i_mezhgorod/uslugi-dlya-ekonomii-v-poezdkah-po-miru__kak-prodlit-internet-za-granitsey::0003"
+    ],
+    "negative": false,
+    "cand_id": "cand-078"
+  },
+  {
+    "title": "Что делать, если мероприятие отменили",
+    "source_path": "mts_mts_live/bileti__chto-delat-esli-meropriyatie-otmenili",
+    "content": "# Что делать, если мероприятие отменили\n\nЕсли мероприятие отменено, деньги за билет вернутся в течение 30 рабочих дней. Сервисный сбор не возвращается.\n\nЕсли вы оплачивали билеты подарочной картой, напишите нам на [vozvrat@ticketland.ru](mailto:vozvrat@ticketland.ru) с того адреса, который использовали при покупке. В письме укажите номер заказа и реквизиты банковской карты, куда нужно вернуть деньги\n\nОб отмене мероприятия мы напишем:\n\n- на электронную почту, которую вы указывали при оформлении заказа\n- на сайте Ticketland [в разделе Изменения в репертуаре](https://www.ticketland.ru/news/)",
+    "chunk_id": "mts_mts_live/bileti__chto-delat-esli-meropriyatie-otmenili::0000",
+    "heading_path": [],
+    "sources": [
+      "mts_mts_live/bileti__chto-delat-esli-meropriyatie-otmenili"
+    ],
+    "chunk_ids": [
+      "mts_mts_live/bileti__chto-delat-esli-meropriyatie-otmenili::0000"
+    ],
+    "negative": false,
+    "cand_id": "cand-079"
+  },
+  {
+    "title": "Как войти в Личный кабинет МТС",
+    "source_path": "vozmozhnosti_moi_mts/lichnii-kabinet-mts__kak-voiti-v-lichnii-kabinet-mts",
+    "content": "### **Домашние услуги в Москве и МО**\n\nЛогин для входа — ваш городской или виртуальный номер. Пароль вы устанавливаете самостоятельно.\n\nЛогин указан в пункте 2 договора. Договор вы получаете в бумажном виде при подключении услуг или по email, если подписали соглашение на получение электронных документов. Например,\n\nЧтобы войти:\n\n1. Перейдите [в Личный кабинет МТС Решения для дома](https://auth.mgts.ru/login/b2c?feature=lk), введите номер и нажмите Далее\n\n2. Введите пароль и нажмите Войти\n\nЕсли вы забыли пароль, нажмите Получить пароль > введите код с картинки и нажмите Далее > проверьте входящие СМС или почту > введите код и нажмите Далее > придумайте и введите новый пароль\n\nГотово! На этом шаге должен открыться ваш аккаунт в Личном кабинете.",
+    "chunk_id": "vozmozhnosti_moi_mts/lichnii-kabinet-mts__kak-voiti-v-lichnii-kabinet-mts::0003",
+    "heading_path": [
+      "Домашние услуги в Москве и МО"
+    ],
+    "sources": [
+      "vozmozhnosti_moi_mts/lichnii-kabinet-mts__kak-voiti-v-lichnii-kabinet-mts"
+    ],
+    "chunk_ids": [
+      "vozmozhnosti_moi_mts/lichnii-kabinet-mts__kak-voiti-v-lichnii-kabinet-mts::0003"
+    ],
+    "negative": false,
+    "cand_id": "cand-080"
+  },
+  {
+    "title": "Как оплачивается подписка КИОН Музыка",
+    "source_path": "kion_muzika/podpiska-na-kion-muziku__kak-oplachivaetsya-podpiska-kion-muzika",
+    "content": "# Как оплачивается подписка КИОН Музыка\n\n- у клиентов МТС списание происходит с лицевого счёта\n- клиенты других операторов могут оплатить подписку с банковской карты. Привяжите её в приложении КИОН Музыка и списания будут происходить ежемесячно в дату подключения подписки\n\nПодписка продлевается автоматически, вам не нужно каждый раз оформлять её заново. Если не получилось оплатить подписку, свяжитесь с нами в приложении КИОН Музыка > Профиль > Написать в чат.",
+    "chunk_id": "kion_muzika/podpiska-na-kion-muziku__kak-oplachivaetsya-podpiska-kion-muzika::0000",
+    "heading_path": [],
+    "sources": [
+      "kion_muzika/podpiska-na-kion-muziku__kak-oplachivaetsya-podpiska-kion-muzika"
+    ],
+    "chunk_ids": [
+      "kion_muzika/podpiska-na-kion-muziku__kak-oplachivaetsya-podpiska-kion-muzika::0000"
+    ],
+    "negative": false,
+    "cand_id": "cand-081"
+  },
+  {
+    "title": "Могут ли клиенты других операторов пользоваться интернет-пакетом от МТС Premium",
+    "source_path": "mts-premium/internet-v-podpiske__internet-po-podpiske-dlya-abonentov-mgts-i-drugih-operatorov",
+    "content": "# Могут ли клиенты других операторов пользоваться интернет-пакетом от МТС Premium\n\nКлиентам МГТС и других операторов недоступен пакет интернета по подписке МТС Premium, так как он работает только на номерах МТС.\n\nЧтобы получить дополнительный пакет, нужно оформить SIM-карту МТС и подключить на ней подписку или перенести свой номер к нам. Узнать об этом подробнее и оформить перенос можно [на сайте МТС](https://moskva.mts.ru/personal/pereyti-v-mts)",
+    "chunk_id": "mts-premium/internet-v-podpiske__internet-po-podpiske-dlya-abonentov-mgts-i-drugih-operatorov::0000",
+    "heading_path": [],
+    "sources": [
+      "mts-premium/internet-v-podpiske__internet-po-podpiske-dlya-abonentov-mgts-i-drugih-operatorov"
+    ],
+    "chunk_ids": [
+      "mts-premium/internet-v-podpiske__internet-po-podpiske-dlya-abonentov-mgts-i-drugih-operatorov::0000"
+    ],
+    "negative": false,
+    "cand_id": "cand-082"
+  },
+  {
+    "title": "Чем полезен «Ассистент в звонке» и сколько стоит",
+    "source_path": "servisi_voicetech/assistent-v-zvonke__chem-polezen-assistent-v-zvonke-i-skolko-stoit",
+    "content": "# Чем полезен «Ассистент в звонке» и сколько стоит\n\nАссистент в звонке — это виртуальный голосовой помощник Марвин, который отвечает на вопросы и делает заметки прямо во время разговора. Его услышите вы и ваш собеседник.\n\nПросто позовите Марвина во время звонка, чтобы он рассказал о погоде или нашёл ответ в интернете. Если попросить сделать заметку или прислать итоги разговора, отправит их в СМС или в Telegram.\n\nАссистент в звонке может:\n\n- делать заметки, например, записать список покупок, телефон или адрес\n- создавать краткую выжимку из разговора\n- находить информацию в интернете\n- рассказывать о погоде\n\nПодробнее о навыках Марвина рассказываем в статье [Что умеет Ассистент в звонке и какие команды можно ему дать](https://l.mts.ru/0marvin-naviki)",
+    "chunk_id": "servisi_voicetech/assistent-v-zvonke__chem-polezen-assistent-v-zvonke-i-skolko-stoit::0000",
+    "heading_path": [],
+    "sources": [
+      "servisi_voicetech/assistent-v-zvonke__chem-polezen-assistent-v-zvonke-i-skolko-stoit"
+    ],
+    "chunk_ids": [
+      "servisi_voicetech/assistent-v-zvonke__chem-polezen-assistent-v-zvonke-i-skolko-stoit::0000"
+    ],
+    "negative": false,
+    "cand_id": "cand-083"
+  },
+  {
+    "title": "Как подключить автоплатёж для оплаты домашнего телефона",
+    "source_path": "mts_domashniy_telefon/schyot-i-oplata__kak-podklyuchit-avtoplatyozh-dlya-oplati-domashnego-telefona",
+    "content": "### **На сайте МТС Оплата с компьютера**\n\n1. Откройте [сайт МТС Оплата](https://payment.mts.ru/autopayment) и укажите назначение платежа МГТС или Интернет и ТВ МТС\n\n2. В реквизитах введите номер городского телефона или лицевой счёт\n\n3. Настройте расписание оплаты, введите сумму и нажмите Продолжить\n\n4. Введите мобильный номер телефона и нажмите Далее\n\n5. Введите код из СМС, чтобы подтвердить подключение автоплатежа",
+    "chunk_id": "mts_domashniy_telefon/schyot-i-oplata__kak-podklyuchit-avtoplatyozh-dlya-oplati-domashnego-telefona::0003",
+    "heading_path": [
+      "Как подключить",
+      "На сайте МТС Оплата с компьютера"
+    ],
+    "sources": [
+      "mts_domashniy_telefon/schyot-i-oplata__kak-podklyuchit-avtoplatyozh-dlya-oplati-domashnego-telefona"
+    ],
+    "chunk_ids": [
+      "mts_domashniy_telefon/schyot-i-oplata__kak-podklyuchit-avtoplatyozh-dlya-oplati-domashnego-telefona::0003"
+    ],
+    "negative": false,
+    "cand_id": "cand-084"
+  },
+  {
+    "title": "С какого возраста нужно покупать ребёнку билет на мероприятие",
+    "source_path": "mts_mts_live/pokupka-i-ispolzovanie-biletov__s-kakogo-vozrasta-nuzhno-pokupat-rebenku-bilet-na-meropriyatiye",
+    "content": "# С какого возраста нужно покупать ребёнку билет на мероприятие\n\nВ большинстве случаев дети до трёх лет могут пройти на мероприятие бесплатно без отдельного места, если сидят на коленях у родителей. Для детей старше трёх лет нужен отдельный билет. Всегда уточняйте правила конкретного концертного зала или мероприятия, так как у них могут быть свои ограничения.\n\nЕсли не нашли информацию на сайте площадки, свяжитесь с нами по номеру [8 800 250-20-86](tel:88002502086). Мы поможем.",
+    "chunk_id": "mts_mts_live/pokupka-i-ispolzovanie-biletov__s-kakogo-vozrasta-nuzhno-pokupat-rebenku-bilet-na-meropriyatiye::0000",
+    "heading_path": [],
+    "sources": [
+      "mts_mts_live/pokupka-i-ispolzovanie-biletov__s-kakogo-vozrasta-nuzhno-pokupat-rebenku-bilet-na-meropriyatiye"
+    ],
+    "chunk_ids": [
+      "mts_mts_live/pokupka-i-ispolzovanie-biletov__s-kakogo-vozrasta-nuzhno-pokupat-rebenku-bilet-na-meropriyatiye::0000"
+    ],
+    "negative": false,
+    "cand_id": "cand-085"
+  },
+  {
+    "title": "Что такое семейная группа и как она работает",
+    "source_path": "semeinaya_gruppa/obschaya-informatsiya__chto-takoe-semeinaya-gruppa-i-kak-ona-rabotaet",
+    "content": "## Семейная группа\n\nСемейная группа — это группа для пользователей любых российских операторов и тарифов.\n\nКогда вы создаёте семейную группу, вы становитесь её Организатором и можете пригласить до девяти человек в роли Взрослого, Ребёнка или Старшего.\n\nС семейной группой Организатор может:\n\n- получить скидку на тариф МТС\n- делиться семейной скидкой и семейными подписками МТС с участниками\n- настраивать детский режим\n- наблюдать за местоположением участников\n- получить доступ к аккаунтам близких и управлять их мобильной связью\n\nОрганизатор, Взрослые и Старшие участники семейной группы видят всех участников и могут самостоятельно настроить отображение своей геолокации, баланса и оставшихся ГБ. Ребёнок видит только Организатора и количество участников в группе. Отображение баланса и трафика Ребёнка настраивает Организатор. Подробнее о возможностях участников рассказываем в статье [Какие есть роли в семейной группе](https://l.mts.ru/0roli)\n\nУправлять группой можно в приложении Мой МТС версии 6.48.1 и выше. Как создать семейную группу, рассказали [в статье](https://l.mts.ru/0sozdat-gruppu)",
+    "chunk_id": "semeinaya_gruppa/obschaya-informatsiya__chto-takoe-semeinaya-gruppa-i-kak-ona-rabotaet::0001",
+    "heading_path": [
+      "Семейная группа"
+    ],
+    "sources": [
+      "semeinaya_gruppa/obschaya-informatsiya__chto-takoe-semeinaya-gruppa-i-kak-ona-rabotaet"
+    ],
+    "chunk_ids": [
+      "semeinaya_gruppa/obschaya-informatsiya__chto-takoe-semeinaya-gruppa-i-kak-ona-rabotaet::0001"
+    ],
+    "negative": false,
+    "cand_id": "cand-086"
+  },
+  {
+    "title": "Как получить дубликат договора на телефонию или интернет для бизнеса",
+    "source_path": "mts_fiksirovannaya_svyaz/pereoformlenie-perenos-ili-otklyuchenie-interneta-i-telefonii-dlya-biznesa__kak-poluchit-dublikat-dogovora-na-telefoniyu-ili-internet-dlya-biznesa",
+    "content": "# Как получить дубликат договора на телефонию или интернет для бизнеса\n\nДубликат договора не предоставляется. При заключении договора его экземпляр был выдан вашему сотруднику, который занимается корпоративной связью.\n\nЕсли вам нужно проверить или восстановить какие-либо данные, их можно посмотреть в личном кабинете для услуг фиксированной связи или [в Личном кабинете МТС Бизнес](https://lk-b2b.mts.ru/fixed_line/internet/home), если у вас есть к нему доступ. Как работать в Личном кабинете МТС Бизнес, рассказываем [в Справке](https://l.mts.ru/lk_mtsb)\n\nЕсли у вас остались вопросы, напишите нам [в чат](https://support.mts.ru/mts_fiksirovannaya_svyaz#chat_open)",
+    "chunk_id": "mts_fiksirovannaya_svyaz/pereoformlenie-perenos-ili-otklyuchenie-interneta-i-telefonii-dlya-biznesa__kak-poluchit-dublikat-dogovora-na-telefoniyu-ili-internet-dlya-biznesa::0000",
+    "heading_path": [],
+    "sources": [
+      "mts_fiksirovannaya_svyaz/pereoformlenie-perenos-ili-otklyuchenie-interneta-i-telefonii-dlya-biznesa__kak-poluchit-dublikat-dogovora-na-telefoniyu-ili-internet-dlya-biznesa"
+    ],
+    "chunk_ids": [
+      "mts_fiksirovannaya_svyaz/pereoformlenie-perenos-ili-otklyuchenie-interneta-i-telefonii-dlya-biznesa__kak-poluchit-dublikat-dogovora-na-telefoniyu-ili-internet-dlya-biznesa::0000"
+    ],
+    "negative": false,
+    "cand_id": "cand-087"
+  },
+  {
+    "title": "Как проверить, что мои данные в МТС подтверждены",
+    "source_path": "mts_id/podtverzhdenie-i-izmenenie-dannih-v-akkaunte__kak-proverit-chto-moi-dannie-v-mts-podtverzhdeni",
+    "content": "# Как проверить, что мои данные в МТС подтверждены\n\nИнформация актуальна для физлиц. Если ваш номер оформлен на организацию, инструкция — [в отдельной статье](https://l.mts.ru/0b2b_prv)\n\n1. Откройте [форму проверки](https://personal.mts.ru/v2/pd_confirm) ваших данных в МТС\n\n2. Введите номер телефона, по которому нужно проверить, подтверждены ли данные\n\n3. Введите код из СМС или пароль от аккаунта МТС\n\n4. На экране вы увидите результат проверки:\n\n- данные подтверждены\n\n- данные не подтверждены\n\nЕсли ваши данные ещё не подтверждены, это нужно сделать. Иначе номер может быть заблокирован [по закону РФ «О связи»](https://www.consultant.ru/document/cons_doc_LAW_43224/)\n\nПодготовили пошаговые инструкции, чтобы помочь вам разобраться, как подтвердить персональные данные:\n\n- [если номер оформлен на паспорт РФ](https://l.mts.ru/pd_info)\n- [если номер оформлен на документ другого государства и есть гражданство РФ](https://l.mts.ru/0pd-est-grazhdanstvo)\n- [если номер оформлен на документ другого государства, гражданства РФ нет](https://support.mts.ru/mts_mobilnaya_svyaz/oformlenie-i-podtverzhdenie-sim-karti-inostrannim-grazhdaninom/kak-podtverdit-dannie-esli-sim-karta-oformlena-na-dokument-drugogo-gosudarstva#gos)\n- [если номер оформлен на организацию](https://l.mts.ru/0mb2b-126)\n\nПосле подтверждения персональных данных статус [в форме проверки](https://personal.mts.ru/v2/pd_confirm) обновится в течение 1–2 дней.",
+    "chunk_id": "mts_id/podtverzhdenie-i-izmenenie-dannih-v-akkaunte__kak-proverit-chto-moi-dannie-v-mts-podtverzhdeni::0000",
+    "heading_path": [],
+    "sources": [
+      "mts_id/podtverzhdenie-i-izmenenie-dannih-v-akkaunte__kak-proverit-chto-moi-dannie-v-mts-podtverzhdeni"
+    ],
+    "chunk_ids": [
+      "mts_id/podtverzhdenie-i-izmenenie-dannih-v-akkaunte__kak-proverit-chto-moi-dannie-v-mts-podtverzhdeni::0000"
+    ],
+    "negative": false,
+    "cand_id": "cand-088"
+  },
+  {
+    "title": "Как подключить Кубик «Полный безлимит 2.0»",
+    "source_path": "mts_mobilnyy_internet/bezlimitnii-internet__kak-podklyuchit-kubik-polnii-bezlimit-20",
+    "content": "### Если в каталоге услуг нет Кубика «Полный безлимит 2.0»\n\n1. На главном экране нажмите на название своего тарифа\n\n2. Под названием тарифа нажмите Настроить\n\n3. Выберите Полный безлимит 2.0 и нажмите Получить за 0 ₽⁠\n\n4. Нажмите на кнопку переключения\n\n5. Нажмите Подключить\n\n**В Личном кабинете**\n\n1. Перейдите в раздел Каталог > [Услуги и опции](https://lk.mts.ru/catalog/uslugi)\n\n2. Выберите Добавить пакеты\n\n3. На виджете Кубики нажмите Выбрать\n\n4. Выберите Полный безлимит 2.0 и нажмите Подключить. В некоторых ситуациях Кубик может не отображаться в Каталоге. Если это так, пропустите шаги и пройдите [к своей части инструкции](https://support.mts.ru/mts_mobilnyy_internet/bezlimitnii-internet/kak-podklyuchit-kubik-polnii-bezlimit-20#netkubikalk)\n\n5. Для подтверждения нажмите Подключить",
+    "chunk_id": "mts_mobilnyy_internet/bezlimitnii-internet__kak-podklyuchit-kubik-polnii-bezlimit-20::0002",
+    "heading_path": [
+      "Как подключить «Полный безлимит 2.0»",
+      "Если в каталоге услуг нет Кубика «Полный безлимит 2.0»"
+    ],
+    "sources": [
+      "mts_mobilnyy_internet/bezlimitnii-internet__kak-podklyuchit-kubik-polnii-bezlimit-20"
+    ],
+    "chunk_ids": [
+      "mts_mobilnyy_internet/bezlimitnii-internet__kak-podklyuchit-kubik-polnii-bezlimit-20::0002"
+    ],
+    "negative": false,
+    "cand_id": "cand-089"
+  },
+  {
+    "title": "Какие могут быть штрафы при поездках на самокатах Юрент",
+    "source_path": "urent/pravila-narusheniya-i-shtrafi-v-urent__kakie-mogut-bit-shtrafi-pri-poezdkah-na-samokatah-urent",
+    "content": "## **За что может быть штраф по правилам дорожного движения**\n\n- проезд по пешеходному переходу — до 1 000 ₽\n- поездка вдвоём — до 100 000 ₽\n- если вам нет 18 лет или вы передали управление человеку младше 18 лет — до 100 000 ₽ и блокировка аккаунта на год\n- поездка в алкогольном или наркотическом опьянении — до 100 000 ₽ и блокировка аккаунта\n\nПодробную информацию о ПДД и возможных штрафах можно найти [на сайте Юрент](https://pdd.urent.ru/). За нарушение ПДД штрафуют сотрудники Госавтоинспеции.",
+    "chunk_id": "urent/pravila-narusheniya-i-shtrafi-v-urent__kakie-mogut-bit-shtrafi-pri-poezdkah-na-samokatah-urent::0002",
+    "heading_path": [
+      "За что может быть штраф по правилам дорожного движения"
+    ],
+    "sources": [
+      "urent/pravila-narusheniya-i-shtrafi-v-urent__kakie-mogut-bit-shtrafi-pri-poezdkah-na-samokatah-urent"
+    ],
+    "chunk_ids": [
+      "urent/pravila-narusheniya-i-shtrafi-v-urent__kakie-mogut-bit-shtrafi-pri-poezdkah-na-samokatah-urent::0002"
+    ],
+    "negative": false,
+    "cand_id": "cand-090"
+  },
+  {
+    "title": "Как оплатить задолженность",
+    "source_path": "zadolzhennost/zadolzhennost__kak-oplatit-zadolzhennost",
+    "content": "# Как оплатить задолженность\n\nЕсть несколько способов оплатить долг без комиссии:\n\n- картами МТС Банка и МТС Деньги в приложении Мой МТС, в сервисах МТС Банка или МТС Деньги, [на сайте МТС Оплата](https://payment.mts.ru/hub), [через МТС Pay](https://pay.mts.ru/pages/refill)\n- в сервисах большинства банков ― чтобы узнать, есть ли комиссия при оплате в вашем банке, введите его название в форму [на сайте](https://mts.ru/personal/podderzhka/mobilnaya-svyaz/obsluzhivanie-abonentov/usloviya-popolneniya-schyota)\n\nПри оплате другими способами, может списаться комиссия. Информацию о ней вы увидите, когда будете пополнять баланс. Подробнее о комиссии можно узнать [на сайте](https://mts.ru/personal/podderzhka/mobilnaya-svyaz/obsluzhivanie-abonentov/usloviya-popolneniya-schyota)",
+    "chunk_id": "zadolzhennost/zadolzhennost__kak-oplatit-zadolzhennost::0000",
+    "heading_path": [],
+    "sources": [
+      "zadolzhennost/zadolzhennost__kak-oplatit-zadolzhennost"
+    ],
+    "chunk_ids": [
+      "zadolzhennost/zadolzhennost__kak-oplatit-zadolzhennost::0000"
+    ],
+    "negative": false,
+    "cand_id": "cand-091"
+  },
+  {
+    "title": "Как заблокировать спам и номера мошенников",
+    "source_path": "zaschita_ot_spama_i_moshennikov/zaschita-ot-spama-i-moshennichestva__kak-zablokirovat-spam-i-nomera-moshennikov",
+    "content": "### **Запреты на получение СМС-рассылок и массовых вызовов**\n\nЕсть две бесплатные услуги: «Запрет массовых автоматизированных вызовов» и «Запрет на получение SMS-рассылок». Они блокируют большинство массовых звонков и СМС-рассылок, в том числе полезные, например, от банков или сервисов бронирования. Подробнее о том, как работают услуги, рассказываем в статьях:\n\n- [Что такое запрет массовых автоматизированных вызовов и как его подключить](https://l.mts.ru/0zapret-vizovov)\n- [Что такое запрет на получение СМС-рассылок и как его подключить](https://l.mts.ru/0zapret-sms)\n\nВы также можете использовать встроенные функции вашего телефона. Во многих современных смартфонах есть возможность блокировать номера или применять спам-фильтры. Для защиты от нежелательных звонков и сообщений в мессенджерах и соцсетях блокировать их нужно в самом приложении.",
+    "chunk_id": "zaschita_ot_spama_i_moshennikov/zaschita-ot-spama-i-moshennichestva__kak-zablokirovat-spam-i-nomera-moshennikov::0005",
+    "heading_path": [
+      "Запреты на получение СМС-рассылок и массовых вызовов"
+    ],
+    "sources": [
+      "zaschita_ot_spama_i_moshennikov/zaschita-ot-spama-i-moshennichestva__kak-zablokirovat-spam-i-nomera-moshennikov"
+    ],
+    "chunk_ids": [
+      "zaschita_ot_spama_i_moshennikov/zaschita-ot-spama-i-moshennichestva__kak-zablokirovat-spam-i-nomera-moshennikov::0005"
+    ],
+    "negative": false,
+    "cand_id": "cand-092"
+  },
+  {
+    "title": "Для чего нужна временная почта и как её создать",
+    "source_path": "membrana/servisi-zaschiti__dlya-chego-nuzhna-vremennaya-pochta-i-kak-eyo-sozdat-",
+    "content": "### Важно\n\nИнформация может отличаться для клиентов из разных регионов. Выберите город, в котором вы оформляли SIM-карту\n\n[выбрать город](#geo_open)\n\nВы можете создать временный почтовый ящик, чтобы с его помощью регистрироваться на ресурсах, которым не доверяете\n\nВременная почта не связана с вашей основной. В случае утечки данных с ресурсов ваша основная почта останется в безопасности.\n\nВы сможете получать входящие письма, сохранять их и переходить по ссылкам для активации аккаунтов. По умолчанию почтовый ящик создаётся на 10 минут, но вы можете продлить работу временной почты до одного часа. По истечении этого времени ящик и письма в нём будут удалены",
+    "chunk_id": "membrana/servisi-zaschiti__dlya-chego-nuzhna-vremennaya-pochta-i-kak-eyo-sozdat-::0001",
+    "heading_path": [
+      "Важно"
+    ],
+    "sources": [
+      "membrana/servisi-zaschiti__dlya-chego-nuzhna-vremennaya-pochta-i-kak-eyo-sozdat-",
+      "membrana/servisi-zaschiti__dlya-chego-nuzhna-vremennaya-pochta-i-kak-eyo-sozdat"
+    ],
+    "chunk_ids": [
+      "membrana/servisi-zaschiti__dlya-chego-nuzhna-vremennaya-pochta-i-kak-eyo-sozdat-::0001",
+      "membrana/servisi-zaschiti__dlya-chego-nuzhna-vremennaya-pochta-i-kak-eyo-sozdat::0001"
+    ],
+    "negative": false,
+    "cand_id": "cand-093"
+  },
+  {
+    "title": "Бонусы от МТС Premium при аренде машины в BelkaCar",
+    "source_path": "mts-premium/skidki-i-promokodi-ot-partnyorov__bonusy-ot-mts-premium-pri-arende-mashiny-v-belkacar",
+    "content": "# Бонусы от МТС Premium при аренде машины в BelkaCar\n\nДо 30 сентября 2026 с подпиской МТС Premium вы получите бонусы в каршеринге BelkaCar, если выберете тариф МТС Premium:\n\n- кешбэк за поездку — его можно получить или потратить на аренду\n- скидка 30% на расширенную страховку\n- дополнительные 5 минут к бесплатному ожиданию",
+    "chunk_id": "mts-premium/skidki-i-promokodi-ot-partnyorov__bonusy-ot-mts-premium-pri-arende-mashiny-v-belkacar::0000",
+    "heading_path": [],
+    "sources": [
+      "mts-premium/skidki-i-promokodi-ot-partnyorov__bonusy-ot-mts-premium-pri-arende-mashiny-v-belkacar"
+    ],
+    "chunk_ids": [
+      "mts-premium/skidki-i-promokodi-ot-partnyorov__bonusy-ot-mts-premium-pri-arende-mashiny-v-belkacar::0000"
+    ],
+    "negative": false,
+    "cand_id": "cand-094"
+  },
+  {
+    "title": "Руководство пользователя для USB-модемов и роутеров МТС",
+    "source_path": "mts_mobilnyy_internet/nastroiki-mobilnogo-interneta__rukovodstvo-polzovatelya-dlya-usb-modemov-i-routerov-mts",
+    "content": "[Загрузить](https://cdn.support.mts.ru/api/v1/uploads/mts_874FT_691b404fb7dcc26c997894cb.pdf) (4,3 Мб) | | МТС 835FT (ver.1) | [Загрузить](https://cdn.support.mts.ru/api/v1/uploads/mts_835FT_ver1_691b405ab7dcc26c99789507.pdf) (629 Кб) |\n| МТС 873FT PB | [Загрузить](https://cdn.support.mts.ru/api/v1/uploads/mts_873FTPB_691b4061b7dcc26c9978952d.pdf) (889 Кб) |\n| МТС 838F | [Загрузить](https://cdn.support.mts.ru/api/v1/uploads/mts_838F_691b405bb7dcc26c99789509.pdf) (786 Кб) |\n| МТС 836F | [Загрузить](https://cdn.support.mts.ru/api/v1/uploads/mts_836F_691b405cb7dcc26c9978950d.pdf) (488 Кб) |\n| МТС 8214F | [Загрузить](https://cdn.support.mts.ru/api/v1/uploads/mts_8214F_691b4063b7dcc26c99789539.pdf) (328 Кб) |\n| МТС 835F | [Загрузить](https://cdn.support.mts.ru/api/v1/uploads/mts_835f_691b4053b7dcc26c997894db.pdf) (7,3 Мб) |\n| МТС 829F | [Загрузить](https://cdn.support.mts.ru/api/v1/uploads/mts_829f_691b4056b7dcc26c997894e9.pdf) (350 Кб) |\n| МТС 829FT | [Загрузить](https://cdn.support.mts.ru/api/v1/uploads/mts_829FT_1_691b4051b7dcc26c997894d3.pdf) (889 Кб)  [Загрузить для macOS 10.15 Catalina](https://cdn.support.mts.ru/api/v1/uploads/829ft_po_dlya_macos_catalina_10_15_691b4059b7dcc26c997894ff.pdf) (1 Мб) |\n| МТС 837F (ZTE MF79S) | [Загрузить](https://cdn.support.mts.ru/api/v1/uploads/mts_837f_691b4066b7dcc26c99789547.pdf) (7,2 Мб) |\n| МТС 861F | [Загрузить](https://cdn.support.mts.ru/api/v1/uploads/mts_861f_manual_691b4058b7dcc26c997894f5.pdf) (1 ,71 Мб) |\n| МТС 8210F | [Загрузить](https://cdn.support.mts.ru/api/v1/uploads/mts_8210ft_manual_691b405db7dcc26c99789511.pdf) (882 Кб) |\n| МТС 8210FT | [Загрузить](https://cdn.support.mts.ru/api/v1/uploads/mts_8210ft_manual_691b405db7dcc26c99789511.pdf) (882 Кб) |\n| MTS 422D | [Загрузить](https://cdn.support.mts.ru/api/v1/uploads/mts_422d_manual_691b404ab7dcc26c997894b3.pdf) (14,2 Мб) |\n| МТС 8212FT | [Загрузить](https://cdn.support.mts.ru/api/v1/uploads/mts_8212ft_691b404db7dcc26c997894bd.pdf) (1 ,25 Мб) |",
+    "chunk_id": "mts_mobilnyy_internet/nastroiki-mobilnogo-interneta__rukovodstvo-polzovatelya-dlya-usb-modemov-i-routerov-mts::0003",
+    "heading_path": [],
+    "sources": [
+      "mts_mobilnyy_internet/nastroiki-mobilnogo-interneta__rukovodstvo-polzovatelya-dlya-usb-modemov-i-routerov-mts"
+    ],
+    "chunk_ids": [
+      "mts_mobilnyy_internet/nastroiki-mobilnogo-interneta__rukovodstvo-polzovatelya-dlya-usb-modemov-i-routerov-mts::0003"
+    ],
+    "negative": false,
+    "cand_id": "cand-095"
+  },
+  {
+    "title": "Как разблокировать VDome",
+    "source_path": "mpvdome/kak-ustranit-nepoladki-v-rabote-uslugi-i-prilozheniya__kak-razblokirovat-vdome",
+    "content": "# Как разблокировать VDome\n\nУслуга блокируется по разным причинам:\n\n- она не оплачена. Оплатите услуги организации, которая обслуживает домофон. После этого домофон разблокируется\n- не подключена дополнительная услуга для работы приложения. Обратитесь в организацию, которая обслуживает домофон, — вам помогут\n\nКак узнать, какая организация обслуживает домофон по моему адресу, рассказываем [в статье](https://l.mts.ru/0obsluzhivaet-domofon)\n\nКак создать заявку в Домофонную компанию рассказываем [в статье](https://l.mts.ru/0sozdat-zayavku)",
+    "chunk_id": "mpvdome/kak-ustranit-nepoladki-v-rabote-uslugi-i-prilozheniya__kak-razblokirovat-vdome::0000",
+    "heading_path": [],
+    "sources": [
+      "mpvdome/kak-ustranit-nepoladki-v-rabote-uslugi-i-prilozheniya__kak-razblokirovat-vdome"
+    ],
+    "chunk_ids": [
+      "mpvdome/kak-ustranit-nepoladki-v-rabote-uslugi-i-prilozheniya__kak-razblokirovat-vdome::0000"
+    ],
+    "negative": false,
+    "cand_id": "cand-096"
+  },
+  {
+    "title": "Что делать, если пропала музыка",
+    "source_path": "kion_muzika/pleilisti__chto-delat-esli-propala-muzika",
+    "content": "# Что делать, если пропала музыка\n\n- проверьте, что вы зашли в аккаунт, в который была добавлена музыка\n- если музыка пропала после того, как вы обновили приложение, выйдите из КИОН Музыки и авторизуйтесь ещё раз\n- если названия песен отмечены серым цветом, их удалили по просьбе авторов\n\nЕсли рекомендации не помогли, свяжитесь с нами в приложении КИОН Музыка > Профиль > Написать в чат. Мы проверим, в чём дело.",
+    "chunk_id": "kion_muzika/pleilisti__chto-delat-esli-propala-muzika::0000",
+    "heading_path": [],
+    "sources": [
+      "kion_muzika/pleilisti__chto-delat-esli-propala-muzika"
+    ],
+    "chunk_ids": [
+      "kion_muzika/pleilisti__chto-delat-esli-propala-muzika::0000"
+    ],
+    "negative": false,
+    "cand_id": "cand-097"
+  },
+  {
+    "title": "Какие есть подписки на КИОН Музыку",
+    "source_path": "kion_muzika/podpiska-na-kion-muziku__kakie-est-podpiski-na-kion-muziku",
+    "content": "# Какие есть подписки на КИОН Музыку\n\nЕсть несколько подписок:\n\n- КИОН Музыка — 399 ₽/год при подключении до 31 августа 2026. Далее — 999 ₽/год. Первые 7 дней бесплатно\n- КИОН Музыка — 169 ₽/мес.\n- КИОН ТОП — подписка за 399 ₽/мес, куда входят сразу три развлекательных сервиса: КИОН Строки, КИОН Музыка и КИОН. Содержание сервисов такое же, как если бы вы оформили отдельную подписку на каждый из них, за исключение КИОН Строк. Там с этой подпиской доступны все книги издательства Строки, свежие газеты, журналы и избранные книги издательств АСТ, Азбука и ЭКСМО. Управлять подпиской можно [в сервисе КИОН](https://kion.ru/)\n\nТакже музыка доступна в подписке [МТС Premium](https://premium.mts.ru/). Она подключается по промокоду, который применяется автоматически.\n\nКак подключить подписку, рассказываем [в статье](https://l.mts.ru/0kak-podklyuchit-podpisku-na-kion-muziku)",
+    "chunk_id": "kion_muzika/podpiska-na-kion-muziku__kakie-est-podpiski-na-kion-muziku::0000",
+    "heading_path": [],
+    "sources": [
+      "kion_muzika/podpiska-na-kion-muziku__kakie-est-podpiski-na-kion-muziku"
+    ],
+    "chunk_ids": [
+      "kion_muzika/podpiska-na-kion-muziku__kakie-est-podpiski-na-kion-muziku::0000"
+    ],
+    "negative": false,
+    "cand_id": "cand-098"
+  },
+  {
+    "title": "Что делать, если не получается добавить умное устройство",
+    "source_path": "umnii_dom/domashnii-tsentr-mts__chto-delat-esli-ne-poluchaetsya-dobavit-umnoe-ustroistvo",
+    "content": "# Что делать, если не получается добавить умное устройство\n\nУмные устройства подключаются к сети Wi-Fi с частотой 2,4 ГГц. Если ваш роутер работает на частоте 5 ГГц, измените настройки по инструкции:\n\n1. В адресной строке любого браузера введите IP-адрес роутера. Как правило, IP-адрес роутера и логин с паролем, которые понадобятся дальше, можно посмотреть на самом роутере\n\nЕсли вы не меняли заводские настройки и IP-адрес роутера, для входа в настройки роутера используйте IP-адрес [192.168.1.1](http://192.168.1.1/) или [192.168.0.1](http://192.168.0.1/), имя пользователя и пароль — admin\n\n2. Перейдите в раздел «Беспроводная сеть» или «Беспроводной режим»\n\n3. В настройках выберите диапазон 2,4 ГГц\n\n4. Сохраните изменения и перезагрузите роутер\n\nГотово! Теперь ваш роутер будет работать на частоте 2,4 ГГц.",
+    "chunk_id": "umnii_dom/domashnii-tsentr-mts__chto-delat-esli-ne-poluchaetsya-dobavit-umnoe-ustroistvo::0000",
+    "heading_path": [],
+    "sources": [
+      "umnii_dom/domashnii-tsentr-mts__chto-delat-esli-ne-poluchaetsya-dobavit-umnoe-ustroistvo"
+    ],
+    "chunk_ids": [
+      "umnii_dom/domashnii-tsentr-mts__chto-delat-esli-ne-poluchaetsya-dobavit-umnoe-ustroistvo::0000"
+    ],
+    "negative": false,
+    "cand_id": "cand-099"
+  },
+  {
+    "title": "Пакет интернета по подписке МТС Premium",
+    "source_path": "mts-premium/internet-v-podpiske__paket-interneta-po-podpiske",
+    "content": "## Где проверить начисление интернета по подписке МТС Premium\n\nВ приложении Мой МТС и Личном кабинете.\n\nВ приложении трафик суммируется с вашим пакетом по тарифу. В Личном кабинете он отобразится вместо вашего пакета, даже если у вас безлимит. Когда интернет по подписке закончится, вы снова увидите в Личном кабинете свои ГБ по тарифу. Подробнее — в статье [Как проверить остаток интернета по подписке МТС Premium](https://l.mts.ru/0kak-proverit-ostatok-interneta)",
+    "chunk_id": "mts-premium/internet-v-podpiske__paket-interneta-po-podpiske::0001",
+    "heading_path": [
+      "Где проверить начисление интернета по подписке МТС Premium"
+    ],
+    "sources": [
+      "mts-premium/internet-v-podpiske__paket-interneta-po-podpiske"
+    ],
+    "chunk_ids": [
+      "mts-premium/internet-v-podpiske__paket-interneta-po-podpiske::0001"
+    ],
+    "negative": false,
+    "cand_id": "cand-100"
+  },
+  {
+    "title": "Как добавить умную розетку",
+    "source_path": "umnii_dom/umnaya-rozetka__kak-dobavit-umnuyu-rozetku",
+    "content": "# Как добавить умную розетку\n\n1. Нажмите плюс в правом верхнем углу на главной странице, далее – Устройства МТС\n\n2. Выберите Розетка\n\n3. Вставьте умную розетку в обычную\n\n4. Нажмите и удерживайте кнопку на корпусе устройства. Когда индикатор быстро замигает голубым, в приложении нажмите Далее\n\n5. Дождитесь добавление розетки и снова нажмите Далее\n\n6. Выберите комнату и назовите устройство",
+    "chunk_id": "umnii_dom/umnaya-rozetka__kak-dobavit-umnuyu-rozetku::0000",
+    "heading_path": [],
+    "sources": [
+      "umnii_dom/umnaya-rozetka__kak-dobavit-umnuyu-rozetku"
+    ],
+    "chunk_ids": [
+      "umnii_dom/umnaya-rozetka__kak-dobavit-umnuyu-rozetku::0000"
+    ],
+    "negative": false,
+    "cand_id": "cand-101"
+  },
+  {
+    "title": "Как скачать файлы, фото или видео из облака",
+    "source_path": "mts_vtoraya_pamyat/rabota-s-failami-foto-i-video__kak-skachat-fayly-foto-ili-video-iz-oblaka",
+    "content": "## Как скачать все файлы одним архивом\n\nЕсли вы хотите получить все ваши файлы, фото и видео из облака, нужно оставить заявку на архив. Для этого свяжитесь с нами:\n\n- в приложении Вторая память в разделе Ещё > Чат поддержки\n- [здесь через значок в правом нижнем углу](#chat_open)\n\nМы соберём архив в течение 48 часов и пришлём вам ссылку для скачивания в СМС.  Скачать его можно только с компьютера.",
+    "chunk_id": "mts_vtoraya_pamyat/rabota-s-failami-foto-i-video__kak-skachat-fayly-foto-ili-video-iz-oblaka::0001",
+    "heading_path": [
+      "Как скачать все файлы одним архивом"
+    ],
+    "sources": [
+      "mts_vtoraya_pamyat/rabota-s-failami-foto-i-video__kak-skachat-fayly-foto-ili-video-iz-oblaka"
+    ],
+    "chunk_ids": [
+      "mts_vtoraya_pamyat/rabota-s-failami-foto-i-video__kak-skachat-fayly-foto-ili-video-iz-oblaka::0001"
+    ],
+    "negative": false,
+    "cand_id": "cand-102"
+  },
+  {
+    "title": "Как купить игру на Rushbe",
+    "source_path": "rushbe/pokupka-igr-na-rushbe__kak-kupit-igru-na-rushbe",
+    "content": "# Как купить игру на Rushbe\n\nВы можете покупать игры сколько угодно раз, если ключи есть в наличии. Как это сделать:\n\n1. Войдите [на сайт Rushbe](https://rushbe.ru/) по своему номеру телефона\n\n2. На странице игры нажмите Купить. О регионах игр подробно рассказываем в статье [На что влияет регион игры и какие они бывают](https://l.mts.ru/0na-chto-vliyaet-region)\n\n3. Введите данные карты и нажмите Оплатить\n\n4. В течение 6 часов, но обычно почти сразу, чек придёт вам на почту, а ключ — в СМС\n\nЕсли ключ не пришёл в течение 6 часов, [напишите нам в чат](#chat_open). Мы поможем.\n\nО том, как использовать ключ, рассказываем в разделе [Активация ключей](https://l.mts.ru/0aktivatsiya-klyuchei)",
+    "chunk_id": "rushbe/pokupka-igr-na-rushbe__kak-kupit-igru-na-rushbe::0000",
+    "heading_path": [],
+    "sources": [
+      "rushbe/pokupka-igr-na-rushbe__kak-kupit-igru-na-rushbe"
+    ],
+    "chunk_ids": [
+      "rushbe/pokupka-igr-na-rushbe__kak-kupit-igru-na-rushbe::0000"
+    ],
+    "negative": false,
+    "cand_id": "cand-103"
+  },
+  {
+    "title": "Как отслеживать утечки данных",
+    "source_path": "zaschitnik/otslezhivanie-utechek__kak-otslezhivat-utechki-dannykh",
+    "content": "### **С подпиской «Поиск утечек данных»**\n\n1. На главном экране приложения Мой МТС нажмите на виджет Защитник\n\nЕсли такого виджета нет, скорее всего, вы зашли в аккаунт кого-то из ваших близких, которым управляете в Мой МТС. Перейдите в аккаунт со своим основным номером — инструкция есть [в статье](https://l.mts.ru/0akkaunty)\n\n2. Нажмите Все возможности\n\n3. Выберите и нажмите Поиск утечек данных\n\n4. Нажмите на кнопку Проверить утечки\n\n5. Откроется список утечек, если они есть\n\n6. Нажмите на утечку, чтобы посмотреть подробности о ней и получить совет, что делать в этой ситуации",
+    "chunk_id": "zaschitnik/otslezhivanie-utechek__kak-otslezhivat-utechki-dannykh::0003",
+    "heading_path": [
+      "Как проверить утечки",
+      "С подпиской «Поиск утечек данных»"
+    ],
+    "sources": [
+      "zaschitnik/otslezhivanie-utechek__kak-otslezhivat-utechki-dannykh"
+    ],
+    "chunk_ids": [
+      "zaschitnik/otslezhivanie-utechek__kak-otslezhivat-utechki-dannykh::0003"
+    ],
+    "negative": false,
+    "cand_id": "cand-104"
+  },
+  {
+    "title": "Можно ли отключить Интернет-абонемент и вернуть деньги",
+    "source_path": "mts_fiksirovannaya_svyaz/internet-abonement-dlya-biznesa__mozhno-li-otklyuchit-internet-abonement-i-vernut-dengi",
+    "content": "# Можно ли отключить Интернет-абонемент и вернуть деньги\n\nОтключить Интернет-абонемент можно, но деньги за него не вернутся.\n\nРекомендуем использовать абонемент до конца срока действия — после этого он отключится автоматически. Интернет, VPN или Wi-Fi для бизнеса вы будете оплачивать по стандартным условиям.",
+    "chunk_id": "mts_fiksirovannaya_svyaz/internet-abonement-dlya-biznesa__mozhno-li-otklyuchit-internet-abonement-i-vernut-dengi::0000",
+    "heading_path": [],
+    "sources": [
+      "mts_fiksirovannaya_svyaz/internet-abonement-dlya-biznesa__mozhno-li-otklyuchit-internet-abonement-i-vernut-dengi"
+    ],
+    "chunk_ids": [
+      "mts_fiksirovannaya_svyaz/internet-abonement-dlya-biznesa__mozhno-li-otklyuchit-internet-abonement-i-vernut-dengi::0000"
+    ],
+    "negative": false,
+    "cand_id": "cand-105"
+  },
+  {
+    "title": "Почему с подпиской я не могу слушать аудиокниги",
+    "source_path": "kion_stroki/chitalka__pochemu-s-podpiskoi-ya-ne-mogu-slushat-audioknigi",
+    "content": "# Почему с подпиской я не могу слушать аудиокниги\n\nПричин может быть несколько:\n\n- на карте или лицевом счёте не хватает денег для оплаты подписки. Вам будет доступен только ознакомительный фрагмент. Когда вы оплатите подписку доступ откроется полностью\n- книга, которую вы хотите послушать, не входит в вашу подписку\n- эту книгу можно только купить. Возле таких книг будет пометка Платный каталог",
+    "chunk_id": "kion_stroki/chitalka__pochemu-s-podpiskoi-ya-ne-mogu-slushat-audioknigi::0000",
+    "heading_path": [],
+    "sources": [
+      "kion_stroki/chitalka__pochemu-s-podpiskoi-ya-ne-mogu-slushat-audioknigi"
+    ],
+    "chunk_ids": [
+      "kion_stroki/chitalka__pochemu-s-podpiskoi-ya-ne-mogu-slushat-audioknigi::0000"
+    ],
+    "negative": false,
+    "cand_id": "cand-106"
+  },
+  {
+    "title": "Как набирать номер для звонка в другую страну",
+    "source_path": "mts_domashniy_telefon/pravila-nabora-nomera__kak-nabirat-nomer-dlya-zvonka-v-druguyu-stranu-msk",
+    "content": "# Как набирать номер для звонка в другую страну\n\n **Важно**\n\nИнформация для клиентов, которые подключили услуги в Москве и Московской области. Измените город, если вы подключали услуги в другом регионе\n\n[Изменить город](#geo_open)\n\nЕсли вы уже выбрали МТС, как оператора международной связи, наберите для звонка:\n\n- на городской номер: 8 — 10 — код страны — код города — номер абонента\n- на мобильный номер: 8 — 10 — код страны — номер абонента\n\nЕсли вы выбираете МТС каждый раз, когда совершаете международный вызов, наберите для звонка:\n\n- на городской номер: 8 — 28 — код страны — код города — номер абонента\n- на мобильный номер: 8 — 28 — код страны — номер абонента\n\nСтоимость звонков в другие города и страны можно узнать [на сайте](https://moskva.mts.ru/personal/dlya-doma/uslugi/katalog-uslug-fiksirovannoy-svyazi/mezhdugorodnaya_i_mezhdunarodnaya_svyaz)",
+    "chunk_id": "mts_domashniy_telefon/pravila-nabora-nomera__kak-nabirat-nomer-dlya-zvonka-v-druguyu-stranu-msk::0000",
+    "heading_path": [],
+    "sources": [
+      "mts_domashniy_telefon/pravila-nabora-nomera__kak-nabirat-nomer-dlya-zvonka-v-druguyu-stranu-msk",
+      "mts_domashniy_telefon/pravila-nabora-nomera__kak-nabirat-nomer-dlya-zvonka-v-druguyu-stranu"
+    ],
+    "chunk_ids": [
+      "mts_domashniy_telefon/pravila-nabora-nomera__kak-nabirat-nomer-dlya-zvonka-v-druguyu-stranu-msk::0000",
+      "mts_domashniy_telefon/pravila-nabora-nomera__kak-nabirat-nomer-dlya-zvonka-v-druguyu-stranu::0000"
+    ],
+    "negative": false,
+    "cand_id": "cand-107"
+  },
+  {
+    "title": "Как в МТС Membrana Junior управлять получением и отправкой СМС на номере ребёнка",
+    "source_path": "membrana_junior/filtratsiya-zvonkov-i-sms__kak-upravlyat-polucheniem-i-otpravkoi-sms-na-nomere-rebyonka",
+    "content": "# Как в МТС Membrana Junior управлять получением и отправкой СМС на номере ребёнка\n\nВы можете включить блокировку СМС на номере ребёнка. С ней он не сможет ни отправлять, ни получать СМС. Это защитит его от спама, мошенников, нежелательных контактов и платных услуг.\n\nЧтобы включить блокировку СМС перейдите в профиль ребёнка и переведите переключатель в активное положение\n\nЕсли нужно будет получить или отправить СМС, то верните переключатель в неактивный режим\n\nПереключатель включает или отключает услугу Служба коротких сообщений, которая отвечает за приём и отправку СМС.",
+    "chunk_id": "membrana_junior/filtratsiya-zvonkov-i-sms__kak-upravlyat-polucheniem-i-otpravkoi-sms-na-nomere-rebyonka::0000",
+    "heading_path": [],
+    "sources": [
+      "membrana_junior/filtratsiya-zvonkov-i-sms__kak-upravlyat-polucheniem-i-otpravkoi-sms-na-nomere-rebyonka"
+    ],
+    "chunk_ids": [
+      "membrana_junior/filtratsiya-zvonkov-i-sms__kak-upravlyat-polucheniem-i-otpravkoi-sms-na-nomere-rebyonka::0000"
+    ],
+    "negative": false,
+    "cand_id": "cand-108"
+  },
+  {
+    "title": "Как войти в приложение Мой МТС",
+    "source_path": "vozmozhnosti_moi_mts/vozmozhnosti-moi-mts__kak-voiti-v-prilozhenie-moi-mts",
+    "content": "### **По номеру лицевого счёта**\n\nЭтот способ для пользователей:\n\n- домашнего интернета, телевидения и городского телефона в регионах РФ, кроме Москвы и Московской области. Логин и пароль для входа указаны в договоре или акте выполненных работ. Акт и договор выдаёт мастер при подключении услуг\n- спутникового ТВ во всех регионах РФ. Логин ― это лицевой счёт, указанный в вашем договоре. Пароль для первого входа в личный кабинет — это Chip ID приставки. Далее система просит изменить пароль через кнопку Получить пароль\n\n  Если вы забыли пароль, введите логин в окне входа в [Личный кабинет Спутникового ТВ](https://lk.stv.mts.ru/) и нажмите Далее > нажмите Получить пароль. Новый пароль придёт в СМС на контактный номер или email.\n\nДля входа в аккаунт:\n\n1. Откройте приложение и нажмите кнопку Войти\n\n2. Выберите существующий аккаунт или нажмите  Добавить аккаунт\n\n3. Нажмите Войти с другим номером, если раньше заходили в Мой МТС под другим аккаунтом\n\n4. Введите номер лицевого счёта и нажмите Далее\n\n5. Введите пароль\n\nГотово! На этом шаге должен открыться ваш аккаунт в Мой МТС.",
+    "chunk_id": "vozmozhnosti_moi_mts/vozmozhnosti-moi-mts__kak-voiti-v-prilozhenie-moi-mts::0004",
+    "heading_path": [
+      "По номеру лицевого счёта"
+    ],
+    "sources": [
+      "vozmozhnosti_moi_mts/vozmozhnosti-moi-mts__kak-voiti-v-prilozhenie-moi-mts"
+    ],
+    "chunk_ids": [
+      "vozmozhnosti_moi_mts/vozmozhnosti-moi-mts__kak-voiti-v-prilozhenie-moi-mts::0004"
+    ],
+    "negative": false,
+    "cand_id": "cand-109"
+  },
+  {
+    "title": "Сколько стоит и что включает в себя подписка Строки Т-Банк",
+    "source_path": "kion_stroki/vidi-i-opisanie-podpisok__skolko-stoit-i-chto-vklyuchaet-v-sebya-podpiska-stroki-t-bank",
+    "content": "# Сколько стоит и что включает в себя подписка Строки Т-Банк\n\nСтроки Т-Банк — подписка за 299 ₽/мес, которая подключается в сервисах Т-Банка. Если подключаете её впервые, то первые 30 дней — бесплатно.\n\nВ КИОН Строках с этой подпиской у вас будет доступ к следующему контенту:\n\n- все книги издательства Строки\n- свежие газеты, журналы и архив номеров\n- избранные книги издательств АСТ, Азбука и ЭКСМО",
+    "chunk_id": "kion_stroki/vidi-i-opisanie-podpisok__skolko-stoit-i-chto-vklyuchaet-v-sebya-podpiska-stroki-t-bank::0000",
+    "heading_path": [],
+    "sources": [
+      "kion_stroki/vidi-i-opisanie-podpisok__skolko-stoit-i-chto-vklyuchaet-v-sebya-podpiska-stroki-t-bank"
+    ],
+    "chunk_ids": [
+      "kion_stroki/vidi-i-opisanie-podpisok__skolko-stoit-i-chto-vklyuchaet-v-sebya-podpiska-stroki-t-bank::0000"
+    ],
+    "negative": false,
+    "cand_id": "cand-110"
+  },
+  {
+    "title": "Как вернуть товар по гарантии",
+    "source_path": "mts_mts_internet_magazin/vozvrat-tovara-remont-i-garantiya__kak-vernut-tovar-po-garantii",
+    "content": "## **Куда обращаться**\n\nВы можете прийти [в любой салон МТС](https://shop.mts.ru/stores/?tab=list). Сотрудник салона расскажет, что можно сделать: починить устройство, обменять его или вернуть деньги. Иногда для этого может потребоваться дополнительная проверка качества.\n\nВозьмите с собой паспорт, чек и товар в полной комплектации.\n\nЧтобы мастер мог провести диагностику и ремонт, устройство нужно подготовить: снимите пароль или графический ключ, выйдите из аккаунтов в Google или iCloud, а для техники Apple — отключите функцию «Найти iPhone».",
+    "chunk_id": "mts_mts_internet_magazin/vozvrat-tovara-remont-i-garantiya__kak-vernut-tovar-po-garantii::0002",
+    "heading_path": [
+      "Куда обращаться"
+    ],
+    "sources": [
+      "mts_mts_internet_magazin/vozvrat-tovara-remont-i-garantiya__kak-vernut-tovar-po-garantii"
+    ],
+    "chunk_ids": [
+      "mts_mts_internet_magazin/vozvrat-tovara-remont-i-garantiya__kak-vernut-tovar-po-garantii::0002"
+    ],
+    "negative": false,
+    "cand_id": "cand-111"
+  },
+  {
+    "title": "Как переоформить именные билеты на Ticketland",
+    "source_path": "ticketland/pokupka-i-ispolzovanie-biletov-na-ticketland__kakiye-dokumenty-nuzhny-dlya-poseshcheniya-teatrov-moskvy-i-kak-pereoformit-bilet-v-ticketland",
+    "content": "# Как переоформить именные билеты на Ticketland\n\nПо [постановлению Правительства Москвы](https://www.mos.ru/kultura/documents/normativnye-pravovye-akty-departamenta/view/313392220/) с 15 марта 2025 посещение мероприятий театров Москвы [из списка](https://www.mos.ru/authority/messages/98055/) нужны именные билеты, поэтому:\n\n- при покупке нужно указать данные документа, который подтверждает личность\n- пройти на мероприятие получится только с именным билетом и документом, который подтверждает личность. Данные в них должны совпадать",
+    "chunk_id": "ticketland/pokupka-i-ispolzovanie-biletov-na-ticketland__kakiye-dokumenty-nuzhny-dlya-poseshcheniya-teatrov-moskvy-i-kak-pereoformit-bilet-v-ticketland::0000",
+    "heading_path": [],
+    "sources": [
+      "ticketland/pokupka-i-ispolzovanie-biletov-na-ticketland__kakiye-dokumenty-nuzhny-dlya-poseshcheniya-teatrov-moskvy-i-kak-pereoformit-bilet-v-ticketland"
+    ],
+    "chunk_ids": [
+      "ticketland/pokupka-i-ispolzovanie-biletov-na-ticketland__kakiye-dokumenty-nuzhny-dlya-poseshcheniya-teatrov-moskvy-i-kak-pereoformit-bilet-v-ticketland::0000"
+    ],
+    "negative": false,
+    "cand_id": "cand-112"
+  },
+  {
+    "title": "Как работать с расследованиями в МТС Экологии",
+    "source_path": "mts_ekologiya/poisk-storonnih-istochnikov-zagryazneniya__kak-rabotat-s-rassledovaniyami-v-mts-ekologii",
+    "content": "# Как работать с расследованиями в МТС Экологии\n\nСистема помогает провести расследование и определить, где находится источник загрязнения.\n\n1. Перейдите в раздел Расследование\n\n2. Введите координаты нужной точки или выберите её на карте. Укажите дату и время инцидента, вещество и его концентрацию. Добавьте дополнительные данные, например, запах, цвет и осадки\n\n3. Нажмите Расследовать\n\nВы увидите сообщение, что заявка принята. Заявки обрабатываются 2 раза в сутки — в 12:00 и 00:00.\n\nЧтобы посмотреть отчёт о расследовании, перейдите в раздел «Архив отчётов» и нажмите кнопку просмотра. В отчёте система покажет предполагаемый источник загрязнения и вероятность его появления\n\nПример отчёта о проведённом расследовании",
+    "chunk_id": "mts_ekologiya/poisk-storonnih-istochnikov-zagryazneniya__kak-rabotat-s-rassledovaniyami-v-mts-ekologii::0000",
+    "heading_path": [],
+    "sources": [
+      "mts_ekologiya/poisk-storonnih-istochnikov-zagryazneniya__kak-rabotat-s-rassledovaniyami-v-mts-ekologii"
+    ],
+    "chunk_ids": [
+      "mts_ekologiya/poisk-storonnih-istochnikov-zagryazneniya__kak-rabotat-s-rassledovaniyami-v-mts-ekologii::0000"
+    ],
+    "negative": false,
+    "cand_id": "cand-113"
+  },
+  {
+    "title": "Что такое самозапрет на оформление сим-карты и как его установить",
+    "source_path": "zaschita_ot_spama_i_moshennikov/zaschita-ot-spama-i-moshennichestva__chto-takoe-samozapret-na-oformlenie-sim-karti-i-kak-ego-ustanovit",
+    "content": "# Что такое самозапрет на оформление сим-карты и как его установить\n\nСамозапрет на оформление сим-карты — это дополнительная защита от мошенников. Вы можете установить его [через Госуслуги](https://www.gosuslugi.ru/). Тогда никто не сможет заключить договор на мобильную связь от вашего имени — ни вы, ни злоумышленники. Запрет действует на заключение договоров с операторами связи и смену владельца номера.\n\nВы можете отменить запрет в любое время и устанавливать его неограниченное количество раз.",
+    "chunk_id": "zaschita_ot_spama_i_moshennikov/zaschita-ot-spama-i-moshennichestva__chto-takoe-samozapret-na-oformlenie-sim-karti-i-kak-ego-ustanovit::0000",
+    "heading_path": [],
+    "sources": [
+      "zaschita_ot_spama_i_moshennikov/zaschita-ot-spama-i-moshennichestva__chto-takoe-samozapret-na-oformlenie-sim-karti-i-kak-ego-ustanovit"
+    ],
+    "chunk_ids": [
+      "zaschita_ot_spama_i_moshennikov/zaschita-ot-spama-i-moshennichestva__chto-takoe-samozapret-na-oformlenie-sim-karti-i-kak-ego-ustanovit::0000"
+    ],
+    "negative": false,
+    "cand_id": "cand-114"
+  },
+  {
+    "title": "Как можно оплачивать подписку Строки",
+    "source_path": "kion_stroki/vidi-i-opisanie-podpisok__kak-mozhno-oplachivat-podpisku-stroki",
+    "content": "### **Я оплачивал подписку КИОН Строки в App Store, теперь не получается. Что делать**\n\nСейчас покупки через App Store со счёта телефона ограничены. Чтобы продолжить пользоваться КИОН Строками, переподключите подписку на сайте и выберите новый способ оплаты:\n\n1. Откройте App Store > Профиль > Подписки > КИОН Строки > Отключить подписку\n\nЕсли у вас нет подключённой подписки, этот шаг пропустите\n\n2. Войдите [на сайт КИОН Строки](https://stroki.mts.ru/) по номеру телефона > перейдите в меню через иконку  справа сверху > Подписка > Подписаться > выберите способ оплаты > подтвердите подключение\n\nПодробные инструкции есть в статьях:\n\n- [Как подключить подписку КИОН Строки](https://l.mts.ru/0odpisku-stroki)\n- [Как отключить подписку КИОН Строки](https://l.mts.ru/0-podpisku-stroki)\n\nЕсли что-то пошло не так, напишите нам в приложении КИОН Строки > Профиль > Поддержка > Чат. Мы поможем.",
+    "chunk_id": "kion_stroki/vidi-i-opisanie-podpisok__kak-mozhno-oplachivat-podpisku-stroki::0003",
+    "heading_path": [
+      "Часто спрашивают",
+      "Я оплачивал подписку КИОН Строки в App Store, теперь не получается. Что делать"
+    ],
+    "sources": [
+      "kion_stroki/vidi-i-opisanie-podpisok__kak-mozhno-oplachivat-podpisku-stroki"
+    ],
+    "chunk_ids": [
+      "kion_stroki/vidi-i-opisanie-podpisok__kak-mozhno-oplachivat-podpisku-stroki::0003"
+    ],
+    "negative": false,
+    "cand_id": "cand-115"
+  },
+  {
+    "title": "Решение проблем с заказом",
+    "source_path": "mts_mts_internet_magazin/oformlenie-status-i-poluchenie-zakaza__resheniye-problem-s-zakazom",
+    "content": "### **Заказ не доставили в обещанный день**\n\nПосмотрите статус заказа [в Личном кабинете](https://login.mts.ru/amserver/NUI/?client_id=MTS_online_store&goto=https%3A%2F%2Flogin.mts.ru%2Famserver%2Foauth2%2Frealms%2Froot%2Frealms%2Fusers%2Fauthorize%3Fclient_id%3DMTS_online_store%26nonce%3Dc5337e03-a480-480f-a5a8-560b17f22497%26redirect_uri%3Dhttps%253A%252F%252Fshop.mts.ru%252Fapigw%252Fapi%252Fv1%252Fwebsso%252Fcallback%26response_type%3Dcode%26scope%3Dsub%2Binfo%2Bphone%2Bemail%2Baccount%2Bprofile%2Buser_address%2Bsso%2Bopenid%2Boffline%2Boffline_access%26state%3D3d4f5c77-9ee6-4cf9-b722-db8c8ca12619.web.aHR0cHM6Ly9zaG9wLm10cy5ydS8%253D.fa2a2d99-ce63-4da0-95a8-67acdfde471e%26x-trace-id%3D2c436d7c2032f3bdc3d2b10fac72b0ae&iss=https%3A%2F%2Flogin.mts.ru%3A443%2Famserver%2Foauth2%2Frealms%2Froot%2Frealms%2Fusers&nonce=c5337e03-a480-480f-a5a8-560b17f22497&redirect_uri=https%3A%2F%2Fshop.mts.ru%2Fapigw%2Fapi%2Fv1%2Fwebsso%2Fcallback&response_type=code&scope=sub+info+phone+email+account+profile+user_address+sso+openid+offline+offline_access&statetrace=3d4f5c77-9ee6-4cf9-b722-db8c8ca12619.web.aHR0cHM6Ly9zaG9wLm10cy5ydS8%3D.fa2a2d99-ce63-4da0-95a8-67acdfde471e) и проверьте, не звонил ли вам курьер — возможно, он хотел уточнить детали доставки.\n\nЕсли сроки доставки заказа прошли — напишите нам [в чат](https://shop.mts.ru/mts-chat/). Мы свяжемся со службой доставки, найдём ваш заказ и расскажем, где он и когда его привезут.",
+    "chunk_id": "mts_mts_internet_magazin/oformlenie-status-i-poluchenie-zakaza__resheniye-problem-s-zakazom::0001",
+    "heading_path": [
+      "Заказ не доставили в обещанный день"
+    ],
+    "sources": [
+      "mts_mts_internet_magazin/oformlenie-status-i-poluchenie-zakaza__resheniye-problem-s-zakazom"
+    ],
+    "chunk_ids": [
+      "mts_mts_internet_magazin/oformlenie-status-i-poluchenie-zakaza__resheniye-problem-s-zakazom::0001"
+    ],
+    "negative": false,
+    "cand_id": "cand-116"
+  },
+  {
+    "title": "Как оплатить домашний телефон",
+    "source_path": "mts_domashniy_telefon/schyot-i-oplata__kak-oplatit-domashnii-telefon",
+    "content": "# Как оплатить домашний телефон\n\n **Важно**\n\nИнформация для клиентов, которые подключили услуги в Москве и Московской области\n\nМожно оплатить без комиссии через:\n\n- автоплатёж ― подробнее в статье [Как подключить автоплатёж для оплаты домашнего телефона](https://l.mts.ru/0avtoplatyozh_telefon)\n- наши сервисы: картой МТС Банка в приложениях Мой МТС и МТС Банк, [на сайте МТС Оплата](https://payment.mts.ru/), [на сайте МТС Pay](https://pay.mts.ru/pages/refill)\n\nПри оплате другими способами может списаться комиссия. Информацию о ней вы увидите, когда будете пополнять баланс. Подробнее о комиссии ― [на сайте](https://mts.ru/personal/podderzhka/mobilnaya-svyaz/obsluzhivanie-abonentov/usloviya-popolneniya-schyota)",
+    "chunk_id": "mts_domashniy_telefon/schyot-i-oplata__kak-oplatit-domashnii-telefon::0000",
+    "heading_path": [],
+    "sources": [
+      "mts_domashniy_telefon/schyot-i-oplata__kak-oplatit-domashnii-telefon"
+    ],
+    "chunk_ids": [
+      "mts_domashniy_telefon/schyot-i-oplata__kak-oplatit-domashnii-telefon::0000"
+    ],
+    "negative": false,
+    "cand_id": "cand-117"
+  },
+  {
+    "title": "Не работает пульт от приставки Спутникового ТВ",
+    "source_path": "mts_stv/ne-rabotaet-sputnikovoe-tv__ne-rabotaet-pult-ot-pristavki-sputnikovogo-tv",
+    "content": "# Не работает пульт от приставки Спутникового ТВ\n\n> Если у вас домашнее ТВ без спутниковой антенны, инструкция — [в отдельной статье](https://l.mts.ru/0pult-ne-upravlyaet-pristavkoi)\n\n1. Проверьте, что пульт работает в режиме управления ТВ-приставкой\n\nПульт может работать в двух режимах: управления ТВ-приставкой и телевизором. При нажатии на кнопку МТС ТВ пульт переходит в режим управления телевизором, и ТВ-приставка перестаёт на него реагировать. Нажмите на кнопку ещё раз, и пульт перейдёт в режим управления ТВ-приставкой\n\n2. Замените батарейки\n\n3. Подойдите ближе к ТВ-приставке и проверьте, заработал ли пульт\n\nЕсли пульт не заработал, позвоните нам по номеру [8 800 250-08-90](tel:88002500890)",
+    "chunk_id": "mts_stv/ne-rabotaet-sputnikovoe-tv__ne-rabotaet-pult-ot-pristavki-sputnikovogo-tv::0000",
+    "heading_path": [],
+    "sources": [
+      "mts_stv/ne-rabotaet-sputnikovoe-tv__ne-rabotaet-pult-ot-pristavki-sputnikovogo-tv"
+    ],
+    "chunk_ids": [
+      "mts_stv/ne-rabotaet-sputnikovoe-tv__ne-rabotaet-pult-ot-pristavki-sputnikovogo-tv::0000"
+    ],
+    "negative": false,
+    "cand_id": "cand-118"
+  },
+  {
+    "title": "Что такое запрет массовых автоматизированных вызовов и как его подключить",
+    "source_path": "zaschita_ot_spama_i_moshennikov/zaschita-ot-spama-i-moshennichestva__chto-takoe-zapret-massovih-avtomatizirovannih-vizovov-i-kak-ego-podklyuchit",
+    "content": "# Что такое запрет массовых автоматизированных вызовов и как его подключить\n\nБесплатная услуга «Запрет массовых автоматизированных вызовов» блокирует все массовые звонки, рекламу и спам. До вас не дозвонятся с номеров, связанных с юридическими лицами и ИП. Обычно с них звонят с рекламными целями. Продолжат поступать звонки от МТС, из государственных и медицинских учреждений.",
+    "chunk_id": "zaschita_ot_spama_i_moshennikov/zaschita-ot-spama-i-moshennichestva__chto-takoe-zapret-massovih-avtomatizirovannih-vizovov-i-kak-ego-podklyuchit::0000",
+    "heading_path": [],
+    "sources": [
+      "zaschita_ot_spama_i_moshennikov/zaschita-ot-spama-i-moshennichestva__chto-takoe-zapret-massovih-avtomatizirovannih-vizovov-i-kak-ego-podklyuchit"
+    ],
+    "chunk_ids": [
+      "zaschita_ot_spama_i_moshennikov/zaschita-ot-spama-i-moshennichestva__chto-takoe-zapret-massovih-avtomatizirovannih-vizovov-i-kak-ego-podklyuchit::0000"
+    ],
+    "negative": false,
+    "cand_id": "cand-119"
+  },
+  {
+    "title": "Как настроить переадресацию в Membrana",
+    "source_path": "membrana/kak-upravlyat-zvonkami__kak-nastroit-pereadresatsiyu-v-membrana",
+    "content": "### **Как изменить номер телефона для переадресации**\n\n1. На главном экране отключите функцию переадресации. Для этого выберите другой статус из списка доступных\n\n2. Зайдите в настройки \n\n3. В разделе Переадресация нажмите на иконку карандаша  и измените номер телефона на нужный\n\n4. Снова включите переадресацию на главном экране — выберите эту функцию из списка статусов",
+    "chunk_id": "membrana/kak-upravlyat-zvonkami__kak-nastroit-pereadresatsiyu-v-membrana::0001",
+    "heading_path": [
+      "Как изменить номер телефона для переадресации"
+    ],
+    "sources": [
+      "membrana/kak-upravlyat-zvonkami__kak-nastroit-pereadresatsiyu-v-membrana"
+    ],
+    "chunk_ids": [
+      "membrana/kak-upravlyat-zvonkami__kak-nastroit-pereadresatsiyu-v-membrana::0001"
+    ],
+    "negative": false,
+    "cand_id": "cand-120"
+  }
+]

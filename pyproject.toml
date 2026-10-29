@@ -1,0 +1,49 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "support-agent"
+version = "0.1.0"
+description = "LangGraph support agent: triage, hybrid RAG over Qdrant with reranking, citation guard"
+requires-python = ">=3.13"
+# Агент: python -m src.agent.graph
+dependencies = [
+    "langgraph>=0.6",          # Runtime и context_schema появились в 0.6
+    "langchain-core>=0.3",
+    "langchain-openai>=0.3",
+    "qdrant-client>=1.12",
+    "fastembed>=0.4",          # BM25 (sparse)
+    "transformers>=4.40",      # только токенизатор BGE-M3, torch не нужен
+    "numpy>=1.26",
+    "requests>=2.32",
+    "pyyaml>=6.0",
+    "pydantic-settings>=2.5",
+    "python-dotenv>=1.0",
+    "langfuse>=3.0",           # langfuse.langchain.CallbackHandler — API v3
+]
+
+[project.optional-dependencies]
+# Сбор и индексация базы знаний: src/ingestion/
+ingestion = [
+    "curl_cffi>=0.7",
+    "fake-useragent>=1.5",
+    "beautifulsoup4>=4.12",
+    "markdownify>=0.13",
+    "tqdm>=4.66",
+    "openai>=1.40",            # rag_debug.py
+]
+# Разметка golden set и eval через LLM-судью: tests/
+eval = [
+    "gigachat>=0.1.30",
+]
+dev = [
+    "pytest>=8.0",
+    "ruff>=0.5",
+]
+
+[tool.setuptools.packages.find]
+include = ["src*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

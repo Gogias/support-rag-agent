@@ -1,0 +1,107 @@
+[
+  {
+    "cand_id": "cand-001",
+    "keep": true,
+    "id": "cf-001",
+    "query": "как мне увидеть все симки, которые на меня записаны",
+    "tag": "vocab",
+    "answer_chunk_ids": [
+      "mts_mobilnaya_svyaz/oformlenie-novoi-sim-karti__skolko-sim-kart-mozhet-bit-oformleno-na-odnogo-cheloveka::0001",
+      "mts_mobilnaya_svyaz/smena-i-pereoformlenie-nomera__kak-posmotret-vse-nomera-oformlennie-na-menya::0002",
+      "mts_mobilnaya_svyaz/smena-i-pereoformlenie-nomera__kak-uznat-svoy-nomer-telefona::0003",
+      "zadolzhennost/zadolzhennost__kak-proverit-svoi-nomera-v-mts::0000",
+      "zadolzhennost/zadolzhennost__kak-uznat-o-zadolzhennosti::0005"
+    ],
+    "source_chunk": "mts_mobilnaya_svyaz/smena-i-pereoformlenie-nomera__kak-posmotret-vse-nomera-oformlennie-na-menya::0002",
+    "sources": [
+      "mts_mobilnaya_svyaz/smena-i-pereoformlenie-nomera__kak-posmotret-vse-nomera-oformlennie-na-menya"
+    ],
+    "reference_answer": "зайдите в приложение Мой МТС или в Личный кабинет, там в разделе «Мои договоры» вы увидите все оформленные на вас номера.",
+    "answerable": true,
+    "verified": true
+  },
+  {
+    "cand_id": "cand-002",
+    "keep": true,
+    "id": "cf-002",
+    "query": "не могу зайти в личный кабинет, на телефон не приходит код в смс, что делать?",
+    "tag": "plain",
+    "answer_chunk_ids": [
+      "mts_id/chto-delat-esli-voznikli-problemi-so-vhodom__chto-delat-esli-ne-prihodit-kod-dlya-vhoda-v-mts-id::0000",
+      "mts_id/chto-delat-esli-voznikli-problemi-so-vhodom__chto-delat-esli-zabil-parol-dlya-vhoda-v-mts-id::0000",
+      "vozmozhnosti_moi_mts/vozmozhnosti-moi-mts__kak-voiti-v-prilozhenie-moi-mts::0005"
+    ],
+    "source_chunk": "mts_id/chto-delat-esli-voznikli-problemi-so-vhodom__chto-delat-esli-ne-prihodit-kod-dlya-vhoda-v-mts-id::0000",
+    "sources": [
+      "mts_id/chto-delat-esli-voznikli-problemi-so-vhodom__chto-delat-esli-ne-prihodit-kod-dlya-vhoda-v-mts-id"
+    ],
+    "reference_answer": "Проверьте, что вы входите под своим основным номером и что SIM-карта активна, а также удалите старые СМС, чтобы освободить место. Если не поможет, нажмите «Не могу получить СМС», чтобы получить код на email или подтвердить вход через Госуслуги.",
+    "answerable": true,
+    "verified": true
+  },
+  {
+    "cand_id": "cand-003",
+    "keep": true,
+    "id": "cf-003",
+    "query": "Я хочу отдать своё спутниковое тв другу, как это сделать? ему просто симку отдать или надо куда-то идти?",
+    "tag": "plain",
+    "answer_chunk_ids": [
+      "domashnii_internet_i_tv/pereezd-pereoformlenie-i-rastorzhenie__chto-delat-esli-vladelets-domashnego-interneta-i-tv-umer-msk::0005",
+      "domashnii_internet_i_tv/pereezd-pereoformlenie-i-rastorzhenie__chto-delat-esli-vladelets-domashnego-interneta-i-tv-umer::0005",
+      "domashnii_internet_i_tv/pereezd-pereoformlenie-i-rastorzhenie__kak-pereoformit-domashnii-internet-i-tv-na-drugogo-cheloveka-msk::0000",
+      "domashnii_internet_i_tv/pereezd-pereoformlenie-i-rastorzhenie__kak-pereoformit-domashnii-internet-i-tv-na-drugogo-cheloveka::0000",
+      "mts_stv/dobrovolnaya-blokirovka-pereoformlenie-rastorzhenie__kak-pereoformit-sputnikovoe-tv-na-drugogo-cheloveka::0000",
+      "mts_stv/dobrovolnaya-blokirovka-pereoformlenie-rastorzhenie__kak-pereoformit-sputnikovoe-tv-na-drugogo-cheloveka::0001"
+    ],
+    "source_chunk": "mts_stv/dobrovolnaya-blokirovka-pereoformlenie-rastorzhenie__kak-pereoformit-sputnikovoe-tv-na-drugogo-cheloveka::0000",
+    "sources": [
+      "mts_stv/dobrovolnaya-blokirovka-pereoformlenie-rastorzhenie__kak-pereoformit-sputnikovoe-tv-na-drugogo-cheloveka"
+    ],
+    "reference_answer": "Нужно вместе с другом прийти в любой салон МТС с паспортами и заполнить акт приёма-передачи, симку просто отдать не получится.",
+    "answerable": true,
+    "verified": true
+  },
+  {
+    "cand_id": "cand-004",
+    "keep": true,
+    "id": "cf-004",
+    "query": "Я сейчас дома, хочу заранее всё включить, чтобы за границей сразу был бесплатный интернет и звонки, так можно сделать?",
+    "tag": "plain",
+    "answer_chunk_ids": [
+      "mts_rouming_i_mezhgorod/uslugi-dlya-ekonomii-v-poezdkah-po-miru__kak-podklyuchit-rouming-rezhimy-komfort-maksimum::0001",
+      "mts_rouming_i_mezhgorod/uslugi-dlya-ekonomii-v-poezdkah-po-miru__kakie-podklyuchit-uslugi-dlya-ekonomii-v-rouminge::0000",
+      "mts_rouming_i_mezhgorod/uslugi-dlya-ekonomii-v-poezdkah-po-miru__rouming-rezhim-layt-kak-poluchit-bezlimitnyye-zvonki-i-besplatnyy-internet-v-rouminge::0000",
+      "mts_rouming_i_mezhgorod/uslugi-dlya-ekonomii-v-poezdkah-po-miru__rouming-rezhim-layt-kak-poluchit-bezlimitnyye-zvonki-i-besplatnyy-internet-v-rouminge::0001"
+    ],
+    "source_chunk": "mts_rouming_i_mezhgorod/uslugi-dlya-ekonomii-v-poezdkah-po-miru__rouming-rezhim-layt-kak-poluchit-bezlimitnyye-zvonki-i-besplatnyy-internet-v-rouminge::0001",
+    "sources": [
+      "mts_rouming_i_mezhgorod/uslugi-dlya-ekonomii-v-poezdkah-po-miru__rouming-rezhim-layt-kak-poluchit-bezlimitnyye-zvonki-i-besplatnyy-internet-v-rouminge"
+    ],
+    "reference_answer": "Да, режим можно подключить заранее, находясь дома. Работать он начнёт только за границей, при первом звонке или выходе в интернет.",
+    "answerable": true,
+    "verified": true
+  },
+  {
+    "cand_id": "cand-005",
+    "keep": true,
+    "id": "cf-005",
+    "query": "не могу скачать приложение для смены тем на рабочем столе, пишет недоступно, как мне его установить?",
+    "tag": "negative",
+    "answer_chunk_ids": [
+      "mts-launcher-junior/chto-takoe-mts-loncher-junior__chto-takoe-mts-loncher-junior::0000",
+      "mts-launcher-junior/zakritie-servisa__chto-proizoydet-s-servisom-mts-loncher-junior-posle-1-iyulya-2026::0001",
+      "mts-launcher-junior/zakritie-servisa__chto-proizoydet-s-servisom-mts-loncher-junior-posle-1-iyulya-2026::0005",
+      "mts-launcher/chto-takoe-mts-loncher__chto-takoe-mts_loncher::0000",
+      "mts-launcher/kak-polzovatsya-mts-loncher__kak-ustanovit-mts-loncher::0000",
+      "mts-launcher/zakritie-servisa__chto-proizoydet-s-servisom-loncher-posle-1-iyulya-2026::0001",
+      "mts-launcher/zakritie-servisa__chto-proizoydet-s-servisom-loncher-posle-1-iyulya-2026::0005"
+    ],
+    "source_chunk": "mts-launcher/chto-takoe-mts-loncher__chto-takoe-mts_loncher::0000",
+    "sources": [
+      "mts-launcher/chto-takoe-mts-loncher__chto-takoe-mts_loncher"
+    ],
+    "reference_answer": "Сейчас сервис недоступен для новых подключений, скачать приложение и начать пользоваться не получится.",
+    "answerable": true,
+    "verified": true
+  }
+]

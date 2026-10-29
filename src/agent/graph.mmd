@@ -1,0 +1,30 @@
+---
+config:
+  flowchart:
+    curve: linear
+---
+graph TD;
+	__start__([<p>__start__</p>]):::first
+	classify(classify)
+	execute_tools(execute_tools)
+	generate_answer(generate_answer)
+	check_guard(check_guard)
+	smalltalk(smalltalk)
+	off_topic(off_topic)
+	handoff(handoff)
+	__end__([<p>__end__</p>]):::last
+	__start__ --> classify;
+	check_guard -.-> __end__;
+	check_guard -.-> handoff;
+	classify -.-> execute_tools;
+	classify -.-> handoff;
+	classify -.-> off_topic;
+	classify -.-> smalltalk;
+	execute_tools --> generate_answer;
+	generate_answer --> check_guard;
+	handoff --> __end__;
+	off_topic --> __end__;
+	smalltalk --> __end__;
+	classDef default fill:#f2f0ff,line-height:1.2
+	classDef first fill-opacity:0
+	classDef last fill:#bfb6fc

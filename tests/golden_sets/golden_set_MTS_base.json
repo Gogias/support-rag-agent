@@ -1,0 +1,369 @@
+[
+  {
+    "id": "gs-001",
+    "query": "У меня каждый месяц списывают деньги, хотя я почти не звоню — почему так?",
+    "product": "Мобильная связь",
+    "section": "Задолженность и списания",
+    "relevant_ids": null,
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-002",
+    "query": "Почему после пополнения баланса сразу снова появляется долг?",
+    "product": "Мобильная связь",
+    "section": "Задолженность и списания",
+    "relevant_ids": null,
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-003",
+    "query": "С баланса каждый день уходит по паре рублей, хотя я в минусе — это нормально?",
+    "product": "Мобильная связь",
+    "section": "Задолженность и списания",
+    "relevant_ids": null,
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-004",
+    "query": "Оплатил долг, а через день опять минус — что происходит?",
+    "product": "Мобильная связь",
+    "section": "Задолженность и списания",
+    "relevant_ids": null,
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-005",
+    "query": "Почему за интернет списали отдельно, если он вроде входит в тариф?",
+    "product": "Мобильная связь",
+    "section": "Задолженность и списания",
+    "relevant_ids": null,
+    "source": "synthetic",
+    "verified": false
+  },
+
+  {
+    "id": "gs-006",
+    "query": "Хочу убрать лишнюю подписку, но не понимаю, где её отключить в приложении",
+    "product": "Мобильная связь",
+    "section": "Управление услугами",
+    "relevant_ids": null,
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-007",
+    "query": "Как посмотреть, какие платные услуги у меня вообще подключены?",
+    "product": "Мобильная связь",
+    "section": "Управление услугами",
+    "relevant_ids": null,
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-008",
+    "query": "Не могу найти, где отключить автопродление интернета — подскажите путь",
+    "product": "Мобильная связь",
+    "section": "Управление услугами",
+    "relevant_ids": null,
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-009",
+    "query": "Подключал услугу через сайт, а теперь хочу убрать — через приложение можно?",
+    "product": "Мобильная связь",
+    "section": "Управление услугами",
+    "relevant_ids": null,
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-010",
+    "query": "Как поменять тариф, чтобы платить меньше, но не потерять нужные опции?",
+    "product": "Мобильная связь",
+    "section": "Смена тарифа",
+    "relevant_ids": null,
+    "source": "synthetic",
+    "verified": false
+  },
+
+  {
+    "id": "gs-011",
+    "query": "Лечу в Турцию, что нужно сделать, чтобы там работал интернет?",
+    "product": "Роуминг",
+    "section": "Подключение в поездке",
+    "relevant_ids": null,
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-012",
+    "query": "За границей не ловит сеть — какие настройки включить заранее?",
+    "product": "Роуминг",
+    "section": "Настройки роуминга",
+    "relevant_ids": null,
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-013",
+    "query": "Есть ли бесплатный роуминг и как его активировать?",
+    "product": "Роуминг",
+    "section": "Бесплатный роуминг",
+    "relevant_ids": null,
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-014",
+    "query": "Боюсь больших счетов в поездке — как ограничить расходы на связь?",
+    "product": "Роуминг",
+    "section": "Контроль расходов",
+    "relevant_ids": null,
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-015",
+    "query": "Надо звонить в Россию из-за границы — какие условия и как подключить?",
+    "product": "Роуминг",
+    "section": "Звонки из-за границы",
+    "relevant_ids": null,
+    "source": "synthetic",
+    "verified": false
+  },
+
+  {
+    "id": "gs-016",
+    "query": "Пропала связь, но перезагрузка телефона не помогает — что ещё можно сделать?",
+    "product": "Приложение Мой МТС",
+    "section": "Диагностика связи",
+    "relevant_ids": null,
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-017",
+    "query": "Интернет работает, а звонки не проходят — как проверить, в чём дело?",
+    "product": "Приложение Мой МТС",
+    "section": "Диагностика связи",
+    "relevant_ids": null,
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-018",
+    "query": "Слышал, что в приложении есть какая-то проверка сети — как ей воспользоваться?",
+    "product": "Приложение Мой МТС",
+    "section": "Диагностика связи",
+    "relevant_ids": null,
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-019",
+    "query": "Не могу зайти в приложение — пишет, что номер не привязан",
+    "product": "Приложение Мой МТС",
+    "section": "Вход и авторизация",
+    "relevant_ids": null,
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-020",
+    "query": "Как написать в поддержку через приложение, если не дозвониться?",
+    "product": "Приложение Мой МТС",
+    "section": "Чат поддержки",
+    "relevant_ids": null,
+    "source": "synthetic",
+    "verified": false
+  },
+
+  {
+    "id": "gs-021",
+    "query": "У меня списывают 399 рублей за какую-то подписку — как её убрать?",
+    "product": "Подписки и экосистема",
+    "section": "МТС Premium",
+    "relevant_ids": null,
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-022",
+    "query": "В тарифе написано, что входит кинотеатр, но я не могу смотреть фильмы — почему?",
+    "product": "Подписки и экосистема",
+    "section": "KION",
+    "relevant_ids": null,
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-023",
+    "query": "Хочу отказаться от подписки на фильмы, но боюсь, что отключится и что-то нужное",
+    "product": "Подписки и экосистема",
+    "section": "KION",
+    "relevant_ids": null,
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-024",
+    "query": "Что входит в подписку помимо связи и стоит ли она своих денег?",
+    "product": "Подписки и экосистема",
+    "section": "МТС Premium",
+    "relevant_ids": null,
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-025",
+    "query": "Можно ли пользоваться подпиской с другого номера, не с того, к которому она привязана?",
+    "product": "Подписки и экосистема",
+    "section": "МТС Premium",
+    "relevant_ids": null,
+    "source": "synthetic",
+    "verified": false
+  },
+
+  {
+    "id": "gs-026",
+    "query": "Хочу подключить интернет и телевидение в новую квартиру — с чего начать?",
+    "product": "Домашний интернет и ТВ",
+    "section": "Подключение",
+    "relevant_ids": null,
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-027",
+    "query": "Сколько каналов входит в базовый тариф и можно ли добавить свои?",
+    "product": "Домашний интернет и ТВ",
+    "section": "Тарифы и каналы",
+    "relevant_ids": null,
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-028",
+    "query": "Можно ли объединить домашний интернет и мобильную связь в один счёт?",
+    "product": "Домашний интернет и ТВ",
+    "section": "Объединение услуг",
+    "relevant_ids": null,
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-029",
+    "query": "Телевизор тормозит, каналы не переключаются — это проблема приставки или сети?",
+    "product": "Домашний интернет и ТВ",
+    "section": "Диагностика ТВ",
+    "relevant_ids": null,
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-030",
+    "query": "Скорость интернета ниже заявленной — как это проверить и куда жаловаться?",
+    "product": "Домашний интернет и ТВ",
+    "section": "Скорость и качество",
+    "relevant_ids": null,
+    "source": "synthetic",
+    "verified": false
+  },
+
+  {
+    "id": "gs-031",
+    "query": "Брал роутер в рассрочку, теперь хочу вернуть — что для этого нужно?",
+    "product": "Оборудование",
+    "section": "Возврат оборудования",
+    "relevant_ids": null,
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-032",
+    "query": "Сломался роутер, который я арендую у вас — кто чинит и за чей счёт?",
+    "product": "Оборудование",
+    "section": "Аренда и ремонт",
+    "relevant_ids": null,
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-033",
+    "query": "Хочу заменить старую приставку на новую — можно ли обменять по гарантии?",
+    "product": "Оборудование",
+    "section": "Гарантия и замена",
+    "relevant_ids": null,
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-034",
+    "query": "После переезда пропал интернет, потому что остался старый роутер — что делать?",
+    "product": "Оборудование",
+    "section": "Переезд и переустановка",
+    "relevant_ids": null,
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-035",
+    "query": "Сколько стоит аренда роутера и можно ли вместо неё купить свой?",
+    "product": "Оборудование",
+    "section": "Аренда оборудования",
+    "relevant_ids": null,
+    "source": "synthetic",
+    "verified": false
+  },
+
+  {
+    "id": "gs-036",
+    "query": "Не дозвониться до поддержки — какие ещё есть способы связаться?",
+    "product": "Поддержка",
+    "section": "Каналы связи",
+    "relevant_ids": null,
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-037",
+    "query": "Сколько ждать ответа, если я отправил заявку через приложение?",
+    "product": "Поддержка",
+    "section": "Сроки ответа",
+    "relevant_ids": null,
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-038",
+    "query": "Заказал симку с доставкой, а курьер не пришёл — куда обращаться?",
+    "product": "Поддержка",
+    "section": "Доставка заказов",
+    "relevant_ids": null,
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-039",
+    "query": "Хочу пожаловаться на качество связи в моём районе — как это правильно сделать?",
+    "product": "Поддержка",
+    "section": "Обращения и жалобы",
+    "relevant_ids": null,
+    "source": "synthetic",
+    "verified": false
+  },
+  {
+    "id": "gs-040",
+    "query": "Потерял телефон с симкой — как быстро заблокировать номер и восстановить?",
+    "product": "Поддержка",
+    "section": "Блокировка и восстановление",
+    "relevant_ids": null,
+    "source": "synthetic",
+    "verified": false
+  }
+]

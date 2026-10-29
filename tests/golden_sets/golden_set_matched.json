@@ -1,0 +1,941 @@
+[
+  {
+    "id": "gs-001",
+    "query": "У меня каждый месяц списывают деньги, хотя я почти не звоню — почему так?",
+    "product": "Мобильная связь",
+    "section": "Задолженность и списания",
+    "relevant_ids": [
+      "662665b2-7d87-594f-a5ca-e9509307b65e"
+    ],
+    "source": "synthetic",
+    "verified": true,
+    "match_method": "auto_llm_judge",
+    "relevant_sources": [
+      "zadolzhennost/zadolzhennost__pochemu-u-menya-obrazovalas-zadolzhennost"
+    ],
+    "relevant_chunk_ids": [
+      "zadolzhennost/zadolzhennost__pochemu-u-menya-obrazovalas-zadolzhennost::0001"
+    ],
+    "judge_model": "GigaChat-3-Ultra"
+  },
+  {
+    "id": "gs-002",
+    "query": "Почему после пополнения баланса сразу снова появляется долг?",
+    "product": "Мобильная связь",
+    "section": "Задолженность и списания",
+    "relevant_ids": [
+      "dc26485a-d078-55fe-bcc4-33e3662c385d",
+      "cf71813d-5869-5570-adbc-87e694997512"
+    ],
+    "source": "synthetic",
+    "verified": true,
+    "match_method": "auto_llm_judge",
+    "relevant_sources": [
+      "mts_mobilnaya_svyaz/balans-i-spisaniya__pochemu-izmenilas-data-spisaniya-ezhemesyachnoi-plati-po-tarifu",
+      "zadolzhennost/zadolzhennost__kak-uznat-o-zadolzhennosti",
+      "zadolzhennost/zadolzhennost__pochemu-u-menya-obrazovalas-zadolzhennost"
+    ],
+    "relevant_chunk_ids": [
+      "zadolzhennost/zadolzhennost__kak-uznat-o-zadolzhennosti::0006",
+      "mts_mobilnaya_svyaz/balans-i-spisaniya__pochemu-izmenilas-data-spisaniya-ezhemesyachnoi-plati-po-tarifu::0004"
+    ],
+    "judge_model": "GigaChat-3-Ultra"
+  },
+  {
+    "id": "gs-003",
+    "query": "С баланса каждый день уходит по паре рублей, хотя я в минусе — это нормально?",
+    "product": "Мобильная связь",
+    "section": "Задолженность и списания",
+    "relevant_ids": [
+      "fe558337-91ca-5047-b40d-35fe439ce847",
+      "05c4de3e-bcf6-5c6f-8f92-fe02d4a0b51e"
+    ],
+    "source": "synthetic",
+    "verified": true,
+    "match_method": "auto_llm_judge",
+    "relevant_sources": [
+      "domashnii_internet_i_tv/balans-scheta-i-oplata__kogda-spisivayutsya-dengi-za-domashnii-internet-i-tv",
+      "mts_mobilnaya_svyaz/balans-i-spisaniya__kak-uznat-za-chto-spisalis-dengi",
+      "mts_mobilnaya_svyaz/upravlenie-uslugami__kak-upravlyat-uslugami",
+      "zadolzhennost/zadolzhennost__pochemu-u-menya-obrazovalas-zadolzhennost"
+    ],
+    "relevant_chunk_ids": [
+      "domashnii_internet_i_tv/balans-scheta-i-oplata__kogda-spisivayutsya-dengi-za-domashnii-internet-i-tv::0005",
+      "mts_mobilnaya_svyaz/upravlenie-uslugami__kak-upravlyat-uslugami::0014"
+    ],
+    "judge_model": "GigaChat-3-Ultra"
+  },
+  {
+    "id": "gs-004",
+    "query": "Оплатил долг, а через день опять минус — что происходит?",
+    "product": "Мобильная связь",
+    "section": "Задолженность и списания",
+    "relevant_ids": [
+      "dc26485a-d078-55fe-bcc4-33e3662c385d",
+      "5c6b40d3-eae9-5010-a4ff-99768a3b1de9",
+      "439feffa-8d85-557e-b728-90f34e186c07",
+      "9630df59-0b8f-520e-88d2-600ca765a707"
+    ],
+    "source": "synthetic",
+    "verified": true,
+    "match_method": "auto_llm_judge",
+    "relevant_sources": [
+      "bezopasnost_mts_bank/bezopasnost__zachem-mne-zvonili-iz-mts-banka",
+      "karti/balans-karti__pochemu-balans-karti-mts-banka-v-minuse-",
+      "karti_mts_dengi/balans-karti__pochemu-balans-karti-mts-dengi-v-minuse-",
+      "zadolzhennost/zadolzhennost__kak-uznat-o-zadolzhennosti",
+      "zadolzhennost/zadolzhennost__pochemu-u-menya-obrazovalas-zadolzhennost"
+    ],
+    "relevant_chunk_ids": [
+      "zadolzhennost/zadolzhennost__kak-uznat-o-zadolzhennosti::0006",
+      "karti_mts_dengi/balans-karti__pochemu-balans-karti-mts-dengi-v-minuse-::0005",
+      "karti/balans-karti__pochemu-balans-karti-mts-banka-v-minuse-::0005",
+      "bezopasnost_mts_bank/bezopasnost__zachem-mne-zvonili-iz-mts-banka::0004"
+    ],
+    "judge_model": "GigaChat-3-Ultra"
+  },
+  {
+    "id": "gs-005",
+    "query": "Почему за интернет списали отдельно, если он вроде входит в тариф?",
+    "product": "Мобильная связь",
+    "section": "Задолженность и списания",
+    "relevant_ids": [
+      "35d730fe-58d5-5ff7-aa30-5be77e991582",
+      "c1833378-b58f-56ca-afb6-3d52750db5eb",
+      "51cbc327-57ed-5cc0-bcf9-da882d913e96",
+      "dfdcf342-d0d8-5a0e-ab68-7e8fc6216746"
+    ],
+    "source": "synthetic",
+    "verified": true,
+    "match_method": "auto_llm_judge",
+    "relevant_sources": [
+      "domashnii_internet_i_tv/balans-scheta-i-oplata__kogda-spisivayutsya-dengi-za-domashnii-internet-i-tv",
+      "mts_mobilnaya_svyaz/balans-i-spisaniya__kak-uznat-za-chto-spisalis-dengi",
+      "mts_mobilnaya_svyaz/upravlenie-uslugami__kak-otklyuchit-dopolnitelnie-uslugi",
+      "mts_mobilnyy_internet/prodlenie-interneta__avtoprodlenie-interneta",
+      "zadolzhennost/zadolzhennost__pochemu-u-menya-obrazovalas-zadolzhennost"
+    ],
+    "relevant_chunk_ids": [
+      "domashnii_internet_i_tv/balans-scheta-i-oplata__kogda-spisivayutsya-dengi-za-domashnii-internet-i-tv::0004",
+      "mts_mobilnaya_svyaz/upravlenie-uslugami__kak-otklyuchit-dopolnitelnie-uslugi::0000",
+      "mts_mobilnyy_internet/prodlenie-interneta__avtoprodlenie-interneta::0000",
+      "mts_mobilnaya_svyaz/balans-i-spisaniya__kak-uznat-za-chto-spisalis-dengi::0006"
+    ],
+    "judge_model": "GigaChat-3-Ultra"
+  },
+  {
+    "id": "gs-006",
+    "query": "Хочу убрать лишнюю подписку, но не понимаю, где её отключить в приложении",
+    "product": "Мобильная связь",
+    "section": "Управление услугами",
+    "relevant_ids": [
+      "dee7f637-c6c8-5431-8f58-71b66e516ea6",
+      "138c0eba-2244-565a-9021-397afe47b4d2",
+      "14912d26-d6ad-5675-acfe-686976fc2fc1",
+      "2eece30a-7797-5ca6-ba85-b2f9f3964ad5",
+      "581f1852-bd3d-5854-82f5-e2ebd3e259ef",
+      "62fd21a2-07ff-59df-91bd-0c33442de877",
+      "c1833378-b58f-56ca-afb6-3d52750db5eb"
+    ],
+    "source": "synthetic",
+    "verified": true,
+    "match_method": "auto_llm_judge",
+    "relevant_sources": [
+      "kion_stroki/vidi-i-opisanie-podpisok__kak-otklyuchit-podpisku-stroki",
+      "mts-premium/upravlenie-podpiskoi__kak-otklyuchit-mts-premium",
+      "mts_mobilnaya_svyaz/upravlenie-uslugami__kak-otklyuchit-dopolnitelnie-uslugi",
+      "mts_mobilnaya_svyaz/upravlenie-uslugami__kak-upravlyat-uslugami",
+      "mts_mts_poisk/o-servise-moi-poisk__kak-otklyuchit-podpisku-na-servis-moi-poisk",
+      "servisi_voicetech/sekretar-plyus__kak-otklyuchit-podpisku-sekretar-plyus"
+    ],
+    "relevant_chunk_ids": [
+      "kion_stroki/vidi-i-opisanie-podpisok__kak-otklyuchit-podpisku-stroki::0001",
+      "kion_stroki/vidi-i-opisanie-podpisok__kak-otklyuchit-podpisku-stroki::0002",
+      "servisi_voicetech/sekretar-plyus__kak-otklyuchit-podpisku-sekretar-plyus::0001",
+      "mts_mobilnaya_svyaz/upravlenie-uslugami__kak-upravlyat-uslugami::0004",
+      "mts_mts_poisk/o-servise-moi-poisk__kak-otklyuchit-podpisku-na-servis-moi-poisk::0000",
+      "mts-premium/upravlenie-podpiskoi__kak-otklyuchit-mts-premium::0000",
+      "mts_mobilnaya_svyaz/upravlenie-uslugami__kak-otklyuchit-dopolnitelnie-uslugi::0000"
+    ],
+    "judge_model": "GigaChat-3-Ultra"
+  },
+  {
+    "id": "gs-007",
+    "query": "Как посмотреть, какие платные услуги у меня вообще подключены?",
+    "product": "Мобильная связь",
+    "section": "Управление услугами",
+    "relevant_ids": [
+      "de31d4a9-4e5b-5716-9c9e-733593f87145",
+      "be673677-c961-54ec-b43a-b5e592a914c5",
+      "cdbd4584-f5ab-512c-b692-c4ebec136f4a",
+      "2eece30a-7797-5ca6-ba85-b2f9f3964ad5",
+      "c1833378-b58f-56ca-afb6-3d52750db5eb",
+      "3e3f82dd-f4ee-53ce-86e8-7b10e9f8805d",
+      "6c8ad079-4e55-57fa-adaa-e6963d5281f7",
+      "318c6c15-c780-5cab-bf15-609264c2db87"
+    ],
+    "source": "synthetic",
+    "verified": true,
+    "match_method": "auto_llm_judge",
+    "relevant_sources": [
+      "lk_mts_business/nomera-i-litsevie-scheta-organizatsii__chto-dostupno-v-kartochke-nomera",
+      "mts_mobilnaya_svyaz/upravlenie-uslugami__kak-otklyuchit-dopolnitelnie-uslugi",
+      "mts_mobilnaya_svyaz/upravlenie-uslugami__kak-proverit-podklyuchennyye-uslugi",
+      "mts_mobilnaya_svyaz/upravlenie-uslugami__kak-upravlyat-uslugami",
+      "vozmozhnosti_moi_mts/lichnii-kabinet-mts__lichnii-kabinet-mts--vhod-i-vozmozhnosti",
+      "vozmozhnosti_moi_mts/vozmozhnosti-moi-mts__prilozhenie-moi-mts--vhod-vozmozhnosti-podderzhka",
+      "zadolzhennost/zadolzhennost__kak-proverit-zadolzhennost",
+      "zadolzhennost/zadolzhennost__kak-uznat-o-zadolzhennosti"
+    ],
+    "relevant_chunk_ids": [
+      "zadolzhennost/zadolzhennost__kak-uznat-o-zadolzhennosti::0008",
+      "mts_mobilnaya_svyaz/upravlenie-uslugami__kak-proverit-podklyuchennyye-uslugi::0000",
+      "lk_mts_business/nomera-i-litsevie-scheta-organizatsii__chto-dostupno-v-kartochke-nomera::0009",
+      "mts_mobilnaya_svyaz/upravlenie-uslugami__kak-upravlyat-uslugami::0004",
+      "mts_mobilnaya_svyaz/upravlenie-uslugami__kak-otklyuchit-dopolnitelnie-uslugi::0000",
+      "vozmozhnosti_moi_mts/vozmozhnosti-moi-mts__prilozhenie-moi-mts--vhod-vozmozhnosti-podderzhka::0006",
+      "vozmozhnosti_moi_mts/lichnii-kabinet-mts__lichnii-kabinet-mts--vhod-i-vozmozhnosti::0006",
+      "zadolzhennost/zadolzhennost__kak-proverit-zadolzhennost::0004"
+    ],
+    "judge_model": "GigaChat-3-Ultra"
+  },
+  {
+    "id": "gs-008",
+    "query": "Не могу найти, где отключить автопродление интернета — подскажите путь",
+    "product": "Мобильная связь",
+    "section": "Управление услугами",
+    "relevant_ids": [
+      "fc8459d3-8740-5bb6-ba96-511f714a748e",
+      "17063a20-e4bb-5348-8483-0727f20a7b38",
+      "2b96a5a2-ce09-5f18-b0fa-2f3620cbbc00"
+    ],
+    "source": "synthetic",
+    "verified": true,
+    "match_method": "auto_llm_judge",
+    "relevant_sources": [
+      "mobilnaya-svyaz-b2b/prodlenie-interneta-dlya-korporativnih-klientov__avtoprodlenie-interneta-na-korporativnih-tarifah",
+      "mts_mobilnaya_svyaz/upravlenie-uslugami__kak-upravlyat-uslugami",
+      "mts_mobilnyy_internet/prodlenie-interneta__avtoprodlenie-interneta"
+    ],
+    "relevant_chunk_ids": [
+      "mobilnaya-svyaz-b2b/prodlenie-interneta-dlya-korporativnih-klientov__avtoprodlenie-interneta-na-korporativnih-tarifah::0002",
+      "mts_mobilnaya_svyaz/upravlenie-uslugami__kak-upravlyat-uslugami::0007",
+      "mts_mobilnyy_internet/prodlenie-interneta__avtoprodlenie-interneta::0002"
+    ],
+    "judge_model": "GigaChat-3-Ultra"
+  },
+  {
+    "id": "gs-009",
+    "query": "Подключал услугу через сайт, а теперь хочу убрать — через приложение можно?",
+    "product": "Мобильная связь",
+    "section": "Управление услугами",
+    "relevant_ids": [
+      "c202d78c-b934-5f29-837c-3eb06c620ff6",
+      "085c4cd5-210e-55e5-a5ac-da564bd2bec2",
+      "2eece30a-7797-5ca6-ba85-b2f9f3964ad5",
+      "6143450e-4ef0-5e1c-9155-c963794014ba",
+      "be673677-c961-54ec-b43a-b5e592a914c5",
+      "c1833378-b58f-56ca-afb6-3d52750db5eb",
+      "35cf76e6-64cb-53b1-834b-31559e9b0f3d"
+    ],
+    "source": "synthetic",
+    "verified": true,
+    "match_method": "auto_llm_judge",
+    "relevant_sources": [
+      "mobilnaya-svyaz-b2b/kak-upravlyat-korporativnimi-nomerami__kak-upravlyat-uslugami-na-korporativnom-nomere",
+      "mobilnaya-svyaz-b2b/reshenie-problem-so-svyazyu-i-internetom__kak-korporativnomu-klientu-otklyuchit-internet-na-telefone",
+      "mts_mobilnaya_svyaz/upravlenie-uslugami__kak-otklyuchit-dopolnitelnie-uslugi",
+      "mts_mobilnaya_svyaz/upravlenie-uslugami__kak-proverit-podklyuchennyye-uslugi",
+      "mts_mobilnaya_svyaz/upravlenie-uslugami__kak-upravlyat-uslugami",
+      "zadolzhennost/zadolzhennost__pochemu-u-menya-obrazovalas-zadolzhennost"
+    ],
+    "relevant_chunk_ids": [
+      "mts_mobilnaya_svyaz/upravlenie-uslugami__kak-upravlyat-uslugami::0000",
+      "mobilnaya-svyaz-b2b/kak-upravlyat-korporativnimi-nomerami__kak-upravlyat-uslugami-na-korporativnom-nomere::0007",
+      "mts_mobilnaya_svyaz/upravlenie-uslugami__kak-upravlyat-uslugami::0004",
+      "zadolzhennost/zadolzhennost__pochemu-u-menya-obrazovalas-zadolzhennost::0009",
+      "mts_mobilnaya_svyaz/upravlenie-uslugami__kak-proverit-podklyuchennyye-uslugi::0000",
+      "mts_mobilnaya_svyaz/upravlenie-uslugami__kak-otklyuchit-dopolnitelnie-uslugi::0000",
+      "mobilnaya-svyaz-b2b/reshenie-problem-so-svyazyu-i-internetom__kak-korporativnomu-klientu-otklyuchit-internet-na-telefone::0001"
+    ],
+    "judge_model": "GigaChat-3-Ultra"
+  },
+  {
+    "id": "gs-010",
+    "query": "Как поменять тариф, чтобы платить меньше, но не потерять нужные опции?",
+    "product": "Мобильная связь",
+    "section": "Смена тарифа",
+    "relevant_ids": [
+      "a2ac9567-ec7b-584b-9a35-09c7fda77eae",
+      "e04f6f0e-c87b-53c5-ad28-bb1ed52e73ad"
+    ],
+    "source": "synthetic",
+    "verified": true,
+    "match_method": "auto_llm_judge",
+    "relevant_sources": [
+      "mts_mobilnaya_svyaz/upravlenie-svoim-tarifom__kak-nastroit-svoi-tarif"
+    ],
+    "relevant_chunk_ids": [
+      "mts_mobilnaya_svyaz/upravlenie-svoim-tarifom__kak-nastroit-svoi-tarif::0002",
+      "mts_mobilnaya_svyaz/upravlenie-svoim-tarifom__kak-nastroit-svoi-tarif::0001"
+    ],
+    "judge_model": "GigaChat-3-Ultra"
+  },
+  {
+    "id": "gs-011",
+    "query": "Лечу в Турцию, что нужно сделать, чтобы там работал интернет?",
+    "product": "Роуминг",
+    "section": "Подключение в поездке",
+    "relevant_ids": [
+      "2d4bfaa7-e771-5f6d-94ef-ed5d664bfa2a",
+      "d148f507-090f-5297-9600-155f52e78422",
+      "255764da-1439-5224-9364-d0fd9ecfaf6f",
+      "ec7044aa-7dbb-558e-aca6-740bbb64d202"
+    ],
+    "source": "synthetic",
+    "verified": true,
+    "match_method": "auto_llm_judge",
+    "relevant_sources": [
+      "mts_mobilnyy_internet/reshenie-problem-s-internetom__chto-delat-esli-ne-rabotaet-mobilnii-internet",
+      "mts_rouming_i_mezhgorod/poezdki-po-miru__chto-delat-esli-za-granitsei-ne-rabotaet-svyaz-ili-internet",
+      "mts_rouming_i_mezhgorod/poezdki-po-miru__internet-v-rouminge",
+      "mts_rouming_i_mezhgorod/uslugi-dlya-ekonomii-v-poezdkah-po-miru__kak-rabotaet-usluga-za-granitsei"
+    ],
+    "relevant_chunk_ids": [
+      "mts_mobilnyy_internet/reshenie-problem-s-internetom__chto-delat-esli-ne-rabotaet-mobilnii-internet::0003",
+      "mts_rouming_i_mezhgorod/poezdki-po-miru__chto-delat-esli-za-granitsei-ne-rabotaet-svyaz-ili-internet::0000",
+      "mts_rouming_i_mezhgorod/uslugi-dlya-ekonomii-v-poezdkah-po-miru__kak-rabotaet-usluga-za-granitsei::0000",
+      "mts_rouming_i_mezhgorod/poezdki-po-miru__internet-v-rouminge::0001"
+    ],
+    "judge_model": "GigaChat-3-Ultra"
+  },
+  {
+    "id": "gs-012",
+    "query": "За границей не ловит сеть — какие настройки включить заранее?",
+    "product": "Роуминг",
+    "section": "Настройки роуминга",
+    "relevant_ids": [
+      "fe6a5576-c094-5f3d-b645-5911dbd52e3a",
+      "a2dd1c52-da1f-5bb0-b022-c2918175fc49"
+    ],
+    "source": "synthetic",
+    "verified": true,
+    "match_method": "auto_llm_judge",
+    "relevant_sources": [
+      "mts_rouming_i_mezhgorod/poezdki-po-miru__chto-delat-esli-za-granitsei-ne-rabotaet-svyaz-ili-internet"
+    ],
+    "relevant_chunk_ids": [
+      "mts_rouming_i_mezhgorod/poezdki-po-miru__chto-delat-esli-za-granitsei-ne-rabotaet-svyaz-ili-internet::0003",
+      "mts_rouming_i_mezhgorod/poezdki-po-miru__chto-delat-esli-za-granitsei-ne-rabotaet-svyaz-ili-internet::0002"
+    ],
+    "judge_model": "GigaChat-3-Ultra"
+  },
+  {
+    "id": "gs-013",
+    "query": "Есть ли бесплатный роуминг и как его активировать?",
+    "product": "Роуминг",
+    "section": "Бесплатный роуминг",
+    "relevant_ids": [
+      "c440e84f-df3c-5a8e-9f8b-f6ffd1020ba9",
+      "71a2eabe-77ce-55f6-ae37-7c54d9f674ba",
+      "294a01d1-48fa-51f0-86db-742f048675d6",
+      "435db2d5-c54d-519d-b2fb-b33fa803774f",
+      "b5fd8d40-1ef4-5a0d-a0ab-1353e159b6d0",
+      "ede518cd-3520-5fc6-8abc-2a40583140c0"
+    ],
+    "source": "synthetic",
+    "verified": true,
+    "match_method": "auto_llm_judge",
+    "relevant_sources": [
+      "mts_rouming_i_mezhgorod/poezdki-po-miru__kak-podklyuchit-uslugi-dlya-dostupa-k-svyazi-i-internetu-v-rouminge",
+      "mts_rouming_i_mezhgorod/svyaz-i-internet-v-populyarnih-stranah__kak-podgotovitsya-k-poezdke-v-gruziyu",
+      "mts_rouming_i_mezhgorod/svyaz-i-internet-v-populyarnih-stranah__kak-podgotovitsya-k-poezdke-v-kazahstan",
+      "mts_rouming_i_mezhgorod/svyaz-i-internet-v-populyarnih-stranah__kak-podgotovitsya-k-poezdke-v-kitai",
+      "mts_rouming_i_mezhgorod/svyaz-i-internet-v-populyarnih-stranah__kak-podgotovitsya-k-poyezdke-v-abkhaziyu",
+      "mts_rouming_i_mezhgorod/svyaz-i-internet-v-populyarnih-stranah__kak-podgotovitsya-k-poyezdke-v-turtsiyu",
+      "mts_rouming_i_mezhgorod/uslugi-dlya-ekonomii-v-poezdkah-po-miru__kakie-podklyuchit-uslugi-dlya-ekonomii-v-rouminge",
+      "mts_rouming_i_mezhgorod/uslugi-dlya-ekonomii-v-poezdkah-po-miru__rouming-rezhim-layt-kak-poluchit-bezlimitnyye-zvonki-i-besplatnyy-internet-v-rouminge"
+    ],
+    "relevant_chunk_ids": [
+      "mts_rouming_i_mezhgorod/uslugi-dlya-ekonomii-v-poezdkah-po-miru__rouming-rezhim-layt-kak-poluchit-bezlimitnyye-zvonki-i-besplatnyy-internet-v-rouminge::0000",
+      "mts_rouming_i_mezhgorod/svyaz-i-internet-v-populyarnih-stranah__kak-podgotovitsya-k-poezdke-v-gruziyu::0001",
+      "mts_rouming_i_mezhgorod/svyaz-i-internet-v-populyarnih-stranah__kak-podgotovitsya-k-poyezdke-v-abkhaziyu::0006",
+      "mts_rouming_i_mezhgorod/svyaz-i-internet-v-populyarnih-stranah__kak-podgotovitsya-k-poyezdke-v-abkhaziyu::0001",
+      "mts_rouming_i_mezhgorod/uslugi-dlya-ekonomii-v-poezdkah-po-miru__kakie-podklyuchit-uslugi-dlya-ekonomii-v-rouminge::0000",
+      "mts_rouming_i_mezhgorod/poezdki-po-miru__kak-podklyuchit-uslugi-dlya-dostupa-k-svyazi-i-internetu-v-rouminge::0000"
+    ],
+    "judge_model": "GigaChat-3-Ultra"
+  },
+  {
+    "id": "gs-014",
+    "query": "Боюсь больших счетов в поездке — как ограничить расходы на связь?",
+    "product": "Роуминг",
+    "section": "Контроль расходов",
+    "relevant_ids": [
+      "4896af59-8ec3-505c-82e8-05a8da16db50",
+      "42bb8667-b36f-5b9c-9170-105d5f9714d2",
+      "835a7047-a517-57fa-a0ec-f05624220a6a",
+      "ef2fe611-0b8a-5277-8ae5-76f6e33016e7",
+      "3053854c-a8a7-5c67-b574-ac9dfa3615a2",
+      "f7ffcbdb-90bd-56f6-871d-593e1fae3139",
+      "8a08c2ab-b7e7-5d7c-bc46-8e9d58d7fb33"
+    ],
+    "source": "synthetic",
+    "verified": true,
+    "match_method": "auto_llm_judge",
+    "relevant_sources": [
+      "mobilnaya-svyaz-b2b/rouming-dlya-korporativnih-klientov__kak-podgotovitsya-k-poezdkam-po-rossii-i-miru",
+      "mobilnaya-svyaz-b2b/rouming-dlya-korporativnih-klientov__kak-snizit-rahodi-na-svyaz-i-internet-v-rouminge-korporativnim-klientam",
+      "mts_rouming_i_mezhgorod/poezdki-po-miru__internet-v-rouminge",
+      "mts_rouming_i_mezhgorod/poezdki-po-miru__kak-podgotovitsya-k-poezdke-v-druguyu-stranu",
+      "mts_rouming_i_mezhgorod/poezdki-po-miru__zvonki-v-rouminge"
+    ],
+    "relevant_chunk_ids": [
+      "mobilnaya-svyaz-b2b/rouming-dlya-korporativnih-klientov__kak-snizit-rahodi-na-svyaz-i-internet-v-rouminge-korporativnim-klientam::0000",
+      "mts_rouming_i_mezhgorod/poezdki-po-miru__internet-v-rouminge::0004",
+      "mts_rouming_i_mezhgorod/poezdki-po-miru__kak-podgotovitsya-k-poezdke-v-druguyu-stranu::0002",
+      "mts_rouming_i_mezhgorod/poezdki-po-miru__internet-v-rouminge::0002",
+      "mts_rouming_i_mezhgorod/poezdki-po-miru__kak-podgotovitsya-k-poezdke-v-druguyu-stranu::0004",
+      "mobilnaya-svyaz-b2b/rouming-dlya-korporativnih-klientov__kak-podgotovitsya-k-poezdkam-po-rossii-i-miru::0002",
+      "mts_rouming_i_mezhgorod/poezdki-po-miru__zvonki-v-rouminge::0001"
+    ],
+    "judge_model": "GigaChat-3-Ultra"
+  },
+  {
+    "id": "gs-015",
+    "query": "Надо звонить в Россию из-за границы — какие условия и как подключить?",
+    "product": "Роуминг",
+    "section": "Звонки из-за границы",
+    "relevant_ids": [
+      "337305bc-1824-5964-8ab0-34f06c285fe4"
+    ],
+    "source": "synthetic",
+    "verified": true,
+    "match_method": "auto_llm_judge",
+    "relevant_sources": [
+      "mts_rouming_i_mezhgorod/uslugi-dlya-ekonomii-v-poezdkah-po-miru__kakie-podklyuchit-uslugi-dlya-ekonomii-v-rouminge"
+    ],
+    "relevant_chunk_ids": [
+      "mts_rouming_i_mezhgorod/uslugi-dlya-ekonomii-v-poezdkah-po-miru__kakie-podklyuchit-uslugi-dlya-ekonomii-v-rouminge::0003"
+    ],
+    "judge_model": "GigaChat-3-Ultra"
+  },
+  {
+    "id": "gs-016",
+    "query": "Пропала связь, но перезагрузка телефона не помогает — что ещё можно сделать?",
+    "product": "Приложение Мой МТС",
+    "section": "Диагностика связи",
+    "relevant_ids": [
+      "b4394b00-3df2-557a-a534-5e3481cc59da",
+      "07d856d9-b683-5531-947c-496d227f31c5"
+    ],
+    "source": "synthetic",
+    "verified": true,
+    "match_method": "auto_llm_judge",
+    "relevant_sources": [
+      "mts_mobilnaya_svyaz/blokirovka-nomera-problemi-so-svyazyu__chto-delat-pri-problemah-so-svyazyu",
+      "mts_rouming_i_mezhgorod/poezdki-po-miru__chto-delat-esli-za-granitsei-ne-rabotaet-svyaz-ili-internet"
+    ],
+    "relevant_chunk_ids": [
+      "mts_rouming_i_mezhgorod/poezdki-po-miru__chto-delat-esli-za-granitsei-ne-rabotaet-svyaz-ili-internet::0001",
+      "mts_mobilnaya_svyaz/blokirovka-nomera-problemi-so-svyazyu__chto-delat-pri-problemah-so-svyazyu::0003"
+    ],
+    "judge_model": "GigaChat-3-Ultra"
+  },
+  {
+    "id": "gs-017",
+    "query": "Интернет работает, а звонки не проходят — как проверить, в чём дело?",
+    "product": "Приложение Мой МТС",
+    "section": "Диагностика связи",
+    "relevant_ids": [
+      "6da45679-a373-516f-b99b-39fdc078478c",
+      "41c1ac49-b946-5ea1-b993-ec8af141c165"
+    ],
+    "source": "synthetic",
+    "verified": true,
+    "match_method": "auto_llm_judge",
+    "relevant_sources": [
+      "mts_mobilnaya_svyaz/blokirovka-nomera-problemi-so-svyazyu__chto-delat-pri-problemah-so-svyazyu"
+    ],
+    "relevant_chunk_ids": [
+      "mts_mobilnaya_svyaz/blokirovka-nomera-problemi-so-svyazyu__chto-delat-pri-problemah-so-svyazyu::0000",
+      "mts_mobilnaya_svyaz/blokirovka-nomera-problemi-so-svyazyu__chto-delat-pri-problemah-so-svyazyu::0004"
+    ],
+    "judge_model": "GigaChat-3-Ultra"
+  },
+  {
+    "id": "gs-018",
+    "query": "Слышал, что в приложении есть какая-то проверка сети — как ей воспользоваться?",
+    "product": "Приложение Мой МТС",
+    "section": "Диагностика связи",
+    "relevant_ids": [
+      "d30f103b-a9df-55ed-946c-4f64861d6683",
+      "3bcc19bb-055c-5124-9f3b-06c00b65d28a",
+      "31bfbd3d-055a-5c73-9f9f-104c9b8e507f",
+      "1d945284-14be-5693-bfa7-bdd9b112e95c"
+    ],
+    "source": "synthetic",
+    "verified": true,
+    "match_method": "auto_llm_judge",
+    "relevant_sources": [
+      "mobilnaya-svyaz-b2b/reshenie-problem-so-svyazyu-i-internetom__chto-delat-pri-nizkoi-skorosti-mobilnogo-interneta-na-korporativnom-nomere",
+      "mts_mobilnyy_internet/reshenie-problem-s-internetom__chto-delat-esli-ne-rabotaet-mobilnii-internet",
+      "mts_mobilnyy_internet/reshenie-problem-s-internetom__chto-delat-esli-nizkaya-skorost-mobilnogo-interneta",
+      "vozmozhnosti_moi_mts/vozmozhnosti-moi-mts__prilozhenie-moi-mts--vhod-vozmozhnosti-podderzhka"
+    ],
+    "relevant_chunk_ids": [
+      "mts_mobilnyy_internet/reshenie-problem-s-internetom__chto-delat-esli-ne-rabotaet-mobilnii-internet::0000",
+      "mts_mobilnyy_internet/reshenie-problem-s-internetom__chto-delat-esli-nizkaya-skorost-mobilnogo-interneta::0000",
+      "mobilnaya-svyaz-b2b/reshenie-problem-so-svyazyu-i-internetom__chto-delat-pri-nizkoi-skorosti-mobilnogo-interneta-na-korporativnom-nomere::0000",
+      "vozmozhnosti_moi_mts/vozmozhnosti-moi-mts__prilozhenie-moi-mts--vhod-vozmozhnosti-podderzhka::0008"
+    ],
+    "judge_model": "GigaChat-3-Ultra"
+  },
+  {
+    "id": "gs-019",
+    "query": "Не могу зайти в приложение — пишет, что номер не привязан",
+    "product": "Приложение Мой МТС",
+    "section": "Вход и авторизация",
+    "relevant_ids": [
+      "87607a8b-0092-5729-bf98-9579b398f06e",
+      "262e8152-2d9b-5ea7-a2bd-d7d78965409a"
+    ],
+    "source": "synthetic",
+    "verified": true,
+    "match_method": "auto_llm_judge",
+    "relevant_sources": [
+      "akkaunt_v_servise_mts_dengi/vhod-v-servisi-mts-dengi__chto-delat-esli-ne-poluchaetsya-voiti-v-prilozhenie-mts-dengi-ili-lichnii-kabinet-mts-dengi",
+      "moi_akkaunt_v_mts_banke/vhod-v-servisi-mts-banka__chto-delat-esli-ne-poluchaetsya-voiti-v-prilozhenie-mts-banka-ili-lichnii-kabinet-mts-banka"
+    ],
+    "relevant_chunk_ids": [
+      "moi_akkaunt_v_mts_banke/vhod-v-servisi-mts-banka__chto-delat-esli-ne-poluchaetsya-voiti-v-prilozhenie-mts-banka-ili-lichnii-kabinet-mts-banka::0008",
+      "akkaunt_v_servise_mts_dengi/vhod-v-servisi-mts-dengi__chto-delat-esli-ne-poluchaetsya-voiti-v-prilozhenie-mts-dengi-ili-lichnii-kabinet-mts-dengi::0008"
+    ],
+    "judge_model": "GigaChat-3-Ultra"
+  },
+  {
+    "id": "gs-020",
+    "query": "Как написать в поддержку через приложение, если не дозвониться?",
+    "product": "Приложение Мой МТС",
+    "section": "Чат поддержки",
+    "relevant_ids": [
+      "f7c2dc32-d459-55b9-8b02-1f537f532b0b",
+      "8338f564-0ca1-5b6f-893c-a70b739cdc1b"
+    ],
+    "source": "synthetic",
+    "verified": true,
+    "match_method": "auto_llm_judge",
+    "relevant_sources": [
+      "invetitsii/bpif--birzhevie-paevie-investitsionnie-fondi__chto-takoye-bpif",
+      "invetitsii/pif--paevie-investitsionnie-fondi__chto-takoye-pif"
+    ],
+    "relevant_chunk_ids": [
+      "invetitsii/bpif--birzhevie-paevie-investitsionnie-fondi__chto-takoye-bpif::0001",
+      "invetitsii/pif--paevie-investitsionnie-fondi__chto-takoye-pif::0004"
+    ],
+    "judge_model": "GigaChat-3-Ultra"
+  },
+  {
+    "id": "gs-021",
+    "query": "У меня списывают 399 рублей за какую-то подписку — как её убрать?",
+    "product": "Подписки и экосистема",
+    "section": "МТС Premium",
+    "relevant_ids": [
+      "59830e21-aeb2-5909-8454-961a230f5e38",
+      "c1833378-b58f-56ca-afb6-3d52750db5eb",
+      "dc4383db-4c9f-5808-8e00-be954dc9cb1e"
+    ],
+    "source": "synthetic",
+    "verified": true,
+    "match_method": "auto_llm_judge",
+    "relevant_sources": [
+      "kion/podpiski-v-kion__skolko-stoit-podpiska-kion-top-i-chto-v-neye-vkhodit",
+      "kion_stroki/vidi-i-opisanie-podpisok__chto-vklyuchayet-v-sebya-podpiska-kion-top",
+      "mts_mobilnaya_svyaz/upravlenie-uslugami__kak-otklyuchit-dopolnitelnie-uslugi"
+    ],
+    "relevant_chunk_ids": [
+      "kion_stroki/vidi-i-opisanie-podpisok__chto-vklyuchayet-v-sebya-podpiska-kion-top::0000",
+      "mts_mobilnaya_svyaz/upravlenie-uslugami__kak-otklyuchit-dopolnitelnie-uslugi::0000",
+      "kion/podpiski-v-kion__skolko-stoit-podpiska-kion-top-i-chto-v-neye-vkhodit::0000"
+    ],
+    "judge_model": "GigaChat-3-Ultra"
+  },
+  {
+    "id": "gs-022",
+    "query": "В тарифе написано, что входит кинотеатр, но я не могу смотреть фильмы — почему?",
+    "product": "Подписки и экосистема",
+    "section": "KION",
+    "relevant_ids": [
+      "298bc61c-1a41-5661-9d29-5c9c039bb252",
+      "95adab11-9c11-55d4-8f43-0c50755e8cef"
+    ],
+    "source": "synthetic",
+    "verified": true,
+    "match_method": "auto_llm_judge",
+    "relevant_sources": [
+      "kion/ispravlenie-sboev-v-rabote-kion__chto-delat-esli-podpiska-est-no-kontent-na-kion-nedostupen",
+      "kion/podpiski-v-kion__kion-v-tarifah-mts"
+    ],
+    "relevant_chunk_ids": [
+      "kion/ispravlenie-sboev-v-rabote-kion__chto-delat-esli-podpiska-est-no-kontent-na-kion-nedostupen::0000",
+      "kion/podpiski-v-kion__kion-v-tarifah-mts::0000"
+    ],
+    "judge_model": "GigaChat-3-Ultra"
+  },
+  {
+    "id": "gs-023",
+    "query": "Хочу отказаться от подписки на фильмы, но боюсь, что отключится и что-то нужное",
+    "product": "Подписки и экосистема",
+    "section": "KION",
+    "relevant_ids": null,
+    "source": "synthetic",
+    "verified": false,
+    "match_method": "needs_manual_review",
+    "relevant_sources": null,
+    "relevant_chunk_ids": null
+  },
+  {
+    "id": "gs-024",
+    "query": "Что входит в подписку помимо связи и стоит ли она своих денег?",
+    "product": "Подписки и экосистема",
+    "section": "МТС Premium",
+    "relevant_ids": [
+      "d26d064e-d5f9-5e31-a4e7-39fbbf3b9408",
+      "59830e21-aeb2-5909-8454-961a230f5e38"
+    ],
+    "source": "synthetic",
+    "verified": true,
+    "match_method": "auto_llm_judge",
+    "relevant_sources": [
+      "kion_stroki/vidi-i-opisanie-podpisok__chto-vklyuchayet-v-sebya-podpiska-kion-top",
+      "mts-premium/o-podpiske-mts-premium__chto-takoe-mts-premium"
+    ],
+    "relevant_chunk_ids": [
+      "mts-premium/o-podpiske-mts-premium__chto-takoe-mts-premium::0001",
+      "kion_stroki/vidi-i-opisanie-podpisok__chto-vklyuchayet-v-sebya-podpiska-kion-top::0000"
+    ],
+    "judge_model": "GigaChat-3-Ultra"
+  },
+  {
+    "id": "gs-025",
+    "query": "Можно ли пользоваться подпиской с другого номера, не с того, к которому она привязана?",
+    "product": "Подписки и экосистема",
+    "section": "МТС Premium",
+    "relevant_ids": [
+      "e274a657-f691-58c1-a901-f7b646fc62c6"
+    ],
+    "source": "synthetic",
+    "verified": true,
+    "match_method": "auto_llm_judge",
+    "relevant_sources": [
+      "kion/upravlenie-podpiskoi-i-aktivatsiya-promokoda__chto-delat-yesli-ne-poluchayetsya-aktivirovat-promokod-kion"
+    ],
+    "relevant_chunk_ids": [
+      "kion/upravlenie-podpiskoi-i-aktivatsiya-promokoda__chto-delat-yesli-ne-poluchayetsya-aktivirovat-promokod-kion::0000"
+    ],
+    "judge_model": "GigaChat-3-Ultra"
+  },
+  {
+    "id": "gs-026",
+    "query": "Хочу подключить интернет и телевидение в новую квартиру — с чего начать?",
+    "product": "Домашний интернет и ТВ",
+    "section": "Подключение",
+    "relevant_ids": [
+      "8334bfda-f33d-579f-8353-73894de3af94"
+    ],
+    "source": "synthetic",
+    "verified": true,
+    "match_method": "auto_llm_judge",
+    "relevant_sources": [
+      "domashnii_internet_i_tv/podklyuchenie-domashnego-interneta-i-tv__kak-podklyuchit-domashnii-internet-i-tv",
+      "domashnii_internet_i_tv/podklyuchenie-domashnego-interneta-i-tv__kak-podklyuchit-domashnii-internet-i-tv-msk"
+    ],
+    "relevant_chunk_ids": [
+      "domashnii_internet_i_tv/podklyuchenie-domashnego-interneta-i-tv__kak-podklyuchit-domashnii-internet-i-tv-msk::0000"
+    ],
+    "judge_model": "GigaChat-3-Ultra"
+  },
+  {
+    "id": "gs-027",
+    "query": "Сколько каналов входит в базовый тариф и можно ли добавить свои?",
+    "product": "Домашний интернет и ТВ",
+    "section": "Тарифы и каналы",
+    "relevant_ids": null,
+    "source": "synthetic",
+    "verified": false,
+    "match_method": "needs_manual_review",
+    "relevant_sources": null,
+    "relevant_chunk_ids": null
+  },
+  {
+    "id": "gs-028",
+    "query": "Можно ли объединить домашний интернет и мобильную связь в один счёт?",
+    "product": "Домашний интернет и ТВ",
+    "section": "Объединение услуг",
+    "relevant_ids": [
+      "eb0d56cd-127d-5f4d-a439-ed686b25ea79",
+      "00f5e3fb-48eb-5294-8719-9fd0d04092db",
+      "a75e03d2-55b2-5a4b-95f7-f2b8bf85e7cf"
+    ],
+    "source": "synthetic",
+    "verified": true,
+    "match_method": "auto_llm_judge",
+    "relevant_sources": [
+      "domashnii_internet_i_tv/podklyuchenie-domashnego-interneta-i-tv__kak-obedinit-domashnii-internet-tv-i-mobilnuyu-svyaz-v-odin-tarif-chat",
+      "domashnii_internet_i_tv/podklyuchenie-domashnego-interneta-i-tv__kak-podklyuchit-uslugi-esli-vi-uzhe-klient-mts-chat",
+      "domashnii_internet_i_tv/podklyuchenie-domashnego-interneta-i-tv__kak-podklyuchit-uslugi-esli-vi-uzhe-klient-mts-msk",
+      "domashnii_internet_i_tv/tarif-i-uslugi__kakiye-tarify-na-domashniy-internet-i-tv-yest-v-mts"
+    ],
+    "relevant_chunk_ids": [
+      "domashnii_internet_i_tv/podklyuchenie-domashnego-interneta-i-tv__kak-obedinit-domashnii-internet-tv-i-mobilnuyu-svyaz-v-odin-tarif-chat::0000",
+      "domashnii_internet_i_tv/podklyuchenie-domashnego-interneta-i-tv__kak-podklyuchit-uslugi-esli-vi-uzhe-klient-mts-chat::0000",
+      "domashnii_internet_i_tv/tarif-i-uslugi__kakiye-tarify-na-domashniy-internet-i-tv-yest-v-mts::0000"
+    ],
+    "judge_model": "GigaChat-3-Ultra"
+  },
+  {
+    "id": "gs-029",
+    "query": "Телевизор тормозит, каналы не переключаются — это проблема приставки или сети?",
+    "product": "Домашний интернет и ТВ",
+    "section": "Диагностика ТВ",
+    "relevant_ids": null,
+    "source": "synthetic",
+    "verified": false,
+    "match_method": "needs_manual_review",
+    "relevant_sources": null,
+    "relevant_chunk_ids": null
+  },
+  {
+    "id": "gs-030",
+    "query": "Скорость интернета ниже заявленной — как это проверить и куда жаловаться?",
+    "product": "Домашний интернет и ТВ",
+    "section": "Скорость и качество",
+    "relevant_ids": [
+      "7c4f320e-a834-542c-b424-51735c8e6214",
+      "3bcc19bb-055c-5124-9f3b-06c00b65d28a",
+      "b84349ea-7704-58db-bfec-911218f3296b"
+    ],
+    "source": "synthetic",
+    "verified": true,
+    "match_method": "auto_llm_judge",
+    "relevant_sources": [
+      "domashnii_internet_i_tv/ne-rabotaet-domashnii-internet__chto-delat-pri-nizkoi-skorosti-domashnego-interneta-chat",
+      "domashnii_internet_i_tv/ne-rabotaet-domashnii-internet__chto-delat-pri-nizkoi-skorosti-domashnego-interneta-chat-msk",
+      "mts_fiksirovannaya_svyaz/nastroika-i-diagnostika-provodnogo-interneta-ili-telefonii-dlya-biznesa__chto-delat-esli-ne-rabotaet-provodnoi-internet-dlya-biznesa",
+      "mts_mobilnyy_internet/reshenie-problem-s-internetom__chto-delat-esli-nizkaya-skorost-mobilnogo-interneta"
+    ],
+    "relevant_chunk_ids": [
+      "domashnii_internet_i_tv/ne-rabotaet-domashnii-internet__chto-delat-pri-nizkoi-skorosti-domashnego-interneta-chat-msk::0004",
+      "mts_mobilnyy_internet/reshenie-problem-s-internetom__chto-delat-esli-nizkaya-skorost-mobilnogo-interneta::0000",
+      "mts_fiksirovannaya_svyaz/nastroika-i-diagnostika-provodnogo-interneta-ili-telefonii-dlya-biznesa__chto-delat-esli-ne-rabotaet-provodnoi-internet-dlya-biznesa::0003"
+    ],
+    "judge_model": "GigaChat-3-Ultra"
+  },
+  {
+    "id": "gs-031",
+    "query": "Брал роутер в рассрочку, теперь хочу вернуть — что для этого нужно?",
+    "product": "Оборудование",
+    "section": "Возврат оборудования",
+    "relevant_ids": [
+      "6a400b77-0cb2-50ec-a6a6-b4f0c39a528c"
+    ],
+    "source": "synthetic",
+    "verified": true,
+    "match_method": "auto_llm_judge",
+    "relevant_sources": [
+      "domashnii_internet_i_tv/oborudovanie__arenda-oborudovaniya-chat",
+      "domashnii_internet_i_tv/oborudovanie__arenda-oborudovaniya-msk"
+    ],
+    "relevant_chunk_ids": [
+      "domashnii_internet_i_tv/oborudovanie__arenda-oborudovaniya-chat::0004"
+    ],
+    "judge_model": "GigaChat-3-Ultra"
+  },
+  {
+    "id": "gs-032",
+    "query": "Сломался роутер, который я арендую у вас — кто чинит и за чей счёт?",
+    "product": "Оборудование",
+    "section": "Аренда и ремонт",
+    "relevant_ids": [
+      "e803bd53-cb41-58cc-8435-287082940fec"
+    ],
+    "source": "synthetic",
+    "verified": true,
+    "match_method": "auto_llm_judge",
+    "relevant_sources": [
+      "domashnii_internet_i_tv/oborudovanie__garantiya-i-zamena-oborudovaniya-chat",
+      "domashnii_internet_i_tv/oborudovanie__garantiya-i-zamena-oborudovaniya-msk"
+    ],
+    "relevant_chunk_ids": [
+      "domashnii_internet_i_tv/oborudovanie__garantiya-i-zamena-oborudovaniya-chat::0000"
+    ],
+    "judge_model": "GigaChat-3-Ultra"
+  },
+  {
+    "id": "gs-033",
+    "query": "Хочу заменить старую приставку на новую — можно ли обменять по гарантии?",
+    "product": "Оборудование",
+    "section": "Гарантия и замена",
+    "relevant_ids": [
+      "63fbf6f3-2cfe-5bb3-b530-951cc66b6fae",
+      "fed67633-f038-5433-893a-20c5e3e5e2bb",
+      "510d60d9-fad8-5325-bbc0-291cd08a92ec",
+      "859a920d-9437-5c89-a996-4a439bae625a",
+      "301c0dbe-98f6-52d5-8d99-84e19c937f8b",
+      "7803cf52-9cd1-5f1e-a22d-699b7b54985d"
+    ],
+    "source": "synthetic",
+    "verified": true,
+    "match_method": "auto_llm_judge",
+    "relevant_sources": [
+      "domashnii_internet_i_tv/oborudovanie__rukovodstvo-po-ekspluatatsii-tv-pristavok-i-cam-modulei",
+      "domashnii_internet_i_tv/oborudovanie__rukovodstvo-po-ekspluatatsii-tv-pristavok-msk",
+      "kion/garantiya-na-pristavki-kion__garantiya-i-servisnoye-obsluzhivaniye-pristavok-kion",
+      "mts_mts_internet_magazin/vozvrat-tovara-remont-i-garantiya__kak-vernut-tovar-po-garantii",
+      "mts_stv/garantiya-i-servisnoe-obsluzhivanie__garantiya-i-servisnoe-obsluzhivanie"
+    ],
+    "relevant_chunk_ids": [
+      "kion/garantiya-na-pristavki-kion__garantiya-i-servisnoye-obsluzhivaniye-pristavok-kion::0000",
+      "mts_stv/garantiya-i-servisnoe-obsluzhivanie__garantiya-i-servisnoe-obsluzhivanie::0002",
+      "kion/garantiya-na-pristavki-kion__garantiya-i-servisnoye-obsluzhivaniye-pristavok-kion::0001",
+      "domashnii_internet_i_tv/oborudovanie__rukovodstvo-po-ekspluatatsii-tv-pristavok-i-cam-modulei::0032",
+      "domashnii_internet_i_tv/oborudovanie__rukovodstvo-po-ekspluatatsii-tv-pristavok-i-cam-modulei::0033",
+      "mts_mts_internet_magazin/vozvrat-tovara-remont-i-garantiya__kak-vernut-tovar-po-garantii::0002"
+    ],
+    "judge_model": "GigaChat-3-Ultra"
+  },
+  {
+    "id": "gs-034",
+    "query": "После переезда пропал интернет, потому что остался старый роутер — что делать?",
+    "product": "Оборудование",
+    "section": "Переезд и переустановка",
+    "relevant_ids": null,
+    "source": "synthetic",
+    "verified": false,
+    "match_method": "needs_manual_review",
+    "relevant_sources": null,
+    "relevant_chunk_ids": null
+  },
+  {
+    "id": "gs-035",
+    "query": "Сколько стоит аренда роутера и можно ли вместо неё купить свой?",
+    "product": "Оборудование",
+    "section": "Аренда оборудования",
+    "relevant_ids": null,
+    "source": "synthetic",
+    "verified": false,
+    "match_method": "needs_manual_review",
+    "relevant_sources": null,
+    "relevant_chunk_ids": null
+  },
+  {
+    "id": "gs-036",
+    "query": "Не дозвониться до поддержки — какие ещё есть способы связаться?",
+    "product": "Поддержка",
+    "section": "Каналы связи",
+    "relevant_ids": [
+      "a9282d10-583d-5e6e-859e-fa5f9a374788",
+      "4b209e4e-6e20-52bb-a263-a8e88c7f02c0"
+    ],
+    "source": "synthetic",
+    "verified": true,
+    "match_method": "auto_llm_judge",
+    "relevant_sources": [
+      "mts_domashniy_telefon/kak-ustranit-nepoladki__ne-rabotaet-domashnii-telefon",
+      "mts_domashniy_telefon/kak-ustranit-nepoladki__ne-rabotaet-domashnii-telefon-rf",
+      "mts_domofon_dlya_yuridicheskih_lits/voprosi__chto-delat-esli-sip-registratsiya-domofonnoi-paneli-nedostupna"
+    ],
+    "relevant_chunk_ids": [
+      "mts_domashniy_telefon/kak-ustranit-nepoladki__ne-rabotaet-domashnii-telefon-rf::0000",
+      "mts_domofon_dlya_yuridicheskih_lits/voprosi__chto-delat-esli-sip-registratsiya-domofonnoi-paneli-nedostupna::0009"
+    ],
+    "judge_model": "GigaChat-3-Ultra"
+  },
+  {
+    "id": "gs-037",
+    "query": "Сколько ждать ответа, если я отправил заявку через приложение?",
+    "product": "Поддержка",
+    "section": "Сроки ответа",
+    "relevant_ids": [
+      "dd3ed5f9-e6da-5097-a306-cfe47926b3e3"
+    ],
+    "source": "synthetic",
+    "verified": true,
+    "match_method": "auto_llm_judge",
+    "relevant_sources": [
+      "krediti_i_ipoteka/otkritie-i-zakritie-kredita__kak-uznat-reshenie-po-zayavke-na-kredit",
+      "krediti_i_rassrochka_mts_dengi/otkritie-i-zakritie-kredita__kak-uznat-reshenie-po-zayavke-na-kredit"
+    ],
+    "relevant_chunk_ids": [
+      "krediti_i_ipoteka/otkritie-i-zakritie-kredita__kak-uznat-reshenie-po-zayavke-na-kredit::0000"
+    ],
+    "judge_model": "GigaChat-3-Ultra"
+  },
+  {
+    "id": "gs-038",
+    "query": "Заказал симку с доставкой, а курьер не пришёл — куда обращаться?",
+    "product": "Поддержка",
+    "section": "Доставка заказов",
+    "relevant_ids": [
+      "1efa30b1-1b4b-59e8-87e9-eb3c18a7546e",
+      "c62574f2-9586-5bd6-b053-cbd095fffb75"
+    ],
+    "source": "synthetic",
+    "verified": true,
+    "match_method": "auto_llm_judge",
+    "relevant_sources": [
+      "karti/oformlenie-perevipusk-i-zakritie-karti__kak-otsledit-dostavku-karti-mts-banka",
+      "karti_mts_dengi/oformlenie-perevipusk-i-zakritie-karti__kak-otsledit-dostavku-karti-mts-dengi",
+      "mts_mts_internet_magazin/oformlenie-status-i-poluchenie-zakaza__resheniye-problem-s-zakazom"
+    ],
+    "relevant_chunk_ids": [
+      "mts_mts_internet_magazin/oformlenie-status-i-poluchenie-zakaza__resheniye-problem-s-zakazom::0001",
+      "karti/oformlenie-perevipusk-i-zakritie-karti__kak-otsledit-dostavku-karti-mts-banka::0005"
+    ],
+    "judge_model": "GigaChat-3-Ultra"
+  },
+  {
+    "id": "gs-039",
+    "query": "Хочу пожаловаться на качество связи в моём районе — как это правильно сделать?",
+    "product": "Поддержка",
+    "section": "Обращения и жалобы",
+    "relevant_ids": null,
+    "source": "synthetic",
+    "verified": false,
+    "match_method": "needs_manual_review",
+    "relevant_sources": null,
+    "relevant_chunk_ids": null
+  },
+  {
+    "id": "gs-040",
+    "query": "Потерял телефон с симкой — как быстро заблокировать номер и восстановить?",
+    "product": "Поддержка",
+    "section": "Блокировка и восстановление",
+    "relevant_ids": [
+      "dec9e3b4-3c82-55aa-bab5-8977bc956f31",
+      "3beb3c31-89a7-5f91-8911-89ac3879f1bc",
+      "410a244b-748d-5c4f-8a02-7d6f7ca7a1f1",
+      "46d0d4da-cffa-5981-a9e6-a9e0090ac54c",
+      "1a555c7a-8e61-51a0-9886-917f444b28f2",
+      "7f386e7e-5d7f-5692-8b19-2c0cd9ddeaa4"
+    ],
+    "source": "synthetic",
+    "verified": true,
+    "match_method": "auto_llm_judge",
+    "relevant_sources": [
+      "mobilnaya-svyaz-b2b/esim__chto-delat-korporativnomu-klientu-esli-poteryalsya-qr-kod-ot-esim-ili-telefon-s-esim",
+      "mts_mobilnaya_svyaz/blokirovka-nomera-problemi-so-svyazyu__dobrovolnaya-blokirovka-nomera",
+      "mts_mobilnaya_svyaz/esim__chto-delat-esli-poteryalsya-qr-kod-ot-esim-ili-telefon-s-esim",
+      "mts_mobilnaya_svyaz/vosstanovlenie-i-zamena-sim-karti__chto-delat-esli-poteryalas-sim-karta"
+    ],
+    "relevant_chunk_ids": [
+      "mts_mobilnaya_svyaz/vosstanovlenie-i-zamena-sim-karti__chto-delat-esli-poteryalas-sim-karta::0001",
+      "mts_mobilnaya_svyaz/blokirovka-nomera-problemi-so-svyazyu__dobrovolnaya-blokirovka-nomera::0007",
+      "mts_mobilnaya_svyaz/esim__chto-delat-esli-poteryalsya-qr-kod-ot-esim-ili-telefon-s-esim::0000",
+      "mts_mobilnaya_svyaz/blokirovka-nomera-problemi-so-svyazyu__dobrovolnaya-blokirovka-nomera::0002",
+      "mobilnaya-svyaz-b2b/esim__chto-delat-korporativnomu-klientu-esli-poteryalsya-qr-kod-ot-esim-ili-telefon-s-esim::0001",
+      "mts_mobilnaya_svyaz/blokirovka-nomera-problemi-so-svyazyu__dobrovolnaya-blokirovka-nomera::0006"
+    ],
+    "judge_model": "GigaChat-3-Ultra"
+  }
+]

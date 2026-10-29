@@ -1,0 +1,15 @@
+data/raw/
+.env
+__pycache__/
+*.egg-info/
+
+.env
+.opencode/
+models/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.log
+qdrant_storage/
